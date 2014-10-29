@@ -1,0 +1,4001 @@
+id,first_name,last_name,Class Level,Course
+1,Deborah,Simpson,Senior,COMP 182
+1,Deborah,Simpson,Senior,CIT 101 Lab
+2,Alan,Palmer,Junior,COMP 182 Lab
+2,Alan,Palmer,Junior,COMP 182
+3,James,Schmidt,Junior,CIT 101
+3,James,Schmidt,Junior,COMP 182 Lab
+4,Jesse,Gardner,Senior,CIT 101 Lab
+4,Jesse,Gardner,Senior,CIT 101
+5,Mary,Ross,Freshman,COMP 182
+5,Mary,Ross,Freshman,CIT 101 Lab
+6,Brandon,Greene,Sophomore,COMP 182 Lab
+6,Brandon,Greene,Sophomore,COMP 182
+7,Terry,Evans,Senior,CIT 101
+7,Terry,Evans,Senior,COMP 182 Lab
+8,Janice,Robertson,Junior,CIT 101 Lab
+8,Janice,Robertson,Junior,CIT 101
+9,Juan,Berry,Sophomore,COMP 182
+9,Juan,Berry,Sophomore,CIT 101 Lab
+10,Anthony,Bennett,Senior,COMP 182 Lab
+10,Anthony,Bennett,Senior,COMP 182
+11,Martha,Gray,Junior,CIT 101
+11,Martha,Gray,Junior,COMP 182 Lab
+12,Jonathan,Ramirez,Junior,CIT 101 Lab
+12,Jonathan,Ramirez,Junior,CIT 101
+13,Rebecca,Long,Senior,COMP 182
+13,Rebecca,Long,Senior,CIT 101 Lab
+14,Ryan,Cook,Freshman,COMP 182 Lab
+14,Ryan,Cook,Freshman,COMP 182
+15,Stephanie,Wilson,Sophomore,CIT 101
+15,Stephanie,Wilson,Sophomore,COMP 182 Lab
+16,Virginia,Gibson,Senior,CIT 101 Lab
+16,Virginia,Gibson,Senior,CIT 101
+17,Russell,Mccoy,Junior,COMP 182
+17,Russell,Mccoy,Junior,CIT 101 Lab
+18,Doris,Harper,Sophomore,COMP 182 Lab
+18,Doris,Harper,Sophomore,COMP 182
+19,Tina,Rose,Senior,CIT 101
+19,Tina,Rose,Senior,COMP 182 Lab
+20,Clarence,Morrison,Junior,CIT 101 Lab
+20,Clarence,Morrison,Junior,CIT 101
+21,Gerald,Gonzales,Junior,COMP 182
+21,Gerald,Gonzales,Junior,CIT 101 Lab
+22,Heather,Allen,Senior,COMP 182 Lab
+22,Heather,Allen,Senior,COMP 182
+23,Raymond,Torres,Freshman,CIT 101
+23,Raymond,Torres,Freshman,COMP 182 Lab
+24,Brenda,Rodriguez,Sophomore,CIT 101 Lab
+24,Brenda,Rodriguez,Sophomore,CIT 101
+25,Gerald,Fox,Senior,COMP 182
+25,Gerald,Fox,Senior,CIT 101 Lab
+26,Sarah,Watson,Junior,COMP 182 Lab
+26,Sarah,Watson,Junior,COMP 182
+27,Marie,Parker,Sophomore,CIT 101
+27,Marie,Parker,Sophomore,COMP 182 Lab
+28,Billy,Knight,Senior,CIT 101 Lab
+28,Billy,Knight,Senior,CIT 101
+29,Lois,Harvey,Junior,COMP 182
+29,Lois,Harvey,Junior,CIT 101 Lab
+30,Jennifer,Gilbert,Junior,COMP 182 Lab
+30,Jennifer,Gilbert,Junior,COMP 182
+31,Amanda,Smith,Senior,CIT 101
+31,Amanda,Smith,Senior,COMP 182 Lab
+32,Gary,White,Freshman,CIT 101 Lab
+32,Gary,White,Freshman,CIT 101
+33,Deborah,Patterson,Sophomore,COMP 182
+33,Deborah,Patterson,Sophomore,CIT 101 Lab
+34,Lois,Knight,Senior,COMP 182 Lab
+34,Lois,Knight,Senior,COMP 182
+35,Gary,Garza,Junior,CIT 101
+35,Gary,Garza,Junior,COMP 182 Lab
+36,Todd,Hall,Sophomore,CIT 101 Lab
+36,Todd,Hall,Sophomore,CIT 101
+37,Patricia,Hicks,Senior,COMP 182
+37,Patricia,Hicks,Senior,CIT 101 Lab
+38,Amanda,Reynolds,Junior,COMP 182 Lab
+38,Amanda,Reynolds,Junior,COMP 182
+39,Ruby,Sanders,Junior,CIT 101
+39,Ruby,Sanders,Junior,COMP 182 Lab
+40,Brian,Fields,Senior,CIT 101 Lab
+40,Brian,Fields,Senior,CIT 101
+41,Joyce,Hart,Freshman,COMP 182
+41,Joyce,Hart,Freshman,CIT 101 Lab
+42,Nancy,Ruiz,Sophomore,COMP 182 Lab
+42,Nancy,Ruiz,Sophomore,COMP 182
+43,Charles,Knight,Senior,CIT 101
+43,Charles,Knight,Senior,COMP 182 Lab
+44,Diane,Austin,Junior,CIT 101 Lab
+44,Diane,Austin,Junior,CIT 101
+45,Henry,Jacobs,Sophomore,COMP 182
+45,Henry,Jacobs,Sophomore,CIT 101 Lab
+46,Teresa,Hansen,Senior,COMP 182 Lab
+46,Teresa,Hansen,Senior,COMP 182
+47,Eric,Campbell,Junior,CIT 101
+47,Eric,Campbell,Junior,COMP 182 Lab
+48,Antonio,Gutierrez,Junior,CIT 101 Lab
+48,Antonio,Gutierrez,Junior,CIT 101
+49,Henry,Wallace,Senior,COMP 182
+49,Henry,Wallace,Senior,CIT 101 Lab
+50,Ann,Gordon,Freshman,COMP 182 Lab
+50,Ann,Gordon,Freshman,COMP 182
+51,Wanda,Dunn,Sophomore,CIT 101
+51,Wanda,Dunn,Sophomore,COMP 182 Lab
+52,Heather,Armstrong,Senior,CIT 101 Lab
+52,Heather,Armstrong,Senior,CIT 101
+53,Jane,Lawson,Junior,COMP 182
+53,Jane,Lawson,Junior,CIT 101 Lab
+54,Alan,Howell,Sophomore,COMP 182 Lab
+54,Alan,Howell,Sophomore,COMP 182
+55,Matthew,Jordan,Senior,CIT 101
+55,Matthew,Jordan,Senior,COMP 182 Lab
+56,Kevin,Gilbert,Junior,CIT 101 Lab
+56,Kevin,Gilbert,Junior,CIT 101
+57,Annie,Murphy,Junior,COMP 182
+57,Annie,Murphy,Junior,CIT 101 Lab
+58,Billy,Armstrong,Senior,COMP 182 Lab
+58,Billy,Armstrong,Senior,COMP 182
+59,Sandra,Parker,Freshman,CIT 101
+59,Sandra,Parker,Freshman,COMP 182 Lab
+60,Jennifer,Lane,Sophomore,CIT 101 Lab
+60,Jennifer,Lane,Sophomore,CIT 101
+61,Ernest,Smith,Senior,COMP 182
+61,Ernest,Smith,Senior,CIT 101 Lab
+62,Timothy,Lawrence,Junior,COMP 182 Lab
+62,Timothy,Lawrence,Junior,COMP 182
+63,Terry,Perry,Sophomore,CIT 101
+63,Terry,Perry,Sophomore,COMP 182 Lab
+64,Louis,Bradley,Senior,CIT 101 Lab
+64,Louis,Bradley,Senior,CIT 101
+65,Matthew,Hudson,Junior,COMP 182
+65,Matthew,Hudson,Junior,COMP 182 Lab
+66,Janet,Wheeler,Junior,COMP 182 Lab
+66,Janet,Wheeler,Junior,CIT 101
+67,Anna,Chapman,Senior,CIT 101
+67,Anna,Chapman,Senior,CIT 101 Lab
+68,Peter,Rose,Freshman,CIT 101 Lab
+68,Peter,Rose,Freshman,COMP 182
+69,Aaron,Shaw,Sophomore,COMP 182
+69,Aaron,Shaw,Sophomore,COMP 182 Lab
+70,Benjamin,Ortiz,Senior,COMP 182 Lab
+70,Benjamin,Ortiz,Senior,CIT 101
+71,Sean,Perez,Junior,CIT 101
+71,Sean,Perez,Junior,CIT 101 Lab
+72,Robert,Stewart,Sophomore,CIT 101 Lab
+72,Robert,Stewart,Sophomore,COMP 182
+73,Beverly,Phillips,Senior,COMP 182
+73,Beverly,Phillips,Senior,COMP 182 Lab
+74,Sharon,Ramos,Junior,COMP 182 Lab
+74,Sharon,Ramos,Junior,CIT 101
+75,Ryan,Ramirez,Junior,CIT 101
+75,Ryan,Ramirez,Junior,CIT 101 Lab
+76,Elizabeth,Baker,Senior,CIT 101 Lab
+76,Elizabeth,Baker,Senior,COMP 182
+77,Albert,Thompson,Freshman,COMP 182
+77,Albert,Thompson,Freshman,COMP 182 Lab
+78,Scott,Knight,Sophomore,COMP 182 Lab
+78,Scott,Knight,Sophomore,CIT 101
+79,Thomas,Olson,Senior,CIT 101
+79,Thomas,Olson,Senior,CIT 101 Lab
+80,Catherine,Nguyen,Junior,CIT 101 Lab
+80,Catherine,Nguyen,Junior,COMP 182
+81,Mary,Reyes,Sophomore,COMP 182
+81,Mary,Reyes,Sophomore,COMP 182 Lab
+82,Anne,Harper,Senior,COMP 182 Lab
+82,Anne,Harper,Senior,CIT 101
+83,Thomas,Garcia,Junior,CIT 101
+83,Thomas,Garcia,Junior,CIT 101 Lab
+84,Bruce,Powell,Junior,CIT 101 Lab
+84,Bruce,Powell,Junior,COMP 182
+85,Chris,Burns,Senior,COMP 182
+85,Chris,Burns,Senior,COMP 182 Lab
+86,Victor,Stewart,Freshman,COMP 182 Lab
+86,Victor,Stewart,Freshman,CIT 101
+87,Sara,Shaw,Sophomore,CIT 101
+87,Sara,Shaw,Sophomore,CIT 101 Lab
+88,Raymond,Rice,Senior,CIT 101 Lab
+88,Raymond,Rice,Senior,COMP 182
+89,Christina,Nelson,Junior,COMP 182
+89,Christina,Nelson,Junior,COMP 182 Lab
+90,Rebecca,Anderson,Sophomore,COMP 182 Lab
+90,Rebecca,Anderson,Sophomore,CIT 101
+91,Joshua,Jenkins,Senior,CIT 101
+91,Joshua,Jenkins,Senior,CIT 101 Lab
+92,Sara,Barnes,Junior,CIT 101 Lab
+92,Sara,Barnes,Junior,COMP 182
+93,Lillian,Ford,Junior,COMP 182
+93,Lillian,Ford,Junior,COMP 182 Lab
+94,Lawrence,Howard,Senior,COMP 182 Lab
+94,Lawrence,Howard,Senior,CIT 101
+95,Debra,Franklin,Freshman,CIT 101
+95,Debra,Franklin,Freshman,CIT 101 Lab
+96,Marilyn,Garza,Sophomore,CIT 101 Lab
+96,Marilyn,Garza,Sophomore,COMP 182
+97,Benjamin,Wood,Senior,COMP 182
+97,Benjamin,Wood,Senior,COMP 182 Lab
+98,Russell,Adams,Junior,COMP 182 Lab
+98,Russell,Adams,Junior,CIT 101
+99,Theresa,Boyd,Sophomore,CIT 101
+99,Theresa,Boyd,Sophomore,CIT 101 Lab
+100,Keith,Cole,Senior,CIT 101 Lab
+100,Keith,Cole,Senior,COMP 182
+101,John,Gilbert,Junior,COMP 182
+101,John,Gilbert,Junior,COMP 182 Lab
+102,Judith,White,Junior,COMP 182 Lab
+102,Judith,White,Junior,CIT 101
+103,Bruce,Griffin,Senior,CIT 101
+103,Bruce,Griffin,Senior,CIT 101 Lab
+104,Johnny,Campbell,Freshman,CIT 101 Lab
+104,Johnny,Campbell,Freshman,COMP 182
+105,Melissa,Fisher,Sophomore,COMP 182
+105,Melissa,Fisher,Sophomore,COMP 182 Lab
+106,Bruce,Clark,Senior,COMP 182 Lab
+106,Bruce,Clark,Senior,CIT 101
+107,Deborah,Tucker,Junior,CIT 101
+107,Deborah,Tucker,Junior,CIT 101 Lab
+108,Robert,Hall,Sophomore,CIT 101 Lab
+108,Robert,Hall,Sophomore,COMP 182
+109,Randy,Simpson,Senior,COMP 182
+109,Randy,Simpson,Senior,COMP 182 Lab
+110,Jason,Bailey,Junior,COMP 182 Lab
+110,Jason,Bailey,Junior,CIT 101
+111,Albert,Patterson,Junior,CIT 101
+111,Albert,Patterson,Junior,CIT 101 Lab
+112,Earl,Patterson,Senior,CIT 101 Lab
+112,Earl,Patterson,Senior,COMP 182
+113,George,Grant,Freshman,COMP 182
+113,George,Grant,Freshman,COMP 182 Lab
+114,Benjamin,Green,Sophomore,COMP 182 Lab
+114,Benjamin,Green,Sophomore,CIT 101
+115,Beverly,Wheeler,Senior,CIT 101
+115,Beverly,Wheeler,Senior,CIT 101 Lab
+116,Ruby,Wagner,Junior,CIT 101 Lab
+116,Ruby,Wagner,Junior,COMP 182
+117,Gary,Lynch,Sophomore,COMP 182
+117,Gary,Lynch,Sophomore,COMP 182 Lab
+118,Daniel,Perez,Senior,COMP 182 Lab
+118,Daniel,Perez,Senior,CIT 101
+119,Jane,Wright,Junior,CIT 101
+119,Jane,Wright,Junior,CIT 101 Lab
+120,Gerald,Jacobs,Junior,CIT 101 Lab
+120,Gerald,Jacobs,Junior,COMP 182
+121,Amanda,Carroll,Senior,COMP 182
+121,Amanda,Carroll,Senior,COMP 182 Lab
+122,Louise,Kelley,Freshman,COMP 182 Lab
+122,Louise,Kelley,Freshman,CIT 101
+123,Wayne,Foster,Sophomore,CIT 101
+123,Wayne,Foster,Sophomore,CIT 101 Lab
+124,Roy,Gonzalez,Senior,CIT 101 Lab
+124,Roy,Gonzalez,Senior,COMP 182
+125,Bruce,Simmons,Junior,COMP 182
+125,Bruce,Simmons,Junior,COMP 182 Lab
+126,Andrew,Perkins,Sophomore,COMP 182 Lab
+126,Andrew,Perkins,Sophomore,CIT 101
+127,Steve,Reyes,Senior,CIT 101
+127,Steve,Reyes,Senior,CIT 101 Lab
+128,Martin,Garcia,Junior,CIT 101 Lab
+128,Martin,Garcia,Junior,COMP 182
+129,Maria,Thompson,Junior,COMP 182
+129,Maria,Thompson,Junior,COMP 182 Lab
+130,Keith,Wheeler,Senior,COMP 182 Lab
+130,Keith,Wheeler,Senior,CIT 101
+131,John,Russell,Freshman,CIT 101
+131,John,Russell,Freshman,CIT 101 Lab
+132,Janet,Parker,Sophomore,CIT 101 Lab
+132,Janet,Parker,Sophomore,COMP 182
+133,Carolyn,Myers,Senior,COMP 182
+133,Carolyn,Myers,Senior,COMP 182 Lab
+134,Russell,Bishop,Junior,COMP 182 Lab
+134,Russell,Bishop,Junior,CIT 101
+135,Shirley,Knight,Sophomore,CIT 101
+135,Shirley,Knight,Sophomore,CIT 101 Lab
+136,Clarence,Mcdonald,Senior,CIT 101 Lab
+136,Clarence,Mcdonald,Senior,COMP 182
+137,Peter,Howell,Junior,COMP 182
+137,Peter,Howell,Junior,COMP 182 Lab
+138,Sandra,Cruz,Junior,COMP 182 Lab
+138,Sandra,Cruz,Junior,CIT 101
+139,Ryan,Martin,Senior,CIT 101
+139,Ryan,Martin,Senior,CIT 101 Lab
+140,Helen,Black,Freshman,CIT 101 Lab
+140,Helen,Black,Freshman,
+141,Todd,Fowler,Sophomore,COMP 182
+141,Todd,Fowler,Sophomore,COMP 182 Lab
+142,Gregory,Russell,Senior,COMP 182 Lab
+142,Gregory,Russell,Senior,CIT 101
+143,Irene,Chavez,Junior,CIT 101
+143,Irene,Chavez,Junior,CIT 101 Lab
+144,Joan,Carr,Sophomore,CIT 101 Lab
+144,Joan,Carr,Sophomore,COMP 182
+145,Roy,Kelley,Senior,COMP 182
+145,Roy,Kelley,Senior,COMP 182 Lab
+146,Jessica,Richards,Junior,COMP 182 Lab
+146,Jessica,Richards,Junior,CIT 101
+147,Karen,Sullivan,Junior,CIT 101
+147,Karen,Sullivan,Junior,CIT 101 Lab
+148,James,White,Senior,CIT 101 Lab
+148,James,White,Senior,COMP 182
+149,Stephanie,Thompson,Freshman,COMP 182
+149,Stephanie,Thompson,Freshman,COMP 182 Lab
+150,George,Cole,Sophomore,COMP 182 Lab
+150,George,Cole,Sophomore,CIT 101
+151,Ruby,Kelly,Senior,CIT 101
+151,Ruby,Kelly,Senior,CIT 101 Lab
+152,Teresa,Hart,Junior,CIT 101 Lab
+152,Teresa,Hart,Junior,COMP 182
+153,Denise,Diaz,Sophomore,COMP 182
+153,Denise,Diaz,Sophomore,COMP 182 Lab
+154,Virginia,Anderson,Senior,COMP 182 Lab
+154,Virginia,Anderson,Senior,CIT 101
+155,Joan,Jackson,Junior,CIT 101
+155,Joan,Jackson,Junior,CIT 101 Lab
+156,Judith,Day,Junior,CIT 101 Lab
+156,Judith,Day,Junior,COMP 182
+157,Douglas,Roberts,Senior,COMP 182
+157,Douglas,Roberts,Senior,COMP 182 Lab
+158,Billy,Fox,Freshman,COMP 182 Lab
+158,Billy,Fox,Freshman,CIT 101
+159,Harry,Snyder,Sophomore,CIT 101
+159,Harry,Snyder,Sophomore,CIT 101 Lab
+160,Charles,Miller,Senior,CIT 101 Lab
+160,Charles,Miller,Senior,COMP 182
+161,Patrick,Ortiz,Junior,COMP 182
+161,Patrick,Ortiz,Junior,COMP 182 Lab
+162,Shawn,Dean,Sophomore,COMP 182 Lab
+162,Shawn,Dean,Sophomore,CIT 101
+163,Paula,Hunter,Senior,CIT 101
+163,Paula,Hunter,Senior,CIT 101 Lab
+164,Peter,Hudson,Junior,CIT 101 Lab
+164,Peter,Hudson,Junior,COMP 182
+165,Brian,Parker,Junior,COMP 182
+165,Brian,Parker,Junior,COMP 182 Lab
+166,Anna,Ward,Senior,COMP 182 Lab
+166,Anna,Ward,Senior,CIT 101
+167,Janet,Porter,Freshman,CIT 101
+167,Janet,Porter,Freshman,CIT 101 Lab
+168,Jean,Roberts,Sophomore,CIT 101 Lab
+168,Jean,Roberts,Sophomore,COMP 182
+169,Nancy,Robertson,Senior,COMP 182
+169,Nancy,Robertson,Senior,COMP 182 Lab
+170,Lawrence,Andrews,Junior,COMP 182 Lab
+170,Lawrence,Andrews,Junior,CIT 101
+171,Terry,Fisher,Sophomore,CIT 101
+171,Terry,Fisher,Sophomore,CIT 101 Lab
+172,Joe,Hart,Senior,CIT 101 Lab
+172,Joe,Hart,Senior,COMP 182
+173,Betty,Rose,Junior,COMP 182
+173,Betty,Rose,Junior,COMP 182 Lab
+174,Steven,Sullivan,Junior,COMP 182 Lab
+174,Steven,Sullivan,Junior,CIT 101
+175,Richard,Clark,Senior,CIT 101
+175,Richard,Clark,Senior,CIT 101 Lab
+176,Sharon,Gordon,Freshman,CIT 101 Lab
+176,Sharon,Gordon,Freshman,COMP 182
+177,Ruth,Nichols,Sophomore,COMP 182
+177,Ruth,Nichols,Sophomore,COMP 182 Lab
+178,Norma,Dean,Senior,COMP 182 Lab
+178,Norma,Dean,Senior,CIT 101
+179,Thomas,Rice,Junior,CIT 101
+179,Thomas,Rice,Junior,CIT 101 Lab
+180,Jack,Walker,Sophomore,CIT 101 Lab
+180,Jack,Walker,Sophomore,COMP 182
+181,George,Foster,Senior,COMP 182
+181,George,Foster,Senior,COMP 182 Lab
+182,Diane,Patterson,Junior,COMP 182 Lab
+182,Diane,Patterson,Junior,CIT 101
+183,Carolyn,Williamson,Junior,CIT 101
+183,Carolyn,Williamson,Junior,CIT 101 Lab
+184,Ralph,Scott,Senior,CIT 101 Lab
+184,Ralph,Scott,Senior,COMP 182
+185,Daniel,Perkins,Freshman,COMP 182
+185,Daniel,Perkins,Freshman,COMP 182 Lab
+186,Donald,Woods,Sophomore,COMP 182 Lab
+186,Donald,Woods,Sophomore,CIT 101
+187,Larry,Scott,Senior,CIT 101
+187,Larry,Scott,Senior,CIT 101 Lab
+188,Louis,Russell,Junior,CIT 101 Lab
+188,Louis,Russell,Junior,COMP 182
+189,Matthew,Davis,Sophomore,COMP 182
+189,Matthew,Davis,Sophomore,COMP 182 Lab
+190,David,Wells,Senior,COMP 182 Lab
+190,David,Wells,Senior,CIT 101
+191,Howard,Cook,Junior,CIT 101
+191,Howard,Cook,Junior,CIT 101 Lab
+192,Shawn,Bryant,Junior,CIT 101 Lab
+192,Shawn,Bryant,Junior,COMP 182
+193,Bruce,Hayes,Senior,COMP 182
+193,Bruce,Hayes,Senior,COMP 182 Lab
+194,Jeremy,Richards,Freshman,COMP 182 Lab
+194,Jeremy,Richards,Freshman,CIT 101
+195,Shirley,Gomez,Sophomore,CIT 101
+195,Shirley,Gomez,Sophomore,CIT 101 Lab
+196,Irene,Crawford,Senior,CIT 101 Lab
+196,Irene,Crawford,Senior,COMP 182
+197,Daniel,Peters,Junior,COMP 182
+197,Daniel,Peters,Junior,COMP 182 Lab
+198,Clarence,Willis,Sophomore,COMP 182 Lab
+198,Clarence,Willis,Sophomore,CIT 101
+199,Phyllis,Mcdonald,Senior,CIT 101
+199,Phyllis,Mcdonald,Senior,CIT 101 Lab
+200,Kathleen,Hunter,Junior,CIT 101 Lab
+200,Kathleen,Hunter,Junior,COMP 182
+201,Sean,Elliott,Junior,COMP 182
+201,Sean,Elliott,Junior,COMP 182 Lab
+202,Evelyn,Davis,Senior,COMP 182 Lab
+202,Evelyn,Davis,Senior,CIT 101
+203,Terry,Lopez,Freshman,CIT 101
+203,Terry,Lopez,Freshman,CIT 101 Lab
+204,Kevin,Fisher,Sophomore,CIT 101 Lab
+204,Kevin,Fisher,Sophomore,COMP 182
+205,Jeremy,Harvey,Senior,COMP 182
+205,Jeremy,Harvey,Senior,COMP 182 Lab
+206,Harry,Vasquez,Junior,COMP 182 Lab
+206,Harry,Vasquez,Junior,CIT 101
+207,Eugene,Snyder,Sophomore,CIT 101
+207,Eugene,Snyder,Sophomore,CIT 101 Lab
+208,Billy,Edwards,Senior,CIT 101 Lab
+208,Billy,Edwards,Senior,COMP 182
+209,Annie,Lawson,Junior,COMP 182
+209,Annie,Lawson,Junior,COMP 182 Lab
+210,Anthony,Fields,Junior,COMP 182 Lab
+210,Anthony,Fields,Junior,CIT 101
+211,Irene,Perry,Senior,CIT 101
+211,Irene,Perry,Senior,CIT 101 Lab
+212,Jimmy,Ferguson,Freshman,CIT 101 Lab
+212,Jimmy,Ferguson,Freshman,COMP 182
+213,Ronald,Washington,Sophomore,COMP 182
+213,Ronald,Washington,Sophomore,COMP 182 Lab
+214,Kenneth,Rose,Senior,COMP 182 Lab
+214,Kenneth,Rose,Senior,CIT 101
+215,Diana,Garcia,Junior,CIT 101
+215,Diana,Garcia,Junior,CIT 101 Lab
+216,Gregory,Harris,Sophomore,CIT 101 Lab
+216,Gregory,Harris,Sophomore,COMP 182 Lab
+217,Anthony,Ross,Senior,COMP 182
+217,Anthony,Ross,Senior,CIT 101
+218,Heather,Elliott,Junior,COMP 182 Lab
+218,Heather,Elliott,Junior,CIT 101 Lab
+219,Philip,Oliver,Junior,CIT 101
+219,Philip,Oliver,Junior,COMP 182
+220,Wanda,Montgomery,Senior,CIT 101 Lab
+220,Wanda,Montgomery,Senior,COMP 182 Lab
+221,Russell,Price,Freshman,COMP 182
+221,Russell,Price,Freshman,CIT 101
+222,Doris,Butler,Sophomore,COMP 182 Lab
+222,Doris,Butler,Sophomore,CIT 101 Lab
+223,Bonnie,Rogers,Senior,CIT 101
+223,Bonnie,Rogers,Senior,COMP 182
+224,David,White,Junior,CIT 101 Lab
+224,David,White,Junior,COMP 182 Lab
+225,Craig,Gomez,Sophomore,COMP 182
+225,Craig,Gomez,Sophomore,CIT 101
+226,Bonnie,Simmons,Senior,COMP 182 Lab
+226,Bonnie,Simmons,Senior,CIT 101 Lab
+227,Bruce,Sanders,Junior,CIT 101
+227,Bruce,Sanders,Junior,COMP 182
+228,John,Palmer,Junior,CIT 101 Lab
+228,John,Palmer,Junior,COMP 182 Lab
+229,Kevin,Rivera,Senior,COMP 182
+229,Kevin,Rivera,Senior,CIT 101
+230,Sara,James,Freshman,COMP 182 Lab
+230,Sara,James,Freshman,CIT 101 Lab
+231,Victor,Parker,Sophomore,CIT 101
+231,Victor,Parker,Sophomore,COMP 182
+232,Clarence,Flores,Senior,CIT 101 Lab
+232,Clarence,Flores,Senior,COMP 182 Lab
+233,Bruce,Burke,Junior,COMP 182
+233,Bruce,Burke,Junior,CIT 101
+234,Kenneth,Dunn,Sophomore,COMP 182 Lab
+234,Kenneth,Dunn,Sophomore,CIT 101 Lab
+235,Harry,Henderson,Senior,CIT 101
+235,Harry,Henderson,Senior,COMP 182
+236,Eugene,Harvey,Junior,CIT 101 Lab
+236,Eugene,Harvey,Junior,COMP 182 Lab
+237,Nicholas,Armstrong,Junior,COMP 182
+237,Nicholas,Armstrong,Junior,CIT 101
+238,Evelyn,Jordan,Senior,COMP 182 Lab
+238,Evelyn,Jordan,Senior,CIT 101 Lab
+239,Judy,Ruiz,Freshman,CIT 101
+239,Judy,Ruiz,Freshman,COMP 182
+240,Karen,Chapman,Sophomore,CIT 101 Lab
+240,Karen,Chapman,Sophomore,COMP 182 Lab
+241,Amy,Allen,Senior,COMP 182
+241,Amy,Allen,Senior,CIT 101
+242,Matthew,Wallace,Junior,COMP 182 Lab
+242,Matthew,Wallace,Junior,CIT 101 Lab
+243,Jennifer,Carpenter,Sophomore,CIT 101
+243,Jennifer,Carpenter,Sophomore,COMP 182
+244,Ernest,Gordon,Senior,CIT 101 Lab
+244,Ernest,Gordon,Senior,COMP 182 Lab
+245,Kevin,Williams,Junior,COMP 182
+245,Kevin,Williams,Junior,CIT 101
+246,Deborah,Cunningham,Junior,COMP 182 Lab
+246,Deborah,Cunningham,Junior,CIT 101 Lab
+247,Andrew,Wallace,Senior,CIT 101
+247,Andrew,Wallace,Senior,COMP 182
+248,Harry,Brooks,Freshman,CIT 101 Lab
+248,Harry,Brooks,Freshman,COMP 182 Lab
+249,Johnny,Martin,Sophomore,COMP 182
+249,Johnny,Martin,Sophomore,CIT 101
+250,Annie,Bennett,Senior,COMP 182 Lab
+250,Annie,Bennett,Senior,CIT 101 Lab
+251,Anne,Chapman,Junior,CIT 101
+251,Anne,Chapman,Junior,COMP 182
+252,Lori,Franklin,Sophomore,CIT 101 Lab
+252,Lori,Franklin,Sophomore,COMP 182 Lab
+253,Alan,Rogers,Senior,COMP 182
+253,Alan,Rogers,Senior,CIT 101
+254,Heather,Stanley,Junior,COMP 182 Lab
+254,Heather,Stanley,Junior,CIT 101 Lab
+255,Jeremy,Henderson,Junior,CIT 101
+255,Jeremy,Henderson,Junior,COMP 182
+256,Ruby,Coleman,Senior,CIT 101 Lab
+256,Ruby,Coleman,Senior,COMP 182 Lab
+257,Ruth,Bowman,Freshman,COMP 182
+257,Ruth,Bowman,Freshman,CIT 101
+258,Denise,Webb,Sophomore,COMP 182 Lab
+258,Denise,Webb,Sophomore,CIT 101 Lab
+259,Jason,Kim,Senior,CIT 101
+259,Jason,Kim,Senior,COMP 182
+260,Raymond,Cole,Junior,CIT 101 Lab
+260,Raymond,Cole,Junior,COMP 182 Lab
+261,Ruby,Watkins,Sophomore,COMP 182
+261,Ruby,Watkins,Sophomore,CIT 101
+262,Evelyn,Young,Senior,COMP 182 Lab
+262,Evelyn,Young,Senior,CIT 101 Lab
+263,Karen,Brooks,Junior,CIT 101
+263,Karen,Brooks,Junior,COMP 182
+264,Andrew,Hudson,Junior,CIT 101 Lab
+264,Andrew,Hudson,Junior,COMP 182 Lab
+265,Maria,Garrett,Senior,COMP 182
+265,Maria,Garrett,Senior,CIT 101
+266,Jane,Ramos,Freshman,COMP 182 Lab
+266,Jane,Ramos,Freshman,CIT 101 Lab
+267,Joe,Hayes,Sophomore,CIT 101
+267,Joe,Hayes,Sophomore,COMP 182
+268,Robert,Crawford,Senior,CIT 101 Lab
+268,Robert,Crawford,Senior,COMP 182 Lab
+269,Frank,Cook,Junior,COMP 182
+269,Frank,Cook,Junior,CIT 101
+270,Kenneth,West,Sophomore,COMP 182 Lab
+270,Kenneth,West,Sophomore,CIT 101 Lab
+271,Pamela,Powell,Senior,CIT 101
+271,Pamela,Powell,Senior,COMP 182
+272,Bonnie,Garrett,Junior,CIT 101 Lab
+272,Bonnie,Garrett,Junior,COMP 182 Lab
+273,Nicole,Young,Junior,COMP 182
+273,Nicole,Young,Junior,CIT 101
+274,Diana,Andrews,Senior,COMP 182 Lab
+274,Diana,Andrews,Senior,CIT 101 Lab
+275,Sean,Cooper,Freshman,CIT 101
+275,Sean,Cooper,Freshman,COMP 182
+276,Dorothy,Dean,Sophomore,CIT 101 Lab
+276,Dorothy,Dean,Sophomore,COMP 182 Lab
+277,Nicholas,Snyder,Senior,COMP 182
+277,Nicholas,Snyder,Senior,CIT 101
+278,Margaret,Welch,Junior,COMP 182 Lab
+278,Margaret,Welch,Junior,CIT 101 Lab
+279,Daniel,Woods,Sophomore,CIT 101
+279,Daniel,Woods,Sophomore,COMP 182
+280,Aaron,Lopez,Senior,CIT 101 Lab
+280,Aaron,Lopez,Senior,COMP 182 Lab
+281,Donna,Adams,Junior,COMP 182
+281,Donna,Adams,Junior,CIT 101
+282,Rebecca,Olson,Junior,COMP 182 Lab
+282,Rebecca,Olson,Junior,CIT 101 Lab
+283,Brenda,Reynolds,Senior,CIT 101
+283,Brenda,Reynolds,Senior,COMP 182
+284,Terry,Ortiz,Freshman,CIT 101 Lab
+284,Terry,Ortiz,Freshman,COMP 182 Lab
+285,Dorothy,Morgan,Sophomore,COMP 182
+285,Dorothy,Morgan,Sophomore,CIT 101
+286,Gregory,Richards,Senior,COMP 182 Lab
+286,Gregory,Richards,Senior,CIT 101 Lab
+287,Linda,Cook,Junior,CIT 101
+287,Linda,Cook,Junior,COMP 182
+288,Rachel,Peterson,Sophomore,CIT 101 Lab
+288,Rachel,Peterson,Sophomore,COMP 182 Lab
+289,Benjamin,Ross,Senior,COMP 182
+289,Benjamin,Ross,Senior,CIT 101
+290,Joseph,Rice,Junior,COMP 182 Lab
+290,Joseph,Rice,Junior,CIT 101 Lab
+291,Thomas,Patterson,Junior,CIT 101
+291,Thomas,Patterson,Junior,COMP 182 Lab
+292,Roy,Ramirez,Senior,CIT 101 Lab
+292,Roy,Ramirez,Senior,CIT 101
+293,Ashley,Burton,Freshman,COMP 182
+293,Ashley,Burton,Freshman,CIT 101 Lab
+294,Joseph,Cox,Sophomore,COMP 182 Lab
+294,Joseph,Cox,Sophomore,COMP 182
+295,Victor,Burton,Senior,CIT 101
+295,Victor,Burton,Senior,COMP 182 Lab
+296,Keith,Adams,Junior,CIT 101 Lab
+296,Keith,Adams,Junior,CIT 101
+297,Katherine,Riley,Sophomore,COMP 182
+297,Katherine,Riley,Sophomore,CIT 101 Lab
+298,Kathryn,Smith,Senior,COMP 182 Lab
+298,Kathryn,Smith,Senior,COMP 182
+299,Cynthia,Mitchell,Junior,CIT 101
+299,Cynthia,Mitchell,Junior,COMP 182 Lab
+300,Dorothy,Campbell,Junior,CIT 101 Lab
+300,Dorothy,Campbell,Junior,CIT 101
+301,Maria,Weaver,Senior,COMP 182
+301,Maria,Weaver,Senior,CIT 101 Lab
+302,Deborah,Burke,Freshman,COMP 182 Lab
+302,Deborah,Burke,Freshman,COMP 182
+303,Wayne,Day,Sophomore,CIT 101
+303,Wayne,Day,Sophomore,COMP 182 Lab
+304,Theresa,Torres,Senior,CIT 101 Lab
+304,Theresa,Torres,Senior,CIT 101
+305,Lori,Johnston,Junior,COMP 182
+305,Lori,Johnston,Junior,CIT 101 Lab
+306,Margaret,Berry,Sophomore,COMP 182 Lab
+306,Margaret,Berry,Sophomore,COMP 182
+307,Phyllis,Berry,Senior,CIT 101
+307,Phyllis,Berry,Senior,COMP 182 Lab
+308,Billy,Wells,Junior,CIT 101 Lab
+308,Billy,Wells,Junior,CIT 101
+309,Alice,Reid,Junior,COMP 182
+309,Alice,Reid,Junior,CIT 101 Lab
+310,Daniel,Owens,Senior,COMP 182 Lab
+310,Daniel,Owens,Senior,COMP 182
+311,Theresa,Adams,Freshman,CIT 101
+311,Theresa,Adams,Freshman,COMP 182 Lab
+312,John,James,Sophomore,CIT 101 Lab
+312,John,James,Sophomore,CIT 101
+313,Russell,Chavez,Senior,COMP 182
+313,Russell,Chavez,Senior,CIT 101 Lab
+314,Raymond,Reynolds,Junior,COMP 182 Lab
+314,Raymond,Reynolds,Junior,COMP 182
+315,Russell,Richardson,Sophomore,CIT 101
+315,Russell,Richardson,Sophomore,COMP 182 Lab
+316,David,Walker,Senior,CIT 101 Lab
+316,David,Walker,Senior,CIT 101
+317,Anna,Welch,Junior,COMP 182
+317,Anna,Welch,Junior,CIT 101 Lab
+318,Carol,Snyder,Junior,COMP 182 Lab
+318,Carol,Snyder,Junior,COMP 182
+319,Jeremy,Adams,Senior,CIT 101
+319,Jeremy,Adams,Senior,COMP 182 Lab
+320,Lois,Hughes,Freshman,CIT 101 Lab
+320,Lois,Hughes,Freshman,CIT 101
+321,Karen,Ellis,Sophomore,COMP 182
+321,Karen,Ellis,Sophomore,CIT 101 Lab
+322,Ryan,Patterson,Senior,COMP 182 Lab
+322,Ryan,Patterson,Senior,COMP 182
+323,Antonio,Cooper,Junior,CIT 101
+323,Antonio,Cooper,Junior,COMP 182 Lab
+324,Patricia,Murphy,Sophomore,CIT 101 Lab
+324,Patricia,Murphy,Sophomore,CIT 101
+325,Sharon,Ryan,Senior,COMP 182
+325,Sharon,Ryan,Senior,CIT 101 Lab
+326,Howard,Weaver,Junior,COMP 182 Lab
+326,Howard,Weaver,Junior,COMP 182
+327,David,Hansen,Junior,CIT 101
+327,David,Hansen,Junior,COMP 182 Lab
+328,Donna,Rose,Senior,CIT 101 Lab
+328,Donna,Rose,Senior,CIT 101
+329,Steve,Simmons,Freshman,COMP 182
+329,Steve,Simmons,Freshman,CIT 101 Lab
+330,Andrew,Bowman,Sophomore,COMP 182 Lab
+330,Andrew,Bowman,Sophomore,COMP 182
+331,Janet,Rogers,Senior,CIT 101
+331,Janet,Rogers,Senior,COMP 182 Lab
+332,Rose,Stephens,Junior,CIT 101 Lab
+332,Rose,Stephens,Junior,CIT 101
+333,Catherine,Weaver,Sophomore,COMP 182
+333,Catherine,Weaver,Sophomore,CIT 101 Lab
+334,Mary,Bennett,Senior,COMP 182 Lab
+334,Mary,Bennett,Senior,COMP 182
+335,Peter,Gray,Junior,CIT 101
+335,Peter,Gray,Junior,COMP 182 Lab
+336,Gary,Gutierrez,Junior,CIT 101 Lab
+336,Gary,Gutierrez,Junior,CIT 101
+337,Thomas,Kennedy,Senior,COMP 182
+337,Thomas,Kennedy,Senior,CIT 101 Lab
+338,Joe,Alvarez,Freshman,COMP 182 Lab
+338,Joe,Alvarez,Freshman,COMP 182
+339,Kimberly,White,Sophomore,CIT 101
+339,Kimberly,White,Sophomore,COMP 182 Lab
+340,Johnny,Porter,Senior,CIT 101 Lab
+340,Johnny,Porter,Senior,CIT 101
+341,Jimmy,Johnston,Junior,COMP 182
+341,Jimmy,Johnston,Junior,CIT 101 Lab
+342,Roger,Collins,Sophomore,COMP 182 Lab
+342,Roger,Collins,Sophomore,COMP 182
+343,Tammy,Medina,Senior,CIT 101
+343,Tammy,Medina,Senior,COMP 182 Lab
+344,Jerry,Coleman,Junior,CIT 101 Lab
+344,Jerry,Coleman,Junior,CIT 101
+345,Samuel,Black,Junior,COMP 182
+345,Samuel,Black,Junior,CIT 101 Lab
+346,Nicholas,Shaw,Senior,COMP 182 Lab
+346,Nicholas,Shaw,Senior,COMP 182
+347,Ralph,Cox,Freshman,CIT 101
+347,Ralph,Cox,Freshman,COMP 182 Lab
+348,Brandon,Payne,Sophomore,CIT 101 Lab
+348,Brandon,Payne,Sophomore,CIT 101
+349,Jessica,Nelson,Senior,COMP 182
+349,Jessica,Nelson,Senior,CIT 101 Lab
+350,Linda,Morgan,Junior,COMP 182 Lab
+350,Linda,Morgan,Junior,COMP 182
+351,Donald,Stewart,Sophomore,CIT 101
+351,Donald,Stewart,Sophomore,COMP 182 Lab
+352,Charles,Robertson,Senior,CIT 101 Lab
+352,Charles,Robertson,Senior,CIT 101
+353,Sean,Oliver,Junior,COMP 182
+353,Sean,Oliver,Junior,CIT 101 Lab
+354,Alan,Hawkins,Junior,COMP 182 Lab
+354,Alan,Hawkins,Junior,COMP 182
+355,Walter,Burke,Senior,CIT 101
+355,Walter,Burke,Senior,COMP 182 Lab
+356,Willie,Martin,Freshman,CIT 101 Lab
+356,Willie,Martin,Freshman,CIT 101
+357,Arthur,Stanley,Sophomore,COMP 182
+357,Arthur,Stanley,Sophomore,CIT 101 Lab
+358,Christine,Edwards,Senior,COMP 182 Lab
+358,Christine,Edwards,Senior,COMP 182
+359,Melissa,Baker,Junior,CIT 101
+359,Melissa,Baker,Junior,COMP 182 Lab
+360,Jesse,Burns,Sophomore,CIT 101 Lab
+360,Jesse,Burns,Sophomore,CIT 101
+361,Jason,Anderson,Senior,COMP 182
+361,Jason,Anderson,Senior,CIT 101 Lab
+362,Harry,Hamilton,Junior,COMP 182 Lab
+362,Harry,Hamilton,Junior,COMP 182
+363,Larry,Gutierrez,Junior,CIT 101
+363,Larry,Gutierrez,Junior,COMP 182 Lab
+364,Billy,Frazier,Senior,CIT 101 Lab
+364,Billy,Frazier,Senior,CIT 101
+365,Jean,Richardson,Freshman,COMP 182
+365,Jean,Richardson,Freshman,CIT 101 Lab
+366,Jesse,Adams,Sophomore,COMP 182 Lab
+366,Jesse,Adams,Sophomore,COMP 182 Lab
+367,Steven,Moreno,Senior,CIT 101
+367,Steven,Moreno,Senior,CIT 101
+368,Kenneth,Duncan,Junior,CIT 101 Lab
+368,Kenneth,Duncan,Junior,CIT 101 Lab
+369,Patrick,Walker,Sophomore,COMP 182
+369,Patrick,Walker,Sophomore,COMP 182
+370,Theresa,Woods,Senior,COMP 182 Lab
+370,Theresa,Woods,Senior,COMP 182 Lab
+371,Michelle,Moore,Junior,CIT 101
+371,Michelle,Moore,Junior,CIT 101
+372,Kenneth,Robertson,Junior,CIT 101 Lab
+372,Kenneth,Robertson,Junior,CIT 101 Lab
+373,Roy,Weaver,Senior,COMP 182
+373,Roy,Weaver,Senior,COMP 182
+374,Arthur,Ellis,Freshman,COMP 182 Lab
+374,Arthur,Ellis,Freshman,COMP 182 Lab
+375,Charles,Moreno,Sophomore,CIT 101
+375,Charles,Moreno,Sophomore,CIT 101
+376,Marie,Ramirez,Senior,CIT 101 Lab
+376,Marie,Ramirez,Senior,CIT 101 Lab
+377,John,Andrews,Junior,COMP 182
+377,John,Andrews,Junior,COMP 182
+378,Sandra,Ortiz,Sophomore,COMP 182 Lab
+378,Sandra,Ortiz,Sophomore,COMP 182 Lab
+379,Kathryn,Lopez,Senior,CIT 101
+379,Kathryn,Lopez,Senior,CIT 101
+380,Denise,Dixon,Junior,CIT 101 Lab
+380,Denise,Dixon,Junior,CIT 101 Lab
+381,Patrick,Fields,Junior,COMP 182
+381,Patrick,Fields,Junior,COMP 182
+382,Carl,Mitchell,Senior,COMP 182 Lab
+382,Carl,Mitchell,Senior,COMP 182 Lab
+383,Edward,Sims,Freshman,CIT 101
+383,Edward,Sims,Freshman,CIT 101
+384,Denise,Davis,Sophomore,CIT 101 Lab
+384,Denise,Davis,Sophomore,CIT 101 Lab
+385,Roger,Anderson,Senior,COMP 182
+385,Roger,Anderson,Senior,COMP 182
+386,Jesse,Brown,Junior,COMP 182 Lab
+386,Jesse,Brown,Junior,COMP 182 Lab
+387,Jonathan,Thomas,Sophomore,CIT 101
+387,Jonathan,Thomas,Sophomore,CIT 101
+388,Kathryn,Moreno,Senior,CIT 101 Lab
+388,Kathryn,Moreno,Senior,CIT 101 Lab
+389,Jacqueline,Medina,Junior,COMP 182
+389,Jacqueline,Medina,Junior,COMP 182
+390,Susan,Hall,Junior,COMP 182 Lab
+390,Susan,Hall,Junior,COMP 182 Lab
+391,Nicole,Jenkins,Senior,CIT 101
+391,Nicole,Jenkins,Senior,CIT 101
+392,Heather,Payne,Freshman,CIT 101 Lab
+392,Heather,Payne,Freshman,CIT 101 Lab
+393,Frances,Cunningham,Sophomore,COMP 182
+393,Frances,Cunningham,Sophomore,COMP 182
+394,Wanda,Wright,Senior,COMP 182 Lab
+394,Wanda,Wright,Senior,COMP 182 Lab
+395,Jeremy,Marshall,Junior,CIT 101
+395,Jeremy,Marshall,Junior,CIT 101
+396,Timothy,Brooks,Sophomore,CIT 101 Lab
+396,Timothy,Brooks,Sophomore,CIT 101 Lab
+397,Wayne,Butler,Senior,COMP 182
+397,Wayne,Butler,Senior,COMP 182
+398,Kelly,Hernandez,Junior,COMP 182 Lab
+398,Kelly,Hernandez,Junior,COMP 182 Lab
+399,Michael,Duncan,Junior,CIT 101
+399,Michael,Duncan,Junior,CIT 101
+400,Harry,Jordan,Senior,CIT 101 Lab
+400,Harry,Jordan,Senior,CIT 101 Lab
+401,Christina,Hamilton,Freshman,COMP 182
+401,Christina,Hamilton,Freshman,COMP 182
+402,Sara,Lawson,Sophomore,COMP 182 Lab
+402,Sara,Lawson,Sophomore,COMP 182 Lab
+403,Elizabeth,Day,Senior,CIT 101
+403,Elizabeth,Day,Senior,CIT 101
+404,Gregory,Green,Junior,CIT 101 Lab
+404,Gregory,Green,Junior,CIT 101 Lab
+405,Aaron,Bell,Sophomore,COMP 182
+405,Aaron,Bell,Sophomore,COMP 182
+406,Gerald,Dunn,Senior,COMP 182 Lab
+406,Gerald,Dunn,Senior,COMP 182 Lab
+407,Marilyn,Wood,Junior,CIT 101
+407,Marilyn,Wood,Junior,CIT 101
+408,Timothy,Frazier,Junior,CIT 101 Lab
+408,Timothy,Frazier,Junior,CIT 101 Lab
+409,Eugene,Jacobs,Senior,COMP 182
+409,Eugene,Jacobs,Senior,COMP 182
+410,Phyllis,Thomas,Freshman,COMP 182 Lab
+410,Phyllis,Thomas,Freshman,COMP 182 Lab
+411,Martin,Peterson,Sophomore,CIT 101
+411,Martin,Peterson,Sophomore,CIT 101
+412,Teresa,Kim,Senior,CIT 101 Lab
+412,Teresa,Kim,Senior,CIT 101 Lab
+413,Frank,Washington,Junior,COMP 182
+413,Frank,Washington,Junior,COMP 182
+414,Bobby,Collins,Sophomore,COMP 182 Lab
+414,Bobby,Collins,Sophomore,COMP 182 Lab
+415,Benjamin,Wagner,Senior,CIT 101
+415,Benjamin,Wagner,Senior,CIT 101
+416,Jennifer,Dean,Junior,CIT 101 Lab
+416,Jennifer,Dean,Junior,CIT 101 Lab
+417,Doris,Williamson,Junior,COMP 182
+417,Doris,Williamson,Junior,COMP 182
+418,Stephanie,Lawrence,Senior,COMP 182 Lab
+418,Stephanie,Lawrence,Senior,COMP 182 Lab
+419,Debra,Chavez,Freshman,CIT 101
+419,Debra,Chavez,Freshman,CIT 101
+420,Irene,Ellis,Sophomore,CIT 101 Lab
+420,Irene,Ellis,Sophomore,CIT 101 Lab
+421,Daniel,Rivera,Senior,COMP 182
+421,Daniel,Rivera,Senior,COMP 182
+422,Brenda,Murphy,Junior,COMP 182 Lab
+422,Brenda,Murphy,Junior,COMP 182 Lab
+423,Lois,Garcia,Sophomore,CIT 101
+423,Lois,Garcia,Sophomore,CIT 101
+424,Kimberly,Young,Senior,CIT 101 Lab
+424,Kimberly,Young,Senior,CIT 101 Lab
+425,Stephen,Morales,Junior,COMP 182
+425,Stephen,Morales,Junior,COMP 182
+426,Richard,Howard,Junior,COMP 182 Lab
+426,Richard,Howard,Junior,COMP 182 Lab
+427,Jessica,Jones,Senior,CIT 101
+427,Jessica,Jones,Senior,CIT 101
+428,George,Day,Freshman,CIT 101 Lab
+428,George,Day,Freshman,CIT 101 Lab
+429,Cynthia,Price,Sophomore,COMP 182
+429,Cynthia,Price,Sophomore,COMP 182
+430,Ralph,Scott,Senior,COMP 182 Lab
+430,Ralph,Scott,Senior,COMP 182 Lab
+431,Kimberly,Spencer,Junior,CIT 101
+431,Kimberly,Spencer,Junior,CIT 101
+432,Rachel,Romero,Sophomore,CIT 101 Lab
+432,Rachel,Romero,Sophomore,CIT 101 Lab
+433,Douglas,Nelson,Senior,COMP 182
+433,Douglas,Nelson,Senior,COMP 182
+434,Ernest,Brooks,Junior,COMP 182 Lab
+434,Ernest,Brooks,Junior,COMP 182 Lab
+435,Earl,Fields,Junior,CIT 101
+435,Earl,Fields,Junior,CIT 101
+436,Keith,Reed,Senior,CIT 101 Lab
+436,Keith,Reed,Senior,CIT 101 Lab
+437,Rebecca,Mccoy,Freshman,COMP 182
+437,Rebecca,Mccoy,Freshman,COMP 182
+438,Jose,Bryant,Sophomore,COMP 182 Lab
+438,Jose,Bryant,Sophomore,COMP 182 Lab
+439,Ruth,Russell,Senior,CIT 101
+439,Ruth,Russell,Senior,CIT 101
+440,Carl,Hughes,Junior,CIT 101 Lab
+440,Carl,Hughes,Junior,CIT 101 Lab
+441,Kimberly,Cole,Sophomore,COMP 182
+441,Kimberly,Cole,Sophomore,COMP 182 Lab
+442,Harold,Wells,Senior,COMP 182 Lab
+442,Harold,Wells,Senior,CIT 101
+443,Richard,Mitchell,Junior,CIT 101
+443,Richard,Mitchell,Junior,CIT 101 Lab
+444,Carol,Richards,Junior,CIT 101 Lab
+444,Carol,Richards,Junior,COMP 182
+445,Teresa,Ruiz,Senior,COMP 182
+445,Teresa,Ruiz,Senior,COMP 182 Lab
+446,Donna,Gutierrez,Freshman,COMP 182 Lab
+446,Donna,Gutierrez,Freshman,CIT 101
+447,Nicole,Turner,Sophomore,CIT 101
+447,Nicole,Turner,Sophomore,CIT 101 Lab
+448,Deborah,Day,Senior,CIT 101 Lab
+448,Deborah,Day,Senior,COMP 182
+449,Debra,Jones,Junior,COMP 182
+449,Debra,Jones,Junior,COMP 182 Lab
+450,Dennis,Baker,Sophomore,COMP 182 Lab
+450,Dennis,Baker,Sophomore,CIT 101
+451,Steve,Garza,Senior,CIT 101
+451,Steve,Garza,Senior,CIT 101 Lab
+452,Jerry,Webb,Junior,CIT 101 Lab
+452,Jerry,Webb,Junior,COMP 182
+453,Todd,Kelly,Junior,COMP 182
+453,Todd,Kelly,Junior,COMP 182 Lab
+454,Sarah,Little,Senior,COMP 182 Lab
+454,Sarah,Little,Senior,CIT 101
+455,Ann,Hudson,Freshman,CIT 101
+455,Ann,Hudson,Freshman,CIT 101 Lab
+456,Julia,Olson,Sophomore,CIT 101 Lab
+456,Julia,Olson,Sophomore,COMP 182
+457,Paul,Thompson,Senior,COMP 182
+457,Paul,Thompson,Senior,COMP 182 Lab
+458,Donald,Owens,Junior,COMP 182 Lab
+458,Donald,Owens,Junior,CIT 101
+459,Kathryn,Brown,Sophomore,CIT 101
+459,Kathryn,Brown,Sophomore,CIT 101 Lab
+460,Juan,Howard,Senior,CIT 101 Lab
+460,Juan,Howard,Senior,COMP 182
+461,Doris,Jacobs,Junior,COMP 182
+461,Doris,Jacobs,Junior,COMP 182 Lab
+462,Marilyn,Berry,Junior,COMP 182 Lab
+462,Marilyn,Berry,Junior,CIT 101
+463,Shirley,Simpson,Senior,CIT 101
+463,Shirley,Simpson,Senior,CIT 101 Lab
+464,Kevin,Watkins,Freshman,CIT 101 Lab
+464,Kevin,Watkins,Freshman,COMP 182
+465,Larry,Larson,Sophomore,COMP 182
+465,Larry,Larson,Sophomore,COMP 182 Lab
+466,Kimberly,Cook,Senior,COMP 182 Lab
+466,Kimberly,Cook,Senior,CIT 101
+467,Bonnie,Parker,Junior,CIT 101
+467,Bonnie,Parker,Junior,CIT 101 Lab
+468,Emily,Mitchell,Sophomore,CIT 101 Lab
+468,Emily,Mitchell,Sophomore,COMP 182
+469,Norma,Howell,Senior,COMP 182
+469,Norma,Howell,Senior,COMP 182 Lab
+470,Steven,Butler,Junior,COMP 182 Lab
+470,Steven,Butler,Junior,CIT 101
+471,Shirley,Hanson,Junior,CIT 101
+471,Shirley,Hanson,Junior,CIT 101 Lab
+472,Jimmy,Cox,Senior,CIT 101 Lab
+472,Jimmy,Cox,Senior,COMP 182
+473,Andrew,Hunt,Freshman,COMP 182
+473,Andrew,Hunt,Freshman,COMP 182 Lab
+474,Ruth,Martinez,Sophomore,COMP 182 Lab
+474,Ruth,Martinez,Sophomore,CIT 101
+475,Ruby,Hunt,Senior,CIT 101
+475,Ruby,Hunt,Senior,CIT 101 Lab
+476,Denise,Thomas,Junior,CIT 101 Lab
+476,Denise,Thomas,Junior,COMP 182
+477,Randy,Reid,Sophomore,COMP 182
+477,Randy,Reid,Sophomore,COMP 182 Lab
+478,Jeremy,Wallace,Senior,COMP 182 Lab
+478,Jeremy,Wallace,Senior,CIT 101
+479,Anna,Mason,Junior,CIT 101
+479,Anna,Mason,Junior,CIT 101 Lab
+480,Douglas,Williams,Junior,CIT 101 Lab
+480,Douglas,Williams,Junior,COMP 182
+481,Randy,Turner,Senior,COMP 182
+481,Randy,Turner,Senior,COMP 182 Lab
+482,Ryan,Austin,Freshman,COMP 182 Lab
+482,Ryan,Austin,Freshman,CIT 101
+483,Elizabeth,Nichols,Sophomore,CIT 101
+483,Elizabeth,Nichols,Sophomore,CIT 101 Lab
+484,Maria,Mason,Senior,CIT 101 Lab
+484,Maria,Mason,Senior,COMP 182
+485,Willie,Perez,Junior,COMP 182
+485,Willie,Perez,Junior,COMP 182 Lab
+486,Willie,Brown,Sophomore,COMP 182 Lab
+486,Willie,Brown,Sophomore,CIT 101
+487,Virginia,Armstrong,Senior,CIT 101
+487,Virginia,Armstrong,Senior,CIT 101 Lab
+488,Kenneth,Daniels,Junior,CIT 101 Lab
+488,Kenneth,Daniels,Junior,COMP 182
+489,Ashley,Warren,Junior,COMP 182
+489,Ashley,Warren,Junior,COMP 182 Lab
+490,Eugene,Green,Senior,COMP 182 Lab
+490,Eugene,Green,Senior,CIT 101
+491,Antonio,West,Freshman,CIT 101
+491,Antonio,West,Freshman,CIT 101 Lab
+492,Jonathan,Wright,Sophomore,CIT 101 Lab
+492,Jonathan,Wright,Sophomore,COMP 182
+493,Janice,Garcia,Senior,COMP 182
+493,Janice,Garcia,Senior,COMP 182 Lab
+494,Andrea,Stanley,Junior,COMP 182 Lab
+494,Andrea,Stanley,Junior,CIT 101
+495,Louise,Dixon,Sophomore,CIT 101
+495,Louise,Dixon,Sophomore,CIT 101 Lab
+496,Marilyn,Castillo,Senior,CIT 101 Lab
+496,Marilyn,Castillo,Senior,COMP 182
+497,Doris,Hall,Junior,COMP 182
+497,Doris,Hall,Junior,COMP 182 Lab
+498,Ann,Webb,Junior,COMP 182 Lab
+498,Ann,Webb,Junior,CIT 101
+499,Matthew,Garrett,Senior,CIT 101
+499,Matthew,Garrett,Senior,CIT 101 Lab
+500,Billy,Wells,Freshman,CIT 101 Lab
+500,Billy,Wells,Freshman,COMP 182
+501,Gloria,Henderson,Sophomore,COMP 182
+501,Gloria,Henderson,Sophomore,COMP 182 Lab
+502,Billy,Reynolds,Senior,COMP 182 Lab
+502,Billy,Reynolds,Senior,CIT 101
+503,Samuel,Rodriguez,Junior,CIT 101
+503,Samuel,Rodriguez,Junior,CIT 101 Lab
+504,Albert,Turner,Sophomore,CIT 101 Lab
+504,Albert,Turner,Sophomore,COMP 182
+505,Jonathan,Ward,Senior,COMP 182
+505,Jonathan,Ward,Senior,COMP 182 Lab
+506,Gloria,Ross,Junior,COMP 182 Lab
+506,Gloria,Ross,Junior,CIT 101
+507,Steve,Spencer,Junior,CIT 101
+507,Steve,Spencer,Junior,CIT 101 Lab
+508,Judith,Long,Senior,CIT 101 Lab
+508,Judith,Long,Senior,COMP 182
+509,Henry,Foster,Freshman,COMP 182
+509,Henry,Foster,Freshman,COMP 182 Lab
+510,Wanda,Hernandez,Sophomore,COMP 182 Lab
+510,Wanda,Hernandez,Sophomore,CIT 101
+511,Barbara,Taylor,Senior,CIT 101
+511,Barbara,Taylor,Senior,CIT 101 Lab
+512,Paul,Ruiz,Junior,CIT 101 Lab
+512,Paul,Ruiz,Junior,COMP 182
+513,Edward,Hernandez,Sophomore,COMP 182
+513,Edward,Hernandez,Sophomore,COMP 182 Lab
+514,Randy,Garza,Senior,COMP 182 Lab
+514,Randy,Garza,Senior,CIT 101
+515,Matthew,Schmidt,Junior,CIT 101
+515,Matthew,Schmidt,Junior,CIT 101 Lab
+516,Karen,Holmes,Junior,CIT 101 Lab
+516,Karen,Holmes,Junior,COMP 182 Lab
+517,Richard,Ramirez,Senior,COMP 182
+517,Richard,Ramirez,Senior,CIT 101
+518,Andrea,Clark,Freshman,COMP 182 Lab
+518,Andrea,Clark,Freshman,CIT 101 Lab
+519,Willie,Martinez,Sophomore,CIT 101
+519,Willie,Martinez,Sophomore,COMP 182
+520,Judith,Lewis,Senior,CIT 101 Lab
+520,Judith,Lewis,Senior,COMP 182 Lab
+521,Martin,Freeman,Junior,COMP 182
+521,Martin,Freeman,Junior,CIT 101
+522,George,Ford,Sophomore,COMP 182 Lab
+522,George,Ford,Sophomore,CIT 101 Lab
+523,Sharon,Franklin,Senior,CIT 101
+523,Sharon,Franklin,Senior,COMP 182
+524,Margaret,Coleman,Junior,CIT 101 Lab
+524,Margaret,Coleman,Junior,COMP 182 Lab
+525,Arthur,Austin,Junior,COMP 182
+525,Arthur,Austin,Junior,CIT 101
+526,Tina,Gordon,Senior,COMP 182 Lab
+526,Tina,Gordon,Senior,CIT 101 Lab
+527,Dorothy,Gibson,Freshman,CIT 101
+527,Dorothy,Gibson,Freshman,COMP 182
+528,Howard,Chapman,Sophomore,CIT 101 Lab
+528,Howard,Chapman,Sophomore,COMP 182 Lab
+529,Christina,Knight,Senior,COMP 182
+529,Christina,Knight,Senior,CIT 101
+530,Donna,Gordon,Junior,COMP 182 Lab
+530,Donna,Gordon,Junior,CIT 101 Lab
+531,Raymond,Armstrong,Sophomore,CIT 101
+531,Raymond,Armstrong,Sophomore,COMP 182
+532,Sean,Olson,Senior,CIT 101 Lab
+532,Sean,Olson,Senior,COMP 182 Lab
+533,Patrick,Marshall,Junior,COMP 182
+533,Patrick,Marshall,Junior,CIT 101
+534,Betty,Alexander,Junior,COMP 182 Lab
+534,Betty,Alexander,Junior,CIT 101 Lab
+535,Marie,Graham,Senior,CIT 101
+535,Marie,Graham,Senior,COMP 182
+536,Craig,Simpson,Freshman,CIT 101 Lab
+536,Craig,Simpson,Freshman,COMP 182 Lab
+537,Joe,Montgomery,Sophomore,COMP 182
+537,Joe,Montgomery,Sophomore,CIT 101
+538,Laura,Taylor,Senior,COMP 182 Lab
+538,Laura,Taylor,Senior,CIT 101 Lab
+539,Sarah,Montgomery,Junior,CIT 101
+539,Sarah,Montgomery,Junior,COMP 182
+540,Eric,James,Sophomore,CIT 101 Lab
+540,Eric,James,Sophomore,COMP 182 Lab
+541,Barbara,Morales,Senior,COMP 182
+541,Barbara,Morales,Senior,CIT 101
+542,Louise,Burton,Junior,COMP 182 Lab
+542,Louise,Burton,Junior,CIT 101 Lab
+543,Dorothy,Murray,Junior,CIT 101
+543,Dorothy,Murray,Junior,COMP 182
+544,Dorothy,Green,Senior,CIT 101 Lab
+544,Dorothy,Green,Senior,COMP 182 Lab
+545,Maria,Willis,Freshman,COMP 182
+545,Maria,Willis,Freshman,CIT 101
+546,Walter,Snyder,Sophomore,COMP 182 Lab
+546,Walter,Snyder,Sophomore,CIT 101 Lab
+547,Phillip,Turner,Senior,CIT 101
+547,Phillip,Turner,Senior,COMP 182
+548,Amy,Cole,Junior,CIT 101 Lab
+548,Amy,Cole,Junior,COMP 182 Lab
+549,Frances,Allen,Sophomore,COMP 182
+549,Frances,Allen,Sophomore,CIT 101
+550,Beverly,Ellis,Senior,COMP 182 Lab
+550,Beverly,Ellis,Senior,CIT 101 Lab
+551,Jane,Foster,Junior,CIT 101
+551,Jane,Foster,Junior,COMP 182
+552,Dennis,Rogers,Junior,CIT 101 Lab
+552,Dennis,Rogers,Junior,COMP 182 Lab
+553,Jeffrey,Peters,Senior,COMP 182
+553,Jeffrey,Peters,Senior,CIT 101
+554,Diana,Washington,Freshman,COMP 182 Lab
+554,Diana,Washington,Freshman,CIT 101 Lab
+555,Jonathan,Lawrence,Sophomore,CIT 101
+555,Jonathan,Lawrence,Sophomore,COMP 182
+556,Earl,Mitchell,Senior,CIT 101 Lab
+556,Earl,Mitchell,Senior,COMP 182 Lab
+557,Carolyn,Morgan,Junior,COMP 182
+557,Carolyn,Morgan,Junior,CIT 101
+558,Ruth,Morrison,Sophomore,COMP 182 Lab
+558,Ruth,Morrison,Sophomore,CIT 101 Lab
+559,Joan,Henderson,Senior,CIT 101
+559,Joan,Henderson,Senior,COMP 182
+560,Martha,Foster,Junior,CIT 101 Lab
+560,Martha,Foster,Junior,COMP 182 Lab
+561,Angela,Fields,Junior,COMP 182
+561,Angela,Fields,Junior,CIT 101
+562,Ryan,Jackson,Senior,COMP 182 Lab
+562,Ryan,Jackson,Senior,CIT 101 Lab
+563,Henry,Nichols,Freshman,CIT 101
+563,Henry,Nichols,Freshman,COMP 182
+564,Chris,Gonzales,Sophomore,CIT 101 Lab
+564,Chris,Gonzales,Sophomore,COMP 182 Lab
+565,Raymond,Wilson,Senior,COMP 182
+565,Raymond,Wilson,Senior,CIT 101
+566,Jose,Warren,Junior,COMP 182 Lab
+566,Jose,Warren,Junior,CIT 101 Lab
+567,Ann,Lane,Sophomore,CIT 101
+567,Ann,Lane,Sophomore,COMP 182
+568,Russell,Rodriguez,Senior,CIT 101 Lab
+568,Russell,Rodriguez,Senior,COMP 182 Lab
+569,Scott,Kennedy,Junior,COMP 182
+569,Scott,Kennedy,Junior,CIT 101
+570,Betty,Lawson,Junior,COMP 182 Lab
+570,Betty,Lawson,Junior,CIT 101 Lab
+571,Bobby,Carpenter,Senior,CIT 101
+571,Bobby,Carpenter,Senior,COMP 182
+572,Nicole,Richardson,Freshman,CIT 101 Lab
+572,Nicole,Richardson,Freshman,COMP 182 Lab
+573,Michelle,Fields,Sophomore,COMP 182
+573,Michelle,Fields,Sophomore,CIT 101
+574,Laura,Elliott,Senior,COMP 182 Lab
+574,Laura,Elliott,Senior,CIT 101 Lab
+575,Julia,Thomas,Junior,CIT 101
+575,Julia,Thomas,Junior,COMP 182
+576,Walter,Peters,Sophomore,CIT 101 Lab
+576,Walter,Peters,Sophomore,COMP 182 Lab
+577,Lillian,Fields,Senior,COMP 182
+577,Lillian,Fields,Senior,CIT 101
+578,Melissa,Davis,Junior,COMP 182 Lab
+578,Melissa,Davis,Junior,CIT 101 Lab
+579,Kathleen,Berry,Junior,CIT 101
+579,Kathleen,Berry,Junior,COMP 182
+580,Wayne,Fisher,Senior,CIT 101 Lab
+580,Wayne,Fisher,Senior,COMP 182 Lab
+581,Jacqueline,Rodriguez,Freshman,COMP 182
+581,Jacqueline,Rodriguez,Freshman,CIT 101
+582,Doris,Clark,Sophomore,COMP 182 Lab
+582,Doris,Clark,Sophomore,CIT 101 Lab
+583,Judy,Larson,Senior,CIT 101
+583,Judy,Larson,Senior,COMP 182
+584,Anna,Johnson,Junior,CIT 101 Lab
+584,Anna,Johnson,Junior,COMP 182 Lab
+585,Beverly,Cruz,Sophomore,COMP 182
+585,Beverly,Cruz,Sophomore,CIT 101
+586,Judy,Mcdonald,Senior,COMP 182 Lab
+586,Judy,Mcdonald,Senior,CIT 101 Lab
+587,Nicholas,Ward,Junior,CIT 101
+587,Nicholas,Ward,Junior,COMP 182
+588,Patrick,Knight,Junior,CIT 101 Lab
+588,Patrick,Knight,Junior,COMP 182 Lab
+589,Carolyn,Howell,Senior,COMP 182
+589,Carolyn,Howell,Senior,CIT 101
+590,Beverly,Olson,Freshman,COMP 182 Lab
+590,Beverly,Olson,Freshman,CIT 101 Lab
+591,Kimberly,Chavez,Sophomore,CIT 101
+591,Kimberly,Chavez,Sophomore,COMP 182 Lab
+592,Andrew,Reed,Senior,CIT 101 Lab
+592,Andrew,Reed,Senior,CIT 101
+593,Kathryn,Stephens,Junior,COMP 182
+593,Kathryn,Stephens,Junior,CIT 101 Lab
+594,Samuel,Cole,Sophomore,COMP 182 Lab
+594,Samuel,Cole,Sophomore,COMP 182
+595,Alan,Rodriguez,Senior,CIT 101
+595,Alan,Rodriguez,Senior,COMP 182 Lab
+596,Amy,Rose,Junior,CIT 101 Lab
+596,Amy,Rose,Junior,CIT 101
+597,Phillip,Riley,Junior,COMP 182
+597,Phillip,Riley,Junior,CIT 101 Lab
+598,Steve,Carter,Senior,COMP 182 Lab
+598,Steve,Carter,Senior,COMP 182
+599,Christine,Kennedy,Freshman,CIT 101
+599,Christine,Kennedy,Freshman,COMP 182 Lab
+600,Gerald,Harper,Sophomore,CIT 101 Lab
+600,Gerald,Harper,Sophomore,CIT 101
+601,Douglas,Perry,Senior,COMP 182
+601,Douglas,Perry,Senior,CIT 101 Lab
+602,Ruby,Thomas,Junior,COMP 182 Lab
+602,Ruby,Thomas,Junior,COMP 182
+603,Marie,Wilson,Sophomore,CIT 101
+603,Marie,Wilson,Sophomore,COMP 182 Lab
+604,Douglas,Bryant,Senior,CIT 101 Lab
+604,Douglas,Bryant,Senior,CIT 101
+605,Samuel,Castillo,Junior,COMP 182
+605,Samuel,Castillo,Junior,CIT 101 Lab
+606,Fred,Montgomery,Junior,COMP 182 Lab
+606,Fred,Montgomery,Junior,COMP 182
+607,Marie,Stanley,Senior,CIT 101
+607,Marie,Stanley,Senior,COMP 182 Lab
+608,Rebecca,Fox,Freshman,CIT 101 Lab
+608,Rebecca,Fox,Freshman,CIT 101
+609,Kathy,Stevens,Sophomore,COMP 182
+609,Kathy,Stevens,Sophomore,CIT 101 Lab
+610,Helen,Bowman,Senior,COMP 182 Lab
+610,Helen,Bowman,Senior,COMP 182
+611,Ernest,Stephens,Junior,CIT 101
+611,Ernest,Stephens,Junior,COMP 182 Lab
+612,Patricia,Carter,Sophomore,CIT 101 Lab
+612,Patricia,Carter,Sophomore,CIT 101
+613,Jonathan,Reed,Senior,COMP 182
+613,Jonathan,Reed,Senior,CIT 101 Lab
+614,Beverly,Cook,Junior,COMP 182 Lab
+614,Beverly,Cook,Junior,COMP 182
+615,Susan,Smith,Junior,CIT 101
+615,Susan,Smith,Junior,COMP 182 Lab
+616,Alice,Mccoy,Senior,CIT 101 Lab
+616,Alice,Mccoy,Senior,CIT 101
+617,Susan,Palmer,Freshman,COMP 182
+617,Susan,Palmer,Freshman,CIT 101 Lab
+618,Fred,Montgomery,Sophomore,COMP 182 Lab
+618,Fred,Montgomery,Sophomore,COMP 182
+619,Helen,Rodriguez,Senior,CIT 101
+619,Helen,Rodriguez,Senior,COMP 182 Lab
+620,Peter,Robinson,Junior,CIT 101 Lab
+620,Peter,Robinson,Junior,CIT 101
+621,Donna,Gilbert,Sophomore,COMP 182
+621,Donna,Gilbert,Sophomore,CIT 101 Lab
+622,Carl,Ray,Senior,COMP 182 Lab
+622,Carl,Ray,Senior,COMP 182
+623,Lois,Baker,Junior,CIT 101
+623,Lois,Baker,Junior,COMP 182 Lab
+624,Betty,Lopez,Junior,CIT 101 Lab
+624,Betty,Lopez,Junior,CIT 101
+625,Brandon,Mills,Senior,COMP 182
+625,Brandon,Mills,Senior,CIT 101 Lab
+626,Theresa,Henry,Freshman,COMP 182 Lab
+626,Theresa,Henry,Freshman,COMP 182
+627,Teresa,Ford,Sophomore,CIT 101
+627,Teresa,Ford,Sophomore,COMP 182 Lab
+628,Paula,Bowman,Senior,CIT 101 Lab
+628,Paula,Bowman,Senior,CIT 101
+629,Howard,Collins,Junior,COMP 182
+629,Howard,Collins,Junior,CIT 101 Lab
+630,Cheryl,Castillo,Sophomore,COMP 182 Lab
+630,Cheryl,Castillo,Sophomore,COMP 182
+631,Clarence,Rice,Senior,CIT 101
+631,Clarence,Rice,Senior,COMP 182 Lab
+632,Bobby,Coleman,Junior,CIT 101 Lab
+632,Bobby,Coleman,Junior,CIT 101
+633,Fred,Richards,Junior,COMP 182
+633,Fred,Richards,Junior,CIT 101 Lab
+634,Evelyn,Griffin,Senior,COMP 182 Lab
+634,Evelyn,Griffin,Senior,COMP 182
+635,Phyllis,Reid,Freshman,CIT 101
+635,Phyllis,Reid,Freshman,COMP 182 Lab
+636,Philip,Dean,Sophomore,CIT 101 Lab
+636,Philip,Dean,Sophomore,CIT 101
+637,Brenda,Holmes,Senior,COMP 182
+637,Brenda,Holmes,Senior,CIT 101 Lab
+638,Phillip,Fields,Junior,COMP 182 Lab
+638,Phillip,Fields,Junior,COMP 182
+639,Joan,Gardner,Sophomore,CIT 101
+639,Joan,Gardner,Sophomore,COMP 182 Lab
+640,Elizabeth,Chavez,Senior,CIT 101 Lab
+640,Elizabeth,Chavez,Senior,CIT 101
+641,Sarah,Ryan,Junior,COMP 182
+641,Sarah,Ryan,Junior,CIT 101 Lab
+642,Judy,Myers,Junior,COMP 182 Lab
+642,Judy,Myers,Junior,COMP 182
+643,Frances,Nichols,Senior,CIT 101
+643,Frances,Nichols,Senior,COMP 182 Lab
+644,Diane,Wallace,Freshman,CIT 101 Lab
+644,Diane,Wallace,Freshman,CIT 101
+645,Roger,Murphy,Sophomore,COMP 182
+645,Roger,Murphy,Sophomore,CIT 101 Lab
+646,Kenneth,Austin,Senior,COMP 182 Lab
+646,Kenneth,Austin,Senior,COMP 182
+647,Michelle,Mendoza,Junior,CIT 101
+647,Michelle,Mendoza,Junior,COMP 182 Lab
+648,Dorothy,Welch,Sophomore,CIT 101 Lab
+648,Dorothy,Welch,Sophomore,CIT 101
+649,Philip,Lane,Senior,COMP 182
+649,Philip,Lane,Senior,CIT 101 Lab
+650,Annie,Wilson,Junior,COMP 182 Lab
+650,Annie,Wilson,Junior,COMP 182
+651,Jessica,Kelly,Junior,CIT 101
+651,Jessica,Kelly,Junior,COMP 182 Lab
+652,Alice,Cruz,Senior,CIT 101 Lab
+652,Alice,Cruz,Senior,CIT 101
+653,Patrick,Henderson,Freshman,COMP 182
+653,Patrick,Henderson,Freshman,CIT 101 Lab
+654,Betty,Vasquez,Sophomore,COMP 182 Lab
+654,Betty,Vasquez,Sophomore,COMP 182
+655,Nancy,Butler,Senior,CIT 101
+655,Nancy,Butler,Senior,COMP 182 Lab
+656,Eugene,Castillo,Junior,CIT 101 Lab
+656,Eugene,Castillo,Junior,CIT 101
+657,Craig,Wood,Sophomore,COMP 182
+657,Craig,Wood,Sophomore,CIT 101 Lab
+658,Helen,Clark,Senior,COMP 182 Lab
+658,Helen,Clark,Senior,COMP 182
+659,Bobby,Cole,Junior,CIT 101
+659,Bobby,Cole,Junior,COMP 182 Lab
+660,Craig,Kelly,Junior,CIT 101 Lab
+660,Craig,Kelly,Junior,CIT 101
+661,Margaret,Ross,Senior,COMP 182
+661,Margaret,Ross,Senior,CIT 101 Lab
+662,Stephanie,Hanson,Freshman,COMP 182 Lab
+662,Stephanie,Hanson,Freshman,COMP 182
+663,Mary,Brooks,Sophomore,CIT 101
+663,Mary,Brooks,Sophomore,COMP 182 Lab
+664,Anne,Johnson,Senior,CIT 101 Lab
+664,Anne,Johnson,Senior,CIT 101
+665,Gerald,Brooks,Junior,COMP 182
+665,Gerald,Brooks,Junior,CIT 101 Lab
+666,Bruce,Powell,Sophomore,COMP 182 Lab
+666,Bruce,Powell,Sophomore,COMP 182 Lab
+667,Matthew,Reed,Senior,CIT 101
+667,Matthew,Reed,Senior,CIT 101
+668,Kathryn,White,Junior,CIT 101 Lab
+668,Kathryn,White,Junior,CIT 101 Lab
+669,Diana,Nguyen,Junior,COMP 182
+669,Diana,Nguyen,Junior,COMP 182
+670,Linda,Price,Senior,COMP 182 Lab
+670,Linda,Price,Senior,COMP 182 Lab
+671,Richard,Morris,Freshman,CIT 101
+671,Richard,Morris,Freshman,CIT 101
+672,Patrick,Scott,Sophomore,CIT 101 Lab
+672,Patrick,Scott,Sophomore,CIT 101 Lab
+673,Lawrence,Reed,Senior,COMP 182
+673,Lawrence,Reed,Senior,COMP 182
+674,Keith,Perkins,Junior,COMP 182 Lab
+674,Keith,Perkins,Junior,COMP 182 Lab
+675,Paula,Perkins,Sophomore,CIT 101
+675,Paula,Perkins,Sophomore,CIT 101
+676,Walter,Owens,Senior,CIT 101 Lab
+676,Walter,Owens,Senior,CIT 101 Lab
+677,Albert,Jenkins,Junior,COMP 182
+677,Albert,Jenkins,Junior,COMP 182
+678,Sara,Gilbert,Junior,COMP 182 Lab
+678,Sara,Gilbert,Junior,COMP 182 Lab
+679,Elizabeth,Wells,Senior,CIT 101
+679,Elizabeth,Wells,Senior,CIT 101
+680,Wanda,Campbell,Freshman,CIT 101 Lab
+680,Wanda,Campbell,Freshman,CIT 101 Lab
+681,Sandra,Ward,Sophomore,COMP 182
+681,Sandra,Ward,Sophomore,COMP 182
+682,Lori,Cunningham,Senior,COMP 182 Lab
+682,Lori,Cunningham,Senior,COMP 182 Lab
+683,Harry,Perkins,Junior,CIT 101
+683,Harry,Perkins,Junior,CIT 101
+684,Jane,Hudson,Sophomore,CIT 101 Lab
+684,Jane,Hudson,Sophomore,CIT 101 Lab
+685,Amy,Warren,Senior,COMP 182
+685,Amy,Warren,Senior,COMP 182
+686,Janet,Gibson,Junior,COMP 182 Lab
+686,Janet,Gibson,Junior,COMP 182 Lab
+687,Margaret,Fisher,Junior,CIT 101
+687,Margaret,Fisher,Junior,CIT 101
+688,Nicole,Riley,Senior,CIT 101 Lab
+688,Nicole,Riley,Senior,CIT 101 Lab
+689,Janet,Kelley,Freshman,COMP 182
+689,Janet,Kelley,Freshman,COMP 182
+690,Gloria,Ross,Sophomore,COMP 182 Lab
+690,Gloria,Ross,Sophomore,COMP 182 Lab
+691,Johnny,Perry,Senior,CIT 101
+691,Johnny,Perry,Senior,CIT 101
+692,Pamela,Ramirez,Junior,CIT 101 Lab
+692,Pamela,Ramirez,Junior,CIT 101 Lab
+693,Ralph,Garza,Sophomore,COMP 182
+693,Ralph,Garza,Sophomore,COMP 182
+694,Robin,Garcia,Senior,COMP 182 Lab
+694,Robin,Garcia,Senior,COMP 182 Lab
+695,Kimberly,Davis,Junior,CIT 101
+695,Kimberly,Davis,Junior,CIT 101
+696,Carl,Dixon,Junior,CIT 101 Lab
+696,Carl,Dixon,Junior,CIT 101 Lab
+697,Karen,Willis,Senior,COMP 182
+697,Karen,Willis,Senior,COMP 182
+698,Clarence,Woods,Freshman,COMP 182 Lab
+698,Clarence,Woods,Freshman,COMP 182 Lab
+699,Judy,Brown,Sophomore,CIT 101
+699,Judy,Brown,Sophomore,CIT 101
+700,Philip,Rose,Senior,CIT 101 Lab
+700,Philip,Rose,Senior,CIT 101 Lab
+701,Marie,Johnston,Junior,COMP 182
+701,Marie,Johnston,Junior,COMP 182
+702,Michelle,Fisher,Sophomore,COMP 182 Lab
+702,Michelle,Fisher,Sophomore,COMP 182 Lab
+703,Patrick,Stephens,Senior,CIT 101
+703,Patrick,Stephens,Senior,CIT 101
+704,Harold,Graham,Junior,CIT 101 Lab
+704,Harold,Graham,Junior,CIT 101 Lab
+705,Doris,Lawrence,Junior,COMP 182
+705,Doris,Lawrence,Junior,COMP 182
+706,Kathy,Morgan,Senior,COMP 182 Lab
+706,Kathy,Morgan,Senior,COMP 182 Lab
+707,Kathryn,Cole,Freshman,CIT 101
+707,Kathryn,Cole,Freshman,CIT 101
+708,Steven,Kim,Sophomore,CIT 101 Lab
+708,Steven,Kim,Sophomore,CIT 101 Lab
+709,Keith,Bailey,Senior,COMP 182
+709,Keith,Bailey,Senior,COMP 182
+710,Margaret,Wheeler,Junior,COMP 182 Lab
+710,Margaret,Wheeler,Junior,COMP 182 Lab
+711,Keith,Mitchell,Sophomore,CIT 101
+711,Keith,Mitchell,Sophomore,CIT 101
+712,Eugene,Butler,Senior,CIT 101 Lab
+712,Eugene,Butler,Senior,CIT 101 Lab
+713,Denise,Roberts,Junior,COMP 182
+713,Denise,Roberts,Junior,COMP 182
+714,Joan,Franklin,Junior,COMP 182 Lab
+714,Joan,Franklin,Junior,COMP 182 Lab
+715,Stephen,Alexander,Senior,CIT 101
+715,Stephen,Alexander,Senior,CIT 101
+716,Jeremy,Thompson,Freshman,CIT 101 Lab
+716,Jeremy,Thompson,Freshman,CIT 101 Lab
+717,Jennifer,Chapman,Sophomore,COMP 182
+717,Jennifer,Chapman,Sophomore,COMP 182
+718,Jimmy,Nichols,Senior,COMP 182 Lab
+718,Jimmy,Nichols,Senior,COMP 182 Lab
+719,Howard,King,Junior,CIT 101
+719,Howard,King,Junior,CIT 101
+720,Shirley,Wagner,Sophomore,CIT 101 Lab
+720,Shirley,Wagner,Sophomore,CIT 101 Lab
+721,Andrea,Hayes,Senior,COMP 182
+721,Andrea,Hayes,Senior,COMP 182
+722,Brian,Bennett,Junior,COMP 182 Lab
+722,Brian,Bennett,Junior,COMP 182 Lab
+723,Nancy,Hill,Junior,CIT 101
+723,Nancy,Hill,Junior,CIT 101
+724,Roy,Scott,Senior,CIT 101 Lab
+724,Roy,Scott,Senior,CIT 101 Lab
+725,Justin,Gutierrez,Freshman,COMP 182
+725,Justin,Gutierrez,Freshman,COMP 182
+726,Kevin,Grant,Sophomore,COMP 182 Lab
+726,Kevin,Grant,Sophomore,COMP 182 Lab
+727,Pamela,West,Senior,CIT 101
+727,Pamela,West,Senior,CIT 101
+728,Steven,Henry,Junior,CIT 101 Lab
+728,Steven,Henry,Junior,CIT 101 Lab
+729,Donna,Ryan,Sophomore,COMP 182
+729,Donna,Ryan,Sophomore,COMP 182
+730,Roy,Rivera,Senior,COMP 182 Lab
+730,Roy,Rivera,Senior,COMP 182 Lab
+731,Diane,Cook,Junior,CIT 101
+731,Diane,Cook,Junior,CIT 101
+732,Janet,Jacobs,Junior,CIT 101 Lab
+732,Janet,Jacobs,Junior,CIT 101 Lab
+733,Virginia,Henry,Senior,COMP 182
+733,Virginia,Henry,Senior,COMP 182
+734,Eric,Lawson,Freshman,COMP 182 Lab
+734,Eric,Lawson,Freshman,COMP 182 Lab
+735,Howard,Welch,Sophomore,CIT 101
+735,Howard,Welch,Sophomore,CIT 101
+736,Catherine,Bennett,Senior,CIT 101 Lab
+736,Catherine,Bennett,Senior,CIT 101 Lab
+737,Matthew,King,Junior,COMP 182
+737,Matthew,King,Junior,COMP 182
+738,Debra,Burke,Sophomore,COMP 182 Lab
+738,Debra,Burke,Sophomore,COMP 182 Lab
+739,Bonnie,Moore,Senior,CIT 101
+739,Bonnie,Moore,Senior,CIT 101
+740,Terry,Day,Junior,CIT 101 Lab
+740,Terry,Day,Junior,CIT 101 Lab
+741,Nicole,Henderson,Junior,COMP 182
+741,Nicole,Henderson,Junior,COMP 182 Lab
+742,Anna,Grant,Senior,COMP 182 Lab
+742,Anna,Grant,Senior,CIT 101
+743,Keith,Johnson,Freshman,CIT 101
+743,Keith,Johnson,Freshman,CIT 101 Lab
+744,Theresa,Hart,Sophomore,CIT 101 Lab
+744,Theresa,Hart,Sophomore,COMP 182
+745,Douglas,Parker,Senior,COMP 182
+745,Douglas,Parker,Senior,COMP 182 Lab
+746,Mildred,Kim,Junior,COMP 182 Lab
+746,Mildred,Kim,Junior,CIT 101
+747,Cynthia,Fuller,Sophomore,CIT 101
+747,Cynthia,Fuller,Sophomore,CIT 101 Lab
+748,Wanda,Watkins,Senior,CIT 101 Lab
+748,Wanda,Watkins,Senior,COMP 182
+749,Betty,Wells,Junior,COMP 182
+749,Betty,Wells,Junior,COMP 182 Lab
+750,Wayne,Moore,Junior,COMP 182 Lab
+750,Wayne,Moore,Junior,CIT 101
+751,Terry,Alexander,Senior,CIT 101
+751,Terry,Alexander,Senior,CIT 101 Lab
+752,William,Collins,Freshman,CIT 101 Lab
+752,William,Collins,Freshman,COMP 182
+753,Thomas,Ross,Sophomore,COMP 182
+753,Thomas,Ross,Sophomore,COMP 182 Lab
+754,Louise,Boyd,Senior,COMP 182 Lab
+754,Louise,Boyd,Senior,CIT 101
+755,Barbara,Carpenter,Junior,CIT 101
+755,Barbara,Carpenter,Junior,CIT 101 Lab
+756,Matthew,Jones,Sophomore,CIT 101 Lab
+756,Matthew,Jones,Sophomore,COMP 182
+757,Ruth,Thompson,Senior,COMP 182
+757,Ruth,Thompson,Senior,COMP 182 Lab
+758,Patricia,Johnston,Junior,COMP 182 Lab
+758,Patricia,Johnston,Junior,CIT 101
+759,Diane,Welch,Junior,CIT 101
+759,Diane,Welch,Junior,CIT 101 Lab
+760,Sarah,Larson,Senior,CIT 101 Lab
+760,Sarah,Larson,Senior,COMP 182
+761,George,Kim,Freshman,COMP 182
+761,George,Kim,Freshman,COMP 182 Lab
+762,Kimberly,Russell,Sophomore,COMP 182 Lab
+762,Kimberly,Russell,Sophomore,CIT 101
+763,Raymond,Burns,Senior,CIT 101
+763,Raymond,Burns,Senior,CIT 101 Lab
+764,Diane,Watkins,Junior,CIT 101 Lab
+764,Diane,Watkins,Junior,COMP 182
+765,Christine,Ruiz,Sophomore,COMP 182
+765,Christine,Ruiz,Sophomore,COMP 182 Lab
+766,Keith,Lopez,Senior,COMP 182 Lab
+766,Keith,Lopez,Senior,CIT 101
+767,Clarence,Garza,Junior,CIT 101
+767,Clarence,Garza,Junior,CIT 101 Lab
+768,Christine,Williams,Junior,CIT 101 Lab
+768,Christine,Williams,Junior,COMP 182
+769,Gloria,Meyer,Senior,COMP 182
+769,Gloria,Meyer,Senior,COMP 182 Lab
+770,Earl,Hart,Freshman,COMP 182 Lab
+770,Earl,Hart,Freshman,CIT 101
+771,Carlos,Hall,Sophomore,CIT 101
+771,Carlos,Hall,Sophomore,CIT 101 Lab
+772,Kevin,Carr,Senior,CIT 101 Lab
+772,Kevin,Carr,Senior,COMP 182
+773,Jean,Cruz,Junior,COMP 182
+773,Jean,Cruz,Junior,COMP 182 Lab
+774,Lori,Miller,Sophomore,COMP 182 Lab
+774,Lori,Miller,Sophomore,CIT 101
+775,Ernest,Freeman,Senior,CIT 101
+775,Ernest,Freeman,Senior,CIT 101 Lab
+776,Charles,Jacobs,Junior,CIT 101 Lab
+776,Charles,Jacobs,Junior,COMP 182
+777,Gloria,Larson,Junior,COMP 182
+777,Gloria,Larson,Junior,COMP 182 Lab
+778,Patrick,Arnold,Senior,COMP 182 Lab
+778,Patrick,Arnold,Senior,CIT 101
+779,Andrew,Garza,Freshman,CIT 101
+779,Andrew,Garza,Freshman,CIT 101 Lab
+780,Patricia,Wagner,Sophomore,CIT 101 Lab
+780,Patricia,Wagner,Sophomore,COMP 182
+781,Pamela,Barnes,Senior,COMP 182
+781,Pamela,Barnes,Senior,COMP 182 Lab
+782,Alan,Moore,Junior,COMP 182 Lab
+782,Alan,Moore,Junior,CIT 101
+783,Rachel,Greene,Sophomore,CIT 101
+783,Rachel,Greene,Sophomore,CIT 101 Lab
+784,Marilyn,Wilson,Senior,CIT 101 Lab
+784,Marilyn,Wilson,Senior,COMP 182
+785,Christopher,Carter,Junior,COMP 182
+785,Christopher,Carter,Junior,COMP 182 Lab
+786,Donna,Gutierrez,Junior,COMP 182 Lab
+786,Donna,Gutierrez,Junior,CIT 101
+787,Howard,Patterson,Senior,CIT 101
+787,Howard,Patterson,Senior,CIT 101 Lab
+788,Nicole,Wallace,Freshman,CIT 101 Lab
+788,Nicole,Wallace,Freshman,COMP 182
+789,Bobby,Martinez,Sophomore,COMP 182
+789,Bobby,Martinez,Sophomore,COMP 182 Lab
+790,Emily,Foster,Senior,COMP 182 Lab
+790,Emily,Foster,Senior,CIT 101
+791,Peter,Hill,Junior,CIT 101
+791,Peter,Hill,Junior,CIT 101 Lab
+792,Tina,Arnold,Sophomore,CIT 101 Lab
+792,Tina,Arnold,Sophomore,COMP 182
+793,Phillip,Spencer,Senior,COMP 182
+793,Phillip,Spencer,Senior,COMP 182 Lab
+794,Howard,Harrison,Junior,COMP 182 Lab
+794,Howard,Harrison,Junior,CIT 101
+795,Jennifer,Cox,Junior,CIT 101
+795,Jennifer,Cox,Junior,CIT 101 Lab
+796,Paul,Jordan,Senior,CIT 101 Lab
+796,Paul,Jordan,Senior,COMP 182
+797,Wayne,Gonzales,Freshman,COMP 182
+797,Wayne,Gonzales,Freshman,COMP 182 Lab
+798,Jesse,Sanchez,Sophomore,COMP 182 Lab
+798,Jesse,Sanchez,Sophomore,CIT 101
+799,Cheryl,Crawford,Senior,CIT 101
+799,Cheryl,Crawford,Senior,CIT 101 Lab
+800,Ernest,Brown,Junior,CIT 101 Lab
+800,Ernest,Brown,Junior,COMP 182
+801,Janet,Hart,Sophomore,COMP 182
+801,Janet,Hart,Sophomore,COMP 182 Lab
+802,Jean,Burns,Senior,COMP 182 Lab
+802,Jean,Burns,Senior,CIT 101
+803,Jennifer,Ford,Junior,CIT 101
+803,Jennifer,Ford,Junior,CIT 101 Lab
+804,Louis,Morrison,Junior,CIT 101 Lab
+804,Louis,Morrison,Junior,COMP 182
+805,Henry,Daniels,Senior,COMP 182
+805,Henry,Daniels,Senior,COMP 182 Lab
+806,Sarah,Price,Freshman,COMP 182 Lab
+806,Sarah,Price,Freshman,CIT 101
+807,Catherine,Martinez,Sophomore,CIT 101
+807,Catherine,Martinez,Sophomore,CIT 101 Lab
+808,Janet,Williamson,Senior,CIT 101 Lab
+808,Janet,Williamson,Senior,COMP 182
+809,John,Moreno,Junior,COMP 182
+809,John,Moreno,Junior,COMP 182 Lab
+810,Kelly,Jacobs,Sophomore,COMP 182 Lab
+810,Kelly,Jacobs,Sophomore,CIT 101
+811,Dennis,Duncan,Senior,CIT 101
+811,Dennis,Duncan,Senior,CIT 101 Lab
+812,Martin,Russell,Junior,CIT 101 Lab
+812,Martin,Russell,Junior,COMP 182
+813,Earl,Johnson,Junior,COMP 182
+813,Earl,Johnson,Junior,COMP 182 Lab
+814,Chris,Williamson,Senior,COMP 182 Lab
+814,Chris,Williamson,Senior,CIT 101
+815,Amanda,Spencer,Freshman,CIT 101
+815,Amanda,Spencer,Freshman,CIT 101 Lab
+816,Cheryl,Perry,Sophomore,CIT 101 Lab
+816,Cheryl,Perry,Sophomore,COMP 182 Lab
+817,Mildred,Banks,Senior,COMP 182
+817,Mildred,Banks,Senior,CIT 101
+818,Gloria,George,Junior,COMP 182 Lab
+818,Gloria,George,Junior,CIT 101 Lab
+819,Carlos,Austin,Sophomore,CIT 101
+819,Carlos,Austin,Sophomore,COMP 182
+820,Steve,Hudson,Senior,CIT 101 Lab
+820,Steve,Hudson,Senior,COMP 182 Lab
+821,Joyce,Roberts,Junior,COMP 182
+821,Joyce,Roberts,Junior,CIT 101
+822,Irene,Long,Junior,COMP 182 Lab
+822,Irene,Long,Junior,CIT 101 Lab
+823,Denise,Jackson,Senior,CIT 101
+823,Denise,Jackson,Senior,COMP 182
+824,Judy,Banks,Freshman,CIT 101 Lab
+824,Judy,Banks,Freshman,COMP 182 Lab
+825,Marie,Bryant,Sophomore,COMP 182
+825,Marie,Bryant,Sophomore,CIT 101
+826,Nancy,Stanley,Senior,COMP 182 Lab
+826,Nancy,Stanley,Senior,CIT 101 Lab
+827,Eric,Gonzales,Junior,CIT 101
+827,Eric,Gonzales,Junior,COMP 182
+828,Antonio,Fernandez,Sophomore,CIT 101 Lab
+828,Antonio,Fernandez,Sophomore,COMP 182 Lab
+829,Linda,Rose,Senior,COMP 182
+829,Linda,Rose,Senior,CIT 101
+830,Terry,Griffin,Junior,COMP 182 Lab
+830,Terry,Griffin,Junior,CIT 101 Lab
+831,Larry,Rivera,Junior,CIT 101
+831,Larry,Rivera,Junior,COMP 182
+832,Gerald,Cooper,Senior,CIT 101 Lab
+832,Gerald,Cooper,Senior,COMP 182 Lab
+833,Jane,Morrison,Freshman,COMP 182
+833,Jane,Morrison,Freshman,CIT 101
+834,Judith,Webb,Sophomore,COMP 182 Lab
+834,Judith,Webb,Sophomore,CIT 101 Lab
+835,Kathryn,Price,Senior,CIT 101
+835,Kathryn,Price,Senior,COMP 182
+836,Johnny,Hudson,Junior,CIT 101 Lab
+836,Johnny,Hudson,Junior,COMP 182 Lab
+837,Lori,Carpenter,Sophomore,COMP 182
+837,Lori,Carpenter,Sophomore,CIT 101
+838,Anne,Richards,Senior,COMP 182 Lab
+838,Anne,Richards,Senior,CIT 101 Lab
+839,Paul,Davis,Junior,CIT 101
+839,Paul,Davis,Junior,COMP 182
+840,Richard,Evans,Junior,CIT 101 Lab
+840,Richard,Evans,Junior,COMP 182 Lab
+841,Steven,Lawson,Senior,COMP 182
+841,Steven,Lawson,Senior,CIT 101
+842,Jean,Knight,Freshman,COMP 182 Lab
+842,Jean,Knight,Freshman,CIT 101 Lab
+843,Gloria,Cook,Sophomore,CIT 101
+843,Gloria,Cook,Sophomore,COMP 182
+844,Harry,Gonzales,Senior,CIT 101 Lab
+844,Harry,Gonzales,Senior,COMP 182 Lab
+845,Ashley,Phillips,Junior,COMP 182
+845,Ashley,Phillips,Junior,CIT 101
+846,Andrea,West,Sophomore,COMP 182 Lab
+846,Andrea,West,Sophomore,CIT 101 Lab
+847,Harold,Armstrong,Senior,CIT 101
+847,Harold,Armstrong,Senior,COMP 182
+848,Ralph,Spencer,Junior,CIT 101 Lab
+848,Ralph,Spencer,Junior,COMP 182 Lab
+849,Angela,Coleman,Junior,COMP 182
+849,Angela,Coleman,Junior,CIT 101
+850,Nicholas,Foster,Senior,COMP 182 Lab
+850,Nicholas,Foster,Senior,CIT 101 Lab
+851,Sarah,Montgomery,Freshman,CIT 101
+851,Sarah,Montgomery,Freshman,COMP 182
+852,Christina,Austin,Sophomore,CIT 101 Lab
+852,Christina,Austin,Sophomore,COMP 182 Lab
+853,Lillian,Jacobs,Senior,COMP 182
+853,Lillian,Jacobs,Senior,CIT 101
+854,Virginia,Bishop,Junior,COMP 182 Lab
+854,Virginia,Bishop,Junior,CIT 101 Lab
+855,Marilyn,Hughes,Sophomore,CIT 101
+855,Marilyn,Hughes,Sophomore,COMP 182
+856,Denise,Andrews,Senior,CIT 101 Lab
+856,Denise,Andrews,Senior,COMP 182 Lab
+857,Matthew,Mitchell,Junior,COMP 182
+857,Matthew,Mitchell,Junior,CIT 101
+858,Betty,Butler,Junior,COMP 182 Lab
+858,Betty,Butler,Junior,CIT 101 Lab
+859,James,Crawford,Senior,CIT 101
+859,James,Crawford,Senior,COMP 182
+860,Dennis,Nguyen,Freshman,CIT 101 Lab
+860,Dennis,Nguyen,Freshman,COMP 182 Lab
+861,Eric,Snyder,Sophomore,COMP 182
+861,Eric,Snyder,Sophomore,CIT 101
+862,Patrick,Holmes,Senior,COMP 182 Lab
+862,Patrick,Holmes,Senior,CIT 101 Lab
+863,Maria,Lane,Junior,CIT 101
+863,Maria,Lane,Junior,COMP 182
+864,Alan,Perez,Sophomore,CIT 101 Lab
+864,Alan,Perez,Sophomore,COMP 182 Lab
+865,Larry,Meyer,Senior,COMP 182
+865,Larry,Meyer,Senior,CIT 101
+866,Helen,Hughes,Junior,COMP 182 Lab
+866,Helen,Hughes,Junior,CIT 101 Lab
+867,Christopher,Stevens,Junior,CIT 101
+867,Christopher,Stevens,Junior,COMP 182
+868,Janice,Lawrence,Senior,CIT 101 Lab
+868,Janice,Lawrence,Senior,COMP 182 Lab
+869,William,Fox,Freshman,COMP 182
+869,William,Fox,Freshman,CIT 101
+870,Katherine,Ward,Sophomore,COMP 182 Lab
+870,Katherine,Ward,Sophomore,CIT 101 Lab
+871,Jimmy,Hernandez,Senior,CIT 101
+871,Jimmy,Hernandez,Senior,COMP 182
+872,Janet,Welch,Junior,CIT 101 Lab
+872,Janet,Welch,Junior,COMP 182 Lab
+873,Martha,Johnston,Sophomore,COMP 182
+873,Martha,Johnston,Sophomore,CIT 101
+874,Steve,Dean,Senior,COMP 182 Lab
+874,Steve,Dean,Senior,CIT 101 Lab
+875,Jesse,Parker,Junior,CIT 101
+875,Jesse,Parker,Junior,COMP 182
+876,Teresa,King,Junior,CIT 101 Lab
+876,Teresa,King,Junior,COMP 182 Lab
+877,Angela,Stephens,Senior,COMP 182
+877,Angela,Stephens,Senior,CIT 101
+878,Anne,Gordon,Freshman,COMP 182 Lab
+878,Anne,Gordon,Freshman,CIT 101 Lab
+879,Nancy,Harvey,Sophomore,CIT 101
+879,Nancy,Harvey,Sophomore,COMP 182
+880,Aaron,Hart,Senior,CIT 101 Lab
+880,Aaron,Hart,Senior,COMP 182 Lab
+881,Arthur,Burke,Junior,COMP 182
+881,Arthur,Burke,Junior,CIT 101
+882,Ann,Burton,Sophomore,COMP 182 Lab
+882,Ann,Burton,Sophomore,CIT 101 Lab
+883,Phillip,Ellis,Senior,CIT 101
+883,Phillip,Ellis,Senior,COMP 182
+884,Donald,Frazier,Junior,CIT 101 Lab
+884,Donald,Frazier,Junior,COMP 182 Lab
+885,Jeffrey,Taylor,Junior,COMP 182
+885,Jeffrey,Taylor,Junior,CIT 101
+886,Martha,Dixon,Senior,COMP 182 Lab
+886,Martha,Dixon,Senior,CIT 101 Lab
+887,Amy,Payne,Freshman,CIT 101
+887,Amy,Payne,Freshman,COMP 182
+888,Ralph,Carpenter,Sophomore,CIT 101 Lab
+888,Ralph,Carpenter,Sophomore,COMP 182 Lab
+889,Rebecca,Stevens,Senior,COMP 182
+889,Rebecca,Stevens,Senior,CIT 101
+890,Carol,Stone,Junior,COMP 182 Lab
+890,Carol,Stone,Junior,CIT 101 Lab
+891,Clarence,Oliver,Sophomore,CIT 101
+891,Clarence,Oliver,Sophomore,COMP 182 Lab
+892,Juan,Matthews,Senior,CIT 101 Lab
+892,Juan,Matthews,Senior,CIT 101
+893,Dorothy,Rivera,Junior,COMP 182
+893,Dorothy,Rivera,Junior,CIT 101 Lab
+894,Donna,Berry,Junior,COMP 182 Lab
+894,Donna,Berry,Junior,COMP 182
+895,Christine,Dean,Senior,CIT 101
+895,Christine,Dean,Senior,COMP 182 Lab
+896,Christopher,Bailey,Freshman,CIT 101 Lab
+896,Christopher,Bailey,Freshman,CIT 101
+897,Roy,Romero,Sophomore,COMP 182
+897,Roy,Romero,Sophomore,CIT 101 Lab
+898,Joshua,Rivera,Senior,COMP 182 Lab
+898,Joshua,Rivera,Senior,COMP 182
+899,Jose,Johnson,Junior,CIT 101
+899,Jose,Johnson,Junior,COMP 182 Lab
+900,Janice,Kim,Sophomore,CIT 101 Lab
+900,Janice,Kim,Sophomore,CIT 101
+901,Jose,Stephens,Senior,COMP 182
+901,Jose,Stephens,Senior,CIT 101 Lab
+902,Joyce,Smith,Junior,COMP 182 Lab
+902,Joyce,Smith,Junior,COMP 182
+903,Timothy,Duncan,Junior,CIT 101
+903,Timothy,Duncan,Junior,COMP 182 Lab
+904,Sarah,Gibson,Senior,CIT 101 Lab
+904,Sarah,Gibson,Senior,CIT 101
+905,Kenneth,Berry,Freshman,COMP 182
+905,Kenneth,Berry,Freshman,CIT 101 Lab
+906,Wanda,Hernandez,Sophomore,COMP 182 Lab
+906,Wanda,Hernandez,Sophomore,COMP 182
+907,Andrew,Stevens,Senior,CIT 101
+907,Andrew,Stevens,Senior,COMP 182 Lab
+908,Clarence,Jordan,Junior,CIT 101 Lab
+908,Clarence,Jordan,Junior,CIT 101
+909,Frances,Greene,Sophomore,COMP 182
+909,Frances,Greene,Sophomore,CIT 101 Lab
+910,Angela,Bishop,Senior,COMP 182 Lab
+910,Angela,Bishop,Senior,COMP 182
+911,Lori,Spencer,Junior,CIT 101
+911,Lori,Spencer,Junior,COMP 182 Lab
+912,Louis,Gordon,Junior,CIT 101 Lab
+912,Louis,Gordon,Junior,CIT 101
+913,Judy,Lawrence,Senior,COMP 182
+913,Judy,Lawrence,Senior,CIT 101 Lab
+914,Justin,Lane,Freshman,COMP 182 Lab
+914,Justin,Lane,Freshman,COMP 182
+915,Kathryn,Olson,Sophomore,CIT 101
+915,Kathryn,Olson,Sophomore,COMP 182 Lab
+916,Albert,Franklin,Senior,CIT 101 Lab
+916,Albert,Franklin,Senior,CIT 101
+917,Jeremy,Johnston,Junior,COMP 182
+917,Jeremy,Johnston,Junior,CIT 101 Lab
+918,Amanda,Sanchez,Sophomore,COMP 182 Lab
+918,Amanda,Sanchez,Sophomore,COMP 182
+919,Helen,Harper,Senior,CIT 101
+919,Helen,Harper,Senior,COMP 182 Lab
+920,Benjamin,Fisher,Junior,CIT 101 Lab
+920,Benjamin,Fisher,Junior,CIT 101
+921,Thomas,Nelson,Junior,COMP 182
+921,Thomas,Nelson,Junior,CIT 101 Lab
+922,Anna,Payne,Senior,COMP 182 Lab
+922,Anna,Payne,Senior,COMP 182
+923,Andrew,Thompson,Freshman,CIT 101
+923,Andrew,Thompson,Freshman,COMP 182 Lab
+924,Billy,Hicks,Sophomore,CIT 101 Lab
+924,Billy,Hicks,Sophomore,CIT 101
+925,Andrew,Fowler,Senior,COMP 182
+925,Andrew,Fowler,Senior,CIT 101 Lab
+926,Evelyn,Collins,Junior,COMP 182 Lab
+926,Evelyn,Collins,Junior,COMP 182
+927,Thomas,Lawrence,Sophomore,CIT 101
+927,Thomas,Lawrence,Sophomore,COMP 182 Lab
+928,Heather,Palmer,Senior,CIT 101 Lab
+928,Heather,Palmer,Senior,CIT 101
+929,Larry,Cole,Junior,COMP 182
+929,Larry,Cole,Junior,CIT 101 Lab
+930,Andrew,Hill,Junior,COMP 182 Lab
+930,Andrew,Hill,Junior,COMP 182
+931,Betty,Scott,Senior,CIT 101
+931,Betty,Scott,Senior,COMP 182 Lab
+932,Todd,Martin,Freshman,CIT 101 Lab
+932,Todd,Martin,Freshman,CIT 101
+933,Justin,Lawson,Sophomore,COMP 182
+933,Justin,Lawson,Sophomore,CIT 101 Lab
+934,Cheryl,Shaw,Senior,COMP 182 Lab
+934,Cheryl,Shaw,Senior,COMP 182
+935,Victor,Ferguson,Junior,CIT 101
+935,Victor,Ferguson,Junior,COMP 182 Lab
+936,Doris,Jacobs,Sophomore,CIT 101 Lab
+936,Doris,Jacobs,Sophomore,CIT 101
+937,Pamela,Cox,Senior,COMP 182
+937,Pamela,Cox,Senior,CIT 101 Lab
+938,Nicole,Ryan,Junior,COMP 182 Lab
+938,Nicole,Ryan,Junior,COMP 182
+939,Ryan,Rice,Junior,CIT 101
+939,Ryan,Rice,Junior,COMP 182 Lab
+940,Helen,Rose,Senior,CIT 101 Lab
+940,Helen,Rose,Senior,CIT 101
+941,William,Hanson,Freshman,COMP 182
+941,William,Hanson,Freshman,CIT 101 Lab
+942,Adam,Weaver,Sophomore,COMP 182 Lab
+942,Adam,Weaver,Sophomore,COMP 182
+943,Clarence,Holmes,Senior,CIT 101
+943,Clarence,Holmes,Senior,COMP 182 Lab
+944,Nicole,Tucker,Junior,CIT 101 Lab
+944,Nicole,Tucker,Junior,CIT 101
+945,Henry,Fox,Sophomore,COMP 182
+945,Henry,Fox,Sophomore,CIT 101 Lab
+946,Ruth,Fisher,Senior,COMP 182 Lab
+946,Ruth,Fisher,Senior,COMP 182
+947,Julie,Matthews,Junior,CIT 101
+947,Julie,Matthews,Junior,COMP 182 Lab
+948,Jacqueline,Fisher,Junior,CIT 101 Lab
+948,Jacqueline,Fisher,Junior,CIT 101
+949,Margaret,Garcia,Senior,COMP 182
+949,Margaret,Garcia,Senior,CIT 101 Lab
+950,Gary,Tucker,Freshman,COMP 182 Lab
+950,Gary,Tucker,Freshman,COMP 182
+951,Fred,Matthews,Sophomore,CIT 101
+951,Fred,Matthews,Sophomore,COMP 182 Lab
+952,Julie,Williamson,Senior,CIT 101 Lab
+952,Julie,Williamson,Senior,CIT 101
+953,Ashley,Bishop,Junior,COMP 182
+953,Ashley,Bishop,Junior,CIT 101 Lab
+954,Victor,Matthews,Sophomore,COMP 182 Lab
+954,Victor,Matthews,Sophomore,COMP 182
+955,Charles,Moore,Senior,CIT 101
+955,Charles,Moore,Senior,COMP 182 Lab
+956,Chris,Black,Junior,CIT 101 Lab
+956,Chris,Black,Junior,CIT 101
+957,Marilyn,Stephens,Junior,COMP 182
+957,Marilyn,Stephens,Junior,CIT 101 Lab
+958,Sara,Green,Senior,COMP 182 Lab
+958,Sara,Green,Senior,COMP 182
+959,Debra,Moore,Freshman,CIT 101
+959,Debra,Moore,Freshman,COMP 182 Lab
+960,Arthur,Hall,Sophomore,CIT 101 Lab
+960,Arthur,Hall,Sophomore,CIT 101
+961,Clarence,Carpenter,Senior,COMP 182
+961,Clarence,Carpenter,Senior,CIT 101 Lab
+962,Samuel,Snyder,Junior,COMP 182 Lab
+962,Samuel,Snyder,Junior,COMP 182
+963,Lawrence,Willis,Sophomore,CIT 101
+963,Lawrence,Willis,Sophomore,COMP 182 Lab
+964,Bruce,Jones,Senior,CIT 101 Lab
+964,Bruce,Jones,Senior,CIT 101
+965,Martin,Hall,Junior,COMP 182
+965,Martin,Hall,Junior,CIT 101 Lab
+966,Russell,Ortiz,Junior,COMP 182 Lab
+966,Russell,Ortiz,Junior,COMP 182 Lab
+967,Jerry,Perkins,Senior,CIT 101
+967,Jerry,Perkins,Senior,CIT 101
+968,Robin,James,Freshman,CIT 101 Lab
+968,Robin,James,Freshman,CIT 101 Lab
+969,Angela,Ramirez,Sophomore,COMP 182
+969,Angela,Ramirez,Sophomore,COMP 182
+970,Paula,Price,Senior,COMP 182 Lab
+970,Paula,Price,Senior,COMP 182 Lab
+971,Andrea,Evans,Junior,CIT 101
+971,Andrea,Evans,Junior,CIT 101
+972,Katherine,Carroll,Sophomore,CIT 101 Lab
+972,Katherine,Carroll,Sophomore,CIT 101 Lab
+973,Laura,Sims,Senior,COMP 182
+973,Laura,Sims,Senior,COMP 182
+974,Carlos,Foster,Junior,COMP 182 Lab
+974,Carlos,Foster,Junior,COMP 182 Lab
+975,Shirley,Willis,Junior,CIT 101
+975,Shirley,Willis,Junior,CIT 101
+976,Chris,Weaver,Senior,CIT 101 Lab
+976,Chris,Weaver,Senior,CIT 101 Lab
+977,Alice,Washington,Freshman,COMP 182
+977,Alice,Washington,Freshman,COMP 182
+978,Edward,Lawrence,Sophomore,COMP 182 Lab
+978,Edward,Lawrence,Sophomore,COMP 182 Lab
+979,Theresa,Johnson,Senior,CIT 101
+979,Theresa,Johnson,Senior,CIT 101
+980,Maria,Mendoza,Junior,CIT 101 Lab
+980,Maria,Mendoza,Junior,CIT 101 Lab
+981,Ashley,Perkins,Sophomore,COMP 182
+981,Ashley,Perkins,Sophomore,COMP 182
+982,Patricia,Kelley,Senior,COMP 182 Lab
+982,Patricia,Kelley,Senior,COMP 182 Lab
+983,Maria,Hansen,Junior,CIT 101
+983,Maria,Hansen,Junior,CIT 101
+984,Brian,Hansen,Junior,CIT 101 Lab
+984,Brian,Hansen,Junior,CIT 101 Lab
+985,Christopher,Larson,Senior,COMP 182
+985,Christopher,Larson,Senior,COMP 182
+986,Deborah,Rose,Freshman,COMP 182 Lab
+986,Deborah,Rose,Freshman,COMP 182 Lab
+987,Andrew,Ford,Sophomore,CIT 101
+987,Andrew,Ford,Sophomore,CIT 101
+988,Joshua,Fisher,Senior,CIT 101 Lab
+988,Joshua,Fisher,Senior,CIT 101 Lab
+989,Margaret,Vasquez,Junior,COMP 182
+989,Margaret,Vasquez,Junior,COMP 182
+990,Dorothy,Bishop,Sophomore,COMP 182 Lab
+990,Dorothy,Bishop,Sophomore,COMP 182 Lab
+991,Debra,Ramos,Senior,CIT 101
+991,Debra,Ramos,Senior,CIT 101
+992,Peter,Cook,Junior,CIT 101 Lab
+992,Peter,Cook,Junior,CIT 101 Lab
+993,Juan,Snyder,Junior,COMP 182
+993,Juan,Snyder,Junior,COMP 182
+994,Eric,Powell,Senior,COMP 182 Lab
+994,Eric,Powell,Senior,COMP 182 Lab
+995,Jason,Black,Freshman,CIT 101
+995,Jason,Black,Freshman,CIT 101
+996,Cheryl,Fernandez,Sophomore,CIT 101 Lab
+996,Cheryl,Fernandez,Sophomore,CIT 101 Lab
+997,Catherine,Snyder,Senior,COMP 182
+997,Catherine,Snyder,Senior,COMP 182
+998,Earl,Peterson,Junior,COMP 182 Lab
+998,Earl,Peterson,Junior,COMP 182 Lab
+999,Kathryn,Greene,Sophomore,CIT 101
+999,Kathryn,Greene,Sophomore,CIT 101
+1000,Louis,Johnston,Senior,CIT 101 Lab
+1000,Louis,Johnston,Senior,CIT 101 Lab
+1001,Nicole,Porter,Junior,COMP 182
+1001,Nicole,Porter,Junior,COMP 182
+1002,Rachel,Owens,Junior,COMP 182 Lab
+1002,Rachel,Owens,Junior,COMP 182 Lab
+1003,Michael,Ortiz,Senior,CIT 101
+1003,Michael,Ortiz,Senior,CIT 101
+1004,Amy,Tucker,Freshman,CIT 101 Lab
+1004,Amy,Tucker,Freshman,CIT 101 Lab
+1005,Howard,Boyd,Sophomore,COMP 182
+1005,Howard,Boyd,Sophomore,COMP 182
+1006,Louise,Lewis,Senior,COMP 182 Lab
+1006,Louise,Lewis,Senior,COMP 182 Lab
+1007,Jane,Bishop,Junior,CIT 101
+1007,Jane,Bishop,Junior,CIT 101
+1008,Sharon,Ellis,Sophomore,CIT 101 Lab
+1008,Sharon,Ellis,Sophomore,CIT 101 Lab
+1009,Shawn,Gordon,Senior,COMP 182
+1009,Shawn,Gordon,Senior,COMP 182
+1010,Sara,Payne,Junior,COMP 182 Lab
+1010,Sara,Payne,Junior,COMP 182 Lab
+1011,Louis,Campbell,Junior,CIT 101
+1011,Louis,Campbell,Junior,CIT 101
+1012,Jesse,Shaw,Senior,CIT 101 Lab
+1012,Jesse,Shaw,Senior,CIT 101 Lab
+1013,Carlos,Turner,Freshman,COMP 182
+1013,Carlos,Turner,Freshman,COMP 182
+1014,Carol,Carr,Sophomore,COMP 182 Lab
+1014,Carol,Carr,Sophomore,COMP 182 Lab
+1015,Carol,Hart,Senior,CIT 101
+1015,Carol,Hart,Senior,CIT 101
+1016,Lillian,Walker,Junior,CIT 101 Lab
+1016,Lillian,Walker,Junior,CIT 101 Lab
+1017,Jean,Morales,Sophomore,COMP 182
+1017,Jean,Morales,Sophomore,COMP 182
+1018,Jean,Crawford,Senior,COMP 182 Lab
+1018,Jean,Crawford,Senior,COMP 182 Lab
+1019,Marilyn,Burns,Junior,CIT 101
+1019,Marilyn,Burns,Junior,CIT 101
+1020,Anne,Bishop,Junior,CIT 101 Lab
+1020,Anne,Bishop,Junior,CIT 101 Lab
+1021,Anne,Jenkins,Senior,COMP 182
+1021,Anne,Jenkins,Senior,COMP 182
+1022,Betty,Gomez,Freshman,COMP 182 Lab
+1022,Betty,Gomez,Freshman,COMP 182 Lab
+1023,Kimberly,Mendoza,Sophomore,CIT 101
+1023,Kimberly,Mendoza,Sophomore,CIT 101
+1024,Christopher,Arnold,Senior,CIT 101 Lab
+1024,Christopher,Arnold,Senior,CIT 101 Lab
+1025,Antonio,Harris,Junior,COMP 182
+1025,Antonio,Harris,Junior,COMP 182
+1026,Chris,Harvey,Sophomore,COMP 182 Lab
+1026,Chris,Harvey,Sophomore,COMP 182 Lab
+1027,Brian,Harvey,Senior,CIT 101
+1027,Brian,Harvey,Senior,CIT 101
+1028,Joyce,Mills,Junior,CIT 101 Lab
+1028,Joyce,Mills,Junior,CIT 101 Lab
+1029,Rebecca,West,Junior,COMP 182
+1029,Rebecca,West,Junior,COMP 182
+1030,Juan,Griffin,Senior,COMP 182 Lab
+1030,Juan,Griffin,Senior,COMP 182 Lab
+1031,Gerald,Reynolds,Freshman,CIT 101
+1031,Gerald,Reynolds,Freshman,CIT 101
+1032,George,Romero,Sophomore,CIT 101 Lab
+1032,George,Romero,Sophomore,CIT 101 Lab
+1033,Ruth,Hanson,Senior,COMP 182
+1033,Ruth,Hanson,Senior,COMP 182
+1034,Sharon,Little,Junior,COMP 182 Lab
+1034,Sharon,Little,Junior,COMP 182 Lab
+1035,Alan,Austin,Sophomore,CIT 101
+1035,Alan,Austin,Sophomore,CIT 101
+1036,Marilyn,Moreno,Senior,CIT 101 Lab
+1036,Marilyn,Moreno,Senior,CIT 101 Lab
+1037,Kelly,Watkins,Junior,COMP 182
+1037,Kelly,Watkins,Junior,COMP 182
+1038,Douglas,Kelley,Junior,COMP 182 Lab
+1038,Douglas,Kelley,Junior,COMP 182 Lab
+1039,Mildred,Scott,Senior,CIT 101
+1039,Mildred,Scott,Senior,CIT 101
+1040,Joshua,Palmer,Freshman,CIT 101 Lab
+1040,Joshua,Palmer,Freshman,CIT 101 Lab
+1041,Jean,Thomas,Sophomore,COMP 182
+1041,Jean,Thomas,Sophomore,COMP 182 Lab
+1042,Philip,Washington,Senior,COMP 182 Lab
+1042,Philip,Washington,Senior,CIT 101
+1043,Willie,Carter,Junior,CIT 101
+1043,Willie,Carter,Junior,CIT 101 Lab
+1044,Helen,Mendoza,Sophomore,CIT 101 Lab
+1044,Helen,Mendoza,Sophomore,COMP 182
+1045,Christopher,West,Senior,COMP 182
+1045,Christopher,West,Senior,COMP 182 Lab
+1046,Deborah,Oliver,Junior,COMP 182 Lab
+1046,Deborah,Oliver,Junior,CIT 101
+1047,Tina,Stevens,Junior,CIT 101
+1047,Tina,Stevens,Junior,CIT 101 Lab
+1048,Karen,Lawson,Senior,CIT 101 Lab
+1048,Karen,Lawson,Senior,COMP 182
+1049,Pamela,King,Freshman,COMP 182
+1049,Pamela,King,Freshman,COMP 182 Lab
+1050,Donald,Bryant,Sophomore,COMP 182 Lab
+1050,Donald,Bryant,Sophomore,CIT 101
+1051,Carolyn,Morrison,Senior,CIT 101
+1051,Carolyn,Morrison,Senior,CIT 101 Lab
+1052,Peter,Oliver,Junior,CIT 101 Lab
+1052,Peter,Oliver,Junior,COMP 182
+1053,Eugene,Fields,Sophomore,COMP 182
+1053,Eugene,Fields,Sophomore,COMP 182 Lab
+1054,Janice,Pierce,Senior,COMP 182 Lab
+1054,Janice,Pierce,Senior,CIT 101
+1055,Anne,Weaver,Junior,CIT 101
+1055,Anne,Weaver,Junior,CIT 101 Lab
+1056,Ruth,Cook,Junior,CIT 101 Lab
+1056,Ruth,Cook,Junior,COMP 182
+1057,Denise,Knight,Senior,COMP 182
+1057,Denise,Knight,Senior,COMP 182 Lab
+1058,Ronald,Watkins,Freshman,COMP 182 Lab
+1058,Ronald,Watkins,Freshman,CIT 101
+1059,Ernest,Rose,Sophomore,CIT 101
+1059,Ernest,Rose,Sophomore,CIT 101 Lab
+1060,Sean,Dunn,Senior,CIT 101 Lab
+1060,Sean,Dunn,Senior,COMP 182
+1061,Janet,Lee,Junior,COMP 182
+1061,Janet,Lee,Junior,COMP 182 Lab
+1062,Carolyn,Gomez,Sophomore,COMP 182 Lab
+1062,Carolyn,Gomez,Sophomore,CIT 101
+1063,Irene,Bryant,Senior,CIT 101
+1063,Irene,Bryant,Senior,CIT 101 Lab
+1064,Paula,Patterson,Junior,CIT 101 Lab
+1064,Paula,Patterson,Junior,COMP 182
+1065,Anthony,Wallace,Junior,COMP 182
+1065,Anthony,Wallace,Junior,COMP 182 Lab
+1066,Kathy,Butler,Senior,COMP 182 Lab
+1066,Kathy,Butler,Senior,CIT 101
+1067,Terry,Peters,Freshman,CIT 101
+1067,Terry,Peters,Freshman,CIT 101 Lab
+1068,Laura,Lee,Sophomore,CIT 101 Lab
+1068,Laura,Lee,Sophomore,COMP 182
+1069,Joseph,Bailey,Senior,COMP 182
+1069,Joseph,Bailey,Senior,COMP 182 Lab
+1070,James,Dean,Junior,COMP 182 Lab
+1070,James,Dean,Junior,CIT 101
+1071,Jimmy,Bryant,Sophomore,CIT 101
+1071,Jimmy,Bryant,Sophomore,CIT 101 Lab
+1072,James,Carr,Senior,CIT 101 Lab
+1072,James,Carr,Senior,COMP 182
+1073,Barbara,Hicks,Junior,COMP 182
+1073,Barbara,Hicks,Junior,COMP 182 Lab
+1074,Patrick,West,Junior,COMP 182 Lab
+1074,Patrick,West,Junior,CIT 101
+1075,Daniel,Perkins,Senior,CIT 101
+1075,Daniel,Perkins,Senior,CIT 101 Lab
+1076,Lori,Dunn,Freshman,CIT 101 Lab
+1076,Lori,Dunn,Freshman,COMP 182
+1077,Marie,Garrett,Sophomore,COMP 182
+1077,Marie,Garrett,Sophomore,COMP 182 Lab
+1078,Gregory,Rose,Senior,COMP 182 Lab
+1078,Gregory,Rose,Senior,CIT 101
+1079,Kathy,Willis,Junior,CIT 101
+1079,Kathy,Willis,Junior,CIT 101 Lab
+1080,Joan,Shaw,Sophomore,CIT 101 Lab
+1080,Joan,Shaw,Sophomore,COMP 182
+1081,Jonathan,Bennett,Senior,COMP 182
+1081,Jonathan,Bennett,Senior,COMP 182 Lab
+1082,Debra,Mitchell,Junior,COMP 182 Lab
+1082,Debra,Mitchell,Junior,CIT 101
+1083,Billy,Hawkins,Junior,CIT 101
+1083,Billy,Hawkins,Junior,CIT 101 Lab
+1084,Patrick,Stephens,Senior,CIT 101 Lab
+1084,Patrick,Stephens,Senior,COMP 182
+1085,Steve,Lewis,Freshman,COMP 182
+1085,Steve,Lewis,Freshman,COMP 182 Lab
+1086,Theresa,Allen,Sophomore,COMP 182 Lab
+1086,Theresa,Allen,Sophomore,CIT 101
+1087,Lawrence,Boyd,Senior,CIT 101
+1087,Lawrence,Boyd,Senior,CIT 101 Lab
+1088,Jeremy,Bailey,Junior,CIT 101 Lab
+1088,Jeremy,Bailey,Junior,COMP 182
+1089,Diana,Wood,Sophomore,COMP 182
+1089,Diana,Wood,Sophomore,COMP 182 Lab
+1090,Diane,Burke,Senior,COMP 182 Lab
+1090,Diane,Burke,Senior,CIT 101
+1091,Antonio,Davis,Junior,CIT 101
+1091,Antonio,Davis,Junior,CIT 101 Lab
+1092,Jimmy,Howell,Junior,CIT 101 Lab
+1092,Jimmy,Howell,Junior,COMP 182
+1093,Jonathan,Nelson,Senior,COMP 182
+1093,Jonathan,Nelson,Senior,COMP 182 Lab
+1094,Ryan,Evans,Freshman,COMP 182 Lab
+1094,Ryan,Evans,Freshman,CIT 101
+1095,Doris,Alvarez,Sophomore,CIT 101
+1095,Doris,Alvarez,Sophomore,CIT 101 Lab
+1096,Martha,Alexander,Senior,CIT 101 Lab
+1096,Martha,Alexander,Senior,COMP 182
+1097,Betty,Walker,Junior,COMP 182
+1097,Betty,Walker,Junior,COMP 182 Lab
+1098,Diana,Spencer,Sophomore,COMP 182 Lab
+1098,Diana,Spencer,Sophomore,CIT 101
+1099,Dorothy,Vasquez,Senior,CIT 101
+1099,Dorothy,Vasquez,Senior,CIT 101 Lab
+1100,Alan,Carroll,Junior,CIT 101 Lab
+1100,Alan,Carroll,Junior,COMP 182
+1101,Angela,Andrews,Junior,COMP 182
+1101,Angela,Andrews,Junior,COMP 182 Lab
+1102,Philip,Fisher,Senior,COMP 182 Lab
+1102,Philip,Fisher,Senior,CIT 101
+1103,Tammy,Garcia,Freshman,CIT 101
+1103,Tammy,Garcia,Freshman,CIT 101 Lab
+1104,Louis,Alvarez,Sophomore,CIT 101 Lab
+1104,Louis,Alvarez,Sophomore,COMP 182
+1105,Michelle,Morales,Senior,COMP 182
+1105,Michelle,Morales,Senior,COMP 182 Lab
+1106,Frances,Mcdonald,Junior,COMP 182 Lab
+1106,Frances,Mcdonald,Junior,CIT 101
+1107,Bruce,Frazier,Sophomore,CIT 101
+1107,Bruce,Frazier,Sophomore,CIT 101 Lab
+1108,Daniel,Stone,Senior,CIT 101 Lab
+1108,Daniel,Stone,Senior,COMP 182
+1109,Nancy,Frazier,Junior,COMP 182
+1109,Nancy,Frazier,Junior,COMP 182 Lab
+1110,Louise,White,Junior,COMP 182 Lab
+1110,Louise,White,Junior,CIT 101
+1111,Douglas,Bryant,Senior,CIT 101
+1111,Douglas,Bryant,Senior,CIT 101 Lab
+1112,Joan,Carr,Freshman,CIT 101 Lab
+1112,Joan,Carr,Freshman,COMP 182
+1113,Doris,Lewis,Sophomore,COMP 182
+1113,Doris,Lewis,Sophomore,COMP 182 Lab
+1114,Howard,Bowman,Senior,COMP 182 Lab
+1114,Howard,Bowman,Senior,CIT 101
+1115,Linda,Carpenter,Junior,CIT 101
+1115,Linda,Carpenter,Junior,CIT 101 Lab
+1116,Richard,Sims,Sophomore,CIT 101 Lab
+1116,Richard,Sims,Sophomore,COMP 182 Lab
+1117,Ashley,Coleman,Senior,COMP 182
+1117,Ashley,Coleman,Senior,CIT 101
+1118,Lois,Jenkins,Junior,COMP 182 Lab
+1118,Lois,Jenkins,Junior,CIT 101 Lab
+1119,Phillip,Gutierrez,Junior,CIT 101
+1119,Phillip,Gutierrez,Junior,COMP 182
+1120,Todd,Peters,Senior,CIT 101 Lab
+1120,Todd,Peters,Senior,COMP 182 Lab
+1121,Lois,Fields,Freshman,COMP 182
+1121,Lois,Fields,Freshman,CIT 101
+1122,Nicole,Williams,Sophomore,COMP 182 Lab
+1122,Nicole,Williams,Sophomore,CIT 101 Lab
+1123,Lisa,Freeman,Senior,CIT 101
+1123,Lisa,Freeman,Senior,COMP 182
+1124,Kathryn,Ellis,Junior,CIT 101 Lab
+1124,Kathryn,Ellis,Junior,COMP 182 Lab
+1125,Albert,Kelly,Sophomore,COMP 182
+1125,Albert,Kelly,Sophomore,CIT 101
+1126,Lois,Myers,Senior,COMP 182 Lab
+1126,Lois,Myers,Senior,CIT 101 Lab
+1127,Walter,Schmidt,Junior,CIT 101
+1127,Walter,Schmidt,Junior,COMP 182
+1128,Margaret,James,Junior,CIT 101 Lab
+1128,Margaret,James,Junior,COMP 182 Lab
+1129,Brenda,Ramirez,Senior,COMP 182
+1129,Brenda,Ramirez,Senior,CIT 101
+1130,Catherine,Fowler,Freshman,COMP 182 Lab
+1130,Catherine,Fowler,Freshman,CIT 101 Lab
+1131,Emily,Frazier,Sophomore,CIT 101
+1131,Emily,Frazier,Sophomore,COMP 182
+1132,Elizabeth,Martinez,Senior,CIT 101 Lab
+1132,Elizabeth,Martinez,Senior,COMP 182 Lab
+1133,Ruth,Adams,Junior,COMP 182
+1133,Ruth,Adams,Junior,CIT 101
+1134,Jimmy,Armstrong,Sophomore,COMP 182 Lab
+1134,Jimmy,Armstrong,Sophomore,CIT 101 Lab
+1135,Teresa,Cox,Senior,CIT 101
+1135,Teresa,Cox,Senior,COMP 182
+1136,Paula,Carr,Junior,CIT 101 Lab
+1136,Paula,Carr,Junior,COMP 182 Lab
+1137,Daniel,Vasquez,Junior,COMP 182
+1137,Daniel,Vasquez,Junior,CIT 101
+1138,Carol,Medina,Senior,COMP 182 Lab
+1138,Carol,Medina,Senior,CIT 101 Lab
+1139,Amy,Berry,Freshman,CIT 101
+1139,Amy,Berry,Freshman,COMP 182
+1140,Roy,Ellis,Sophomore,CIT 101 Lab
+1140,Roy,Ellis,Sophomore,COMP 182 Lab
+1141,Juan,Bennett,Senior,COMP 182
+1141,Juan,Bennett,Senior,CIT 101
+1142,Teresa,Matthews,Junior,COMP 182 Lab
+1142,Teresa,Matthews,Junior,CIT 101 Lab
+1143,Wanda,Fernandez,Sophomore,CIT 101
+1143,Wanda,Fernandez,Sophomore,COMP 182
+1144,Dennis,Torres,Senior,CIT 101 Lab
+1144,Dennis,Torres,Senior,COMP 182 Lab
+1145,Johnny,Armstrong,Junior,COMP 182
+1145,Johnny,Armstrong,Junior,CIT 101
+1146,Justin,Mason,Junior,COMP 182 Lab
+1146,Justin,Mason,Junior,CIT 101 Lab
+1147,Sarah,Fernandez,Senior,CIT 101
+1147,Sarah,Fernandez,Senior,COMP 182
+1148,Eugene,Hanson,Freshman,CIT 101 Lab
+1148,Eugene,Hanson,Freshman,COMP 182 Lab
+1149,Gerald,Collins,Sophomore,COMP 182
+1149,Gerald,Collins,Sophomore,CIT 101
+1150,Pamela,Nguyen,Senior,COMP 182 Lab
+1150,Pamela,Nguyen,Senior,CIT 101 Lab
+1151,Katherine,Holmes,Junior,CIT 101
+1151,Katherine,Holmes,Junior,COMP 182
+1152,Steven,Woods,Sophomore,CIT 101 Lab
+1152,Steven,Woods,Sophomore,COMP 182 Lab
+1153,Brenda,Fox,Senior,COMP 182
+1153,Brenda,Fox,Senior,CIT 101
+1154,James,Perkins,Junior,COMP 182 Lab
+1154,James,Perkins,Junior,CIT 101 Lab
+1155,Joseph,Patterson,Junior,CIT 101
+1155,Joseph,Patterson,Junior,COMP 182
+1156,Roy,Cole,Senior,CIT 101 Lab
+1156,Roy,Cole,Senior,COMP 182 Lab
+1157,Ruby,Anderson,Freshman,COMP 182
+1157,Ruby,Anderson,Freshman,CIT 101
+1158,Margaret,Nichols,Sophomore,COMP 182 Lab
+1158,Margaret,Nichols,Sophomore,CIT 101 Lab
+1159,Keith,Graham,Senior,CIT 101
+1159,Keith,Graham,Senior,COMP 182
+1160,Patrick,Cook,Junior,CIT 101 Lab
+1160,Patrick,Cook,Junior,COMP 182 Lab
+1161,Tammy,White,Sophomore,COMP 182
+1161,Tammy,White,Sophomore,CIT 101
+1162,Annie,Black,Senior,COMP 182 Lab
+1162,Annie,Black,Senior,CIT 101 Lab
+1163,Edward,Lewis,Junior,CIT 101
+1163,Edward,Lewis,Junior,COMP 182
+1164,Amy,Meyer,Junior,CIT 101 Lab
+1164,Amy,Meyer,Junior,COMP 182 Lab
+1165,Alice,Simpson,Senior,COMP 182
+1165,Alice,Simpson,Senior,CIT 101
+1166,Jeffrey,King,Freshman,COMP 182 Lab
+1166,Jeffrey,King,Freshman,CIT 101 Lab
+1167,Harold,Anderson,Sophomore,CIT 101
+1167,Harold,Anderson,Sophomore,COMP 182
+1168,Shawn,Hart,Senior,CIT 101 Lab
+1168,Shawn,Hart,Senior,COMP 182 Lab
+1169,Albert,Sims,Junior,COMP 182
+1169,Albert,Sims,Junior,CIT 101
+1170,Nicholas,Alvarez,Sophomore,COMP 182 Lab
+1170,Nicholas,Alvarez,Sophomore,CIT 101 Lab
+1171,Philip,Bell,Senior,CIT 101
+1171,Philip,Bell,Senior,COMP 182
+1172,Susan,Hughes,Junior,CIT 101 Lab
+1172,Susan,Hughes,Junior,COMP 182 Lab
+1173,Diane,Price,Junior,COMP 182
+1173,Diane,Price,Junior,CIT 101
+1174,Rose,Owens,Senior,COMP 182 Lab
+1174,Rose,Owens,Senior,CIT 101 Lab
+1175,Jacqueline,Brown,Freshman,CIT 101
+1175,Jacqueline,Brown,Freshman,COMP 182
+1176,Carlos,Brooks,Sophomore,CIT 101 Lab
+1176,Carlos,Brooks,Sophomore,COMP 182 Lab
+1177,Kevin,Hanson,Senior,COMP 182
+1177,Kevin,Hanson,Senior,CIT 101
+1178,Adam,Flores,Junior,COMP 182 Lab
+1178,Adam,Flores,Junior,CIT 101 Lab
+1179,Barbara,Lewis,Sophomore,CIT 101
+1179,Barbara,Lewis,Sophomore,COMP 182
+1180,Stephen,Mcdonald,Senior,CIT 101 Lab
+1180,Stephen,Mcdonald,Senior,COMP 182 Lab
+1181,Matthew,Ray,Junior,COMP 182
+1181,Matthew,Ray,Junior,CIT 101
+1182,Jerry,Banks,Junior,COMP 182 Lab
+1182,Jerry,Banks,Junior,CIT 101 Lab
+1183,Irene,Richardson,Senior,CIT 101
+1183,Irene,Richardson,Senior,COMP 182
+1184,Mary,Hicks,Freshman,CIT 101 Lab
+1184,Mary,Hicks,Freshman,COMP 182 Lab
+1185,Janice,Wagner,Sophomore,COMP 182
+1185,Janice,Wagner,Sophomore,CIT 101
+1186,Andrea,Garcia,Senior,COMP 182 Lab
+1186,Andrea,Garcia,Senior,CIT 101 Lab
+1187,Kathryn,Fox,Junior,CIT 101
+1187,Kathryn,Fox,Junior,COMP 182
+1188,Antonio,Hill,Sophomore,CIT 101 Lab
+1188,Antonio,Hill,Sophomore,COMP 182 Lab
+1189,Julia,Pierce,Senior,COMP 182
+1189,Julia,Pierce,Senior,CIT 101
+1190,Tammy,Mcdonald,Junior,COMP 182 Lab
+1190,Tammy,Mcdonald,Junior,CIT 101 Lab
+1191,Tammy,Lynch,Junior,CIT 101
+1191,Tammy,Lynch,Junior,COMP 182 Lab
+1192,Johnny,Schmidt,Senior,CIT 101 Lab
+1192,Johnny,Schmidt,Senior,CIT 101
+1193,Catherine,Lopez,Freshman,COMP 182
+1193,Catherine,Lopez,Freshman,CIT 101 Lab
+1194,Janet,Burton,Sophomore,COMP 182 Lab
+1194,Janet,Burton,Sophomore,COMP 182
+1195,Cheryl,Larson,Senior,CIT 101
+1195,Cheryl,Larson,Senior,COMP 182 Lab
+1196,Frances,Alvarez,Junior,CIT 101 Lab
+1196,Frances,Alvarez,Junior,CIT 101
+1197,Martha,Gordon,Sophomore,COMP 182
+1197,Martha,Gordon,Sophomore,CIT 101 Lab
+1198,Benjamin,Torres,Senior,COMP 182 Lab
+1198,Benjamin,Torres,Senior,COMP 182
+1199,Howard,Brooks,Junior,CIT 101
+1199,Howard,Brooks,Junior,COMP 182 Lab
+1200,Phillip,Matthews,Junior,CIT 101 Lab
+1200,Phillip,Matthews,Junior,CIT 101
+1201,Kenneth,Ford,Senior,COMP 182
+1201,Kenneth,Ford,Senior,CIT 101 Lab
+1202,Nicholas,Davis,Freshman,COMP 182 Lab
+1202,Nicholas,Davis,Freshman,COMP 182
+1203,Gloria,Allen,Sophomore,CIT 101
+1203,Gloria,Allen,Sophomore,COMP 182 Lab
+1204,Helen,Garcia,Senior,CIT 101 Lab
+1204,Helen,Garcia,Senior,CIT 101
+1205,Larry,Burke,Junior,COMP 182
+1205,Larry,Burke,Junior,CIT 101 Lab
+1206,Jeremy,Day,Sophomore,COMP 182 Lab
+1206,Jeremy,Day,Sophomore,COMP 182
+1207,Matthew,Ellis,Senior,CIT 101
+1207,Matthew,Ellis,Senior,COMP 182 Lab
+1208,Marilyn,Garrett,Junior,CIT 101 Lab
+1208,Marilyn,Garrett,Junior,CIT 101
+1209,Billy,Bailey,Junior,COMP 182
+1209,Billy,Bailey,Junior,CIT 101 Lab
+1210,Jerry,Carroll,Senior,COMP 182 Lab
+1210,Jerry,Carroll,Senior,COMP 182
+1211,Daniel,Jenkins,Freshman,CIT 101
+1211,Daniel,Jenkins,Freshman,COMP 182 Lab
+1212,Earl,Taylor,Sophomore,CIT 101 Lab
+1212,Earl,Taylor,Sophomore,CIT 101
+1213,Joyce,Freeman,Senior,COMP 182
+1213,Joyce,Freeman,Senior,CIT 101 Lab
+1214,Wanda,Lane,Junior,COMP 182 Lab
+1214,Wanda,Lane,Junior,COMP 182
+1215,Albert,Clark,Sophomore,CIT 101
+1215,Albert,Clark,Sophomore,COMP 182 Lab
+1216,Ernest,Hall,Senior,CIT 101 Lab
+1216,Ernest,Hall,Senior,CIT 101
+1217,Edward,Austin,Junior,COMP 182
+1217,Edward,Austin,Junior,CIT 101 Lab
+1218,Benjamin,Gardner,Junior,COMP 182 Lab
+1218,Benjamin,Gardner,Junior,COMP 182
+1219,Ryan,Hansen,Senior,CIT 101
+1219,Ryan,Hansen,Senior,COMP 182 Lab
+1220,Juan,Alvarez,Freshman,CIT 101 Lab
+1220,Juan,Alvarez,Freshman,CIT 101
+1221,Louise,Bowman,Sophomore,COMP 182
+1221,Louise,Bowman,Sophomore,CIT 101 Lab
+1222,Rachel,Wilson,Senior,COMP 182 Lab
+1222,Rachel,Wilson,Senior,COMP 182
+1223,Debra,Gilbert,Junior,CIT 101
+1223,Debra,Gilbert,Junior,COMP 182 Lab
+1224,Matthew,Coleman,Sophomore,CIT 101 Lab
+1224,Matthew,Coleman,Sophomore,CIT 101
+1225,Helen,Kelly,Senior,COMP 182
+1225,Helen,Kelly,Senior,CIT 101 Lab
+1226,Lisa,Bradley,Junior,COMP 182 Lab
+1226,Lisa,Bradley,Junior,COMP 182
+1227,Melissa,Watson,Junior,CIT 101
+1227,Melissa,Watson,Junior,COMP 182 Lab
+1228,Dennis,Lawrence,Senior,CIT 101 Lab
+1228,Dennis,Lawrence,Senior,CIT 101
+1229,Sean,Perkins,Freshman,COMP 182
+1229,Sean,Perkins,Freshman,CIT 101 Lab
+1230,Joyce,Wood,Sophomore,COMP 182 Lab
+1230,Joyce,Wood,Sophomore,COMP 182
+1231,Dennis,Riley,Senior,CIT 101
+1231,Dennis,Riley,Senior,COMP 182 Lab
+1232,Katherine,Wells,Junior,CIT 101 Lab
+1232,Katherine,Wells,Junior,CIT 101
+1233,Ronald,Hanson,Sophomore,COMP 182
+1233,Ronald,Hanson,Sophomore,CIT 101 Lab
+1234,Harry,West,Senior,COMP 182 Lab
+1234,Harry,West,Senior,COMP 182
+1235,Andrea,Marshall,Junior,CIT 101
+1235,Andrea,Marshall,Junior,COMP 182 Lab
+1236,Michael,Lane,Junior,CIT 101 Lab
+1236,Michael,Lane,Junior,CIT 101
+1237,Carolyn,Kelly,Senior,COMP 182
+1237,Carolyn,Kelly,Senior,CIT 101 Lab
+1238,Shirley,Bennett,Freshman,COMP 182 Lab
+1238,Shirley,Bennett,Freshman,COMP 182
+1239,Bonnie,Graham,Sophomore,CIT 101
+1239,Bonnie,Graham,Sophomore,COMP 182 Lab
+1240,Sandra,Phillips,Senior,CIT 101 Lab
+1240,Sandra,Phillips,Senior,CIT 101
+1241,Rebecca,Fowler,Junior,COMP 182
+1241,Rebecca,Fowler,Junior,CIT 101 Lab
+1242,Eugene,Moreno,Sophomore,COMP 182 Lab
+1242,Eugene,Moreno,Sophomore,COMP 182
+1243,Justin,Nguyen,Senior,CIT 101
+1243,Justin,Nguyen,Senior,COMP 182 Lab
+1244,Ann,Dixon,Junior,CIT 101 Lab
+1244,Ann,Dixon,Junior,CIT 101
+1245,Jeffrey,Cook,Junior,COMP 182
+1245,Jeffrey,Cook,Junior,CIT 101 Lab
+1246,Diane,Burton,Senior,COMP 182 Lab
+1246,Diane,Burton,Senior,COMP 182
+1247,Melissa,Ryan,Freshman,CIT 101
+1247,Melissa,Ryan,Freshman,COMP 182 Lab
+1248,Deborah,Dean,Sophomore,CIT 101 Lab
+1248,Deborah,Dean,Sophomore,CIT 101
+1249,Matthew,Olson,Senior,COMP 182
+1249,Matthew,Olson,Senior,CIT 101 Lab
+1250,Robert,Lane,Junior,COMP 182 Lab
+1250,Robert,Lane,Junior,COMP 182
+1251,Donna,Young,Sophomore,CIT 101
+1251,Donna,Young,Sophomore,COMP 182 Lab
+1252,Kathy,Cunningham,Senior,CIT 101 Lab
+1252,Kathy,Cunningham,Senior,CIT 101
+1253,Emily,Anderson,Junior,COMP 182
+1253,Emily,Anderson,Junior,CIT 101 Lab
+1254,Jeffrey,Hall,Junior,COMP 182 Lab
+1254,Jeffrey,Hall,Junior,COMP 182
+1255,Albert,Franklin,Senior,CIT 101
+1255,Albert,Franklin,Senior,COMP 182 Lab
+1256,Carol,Wagner,Freshman,CIT 101 Lab
+1256,Carol,Wagner,Freshman,CIT 101
+1257,Sharon,Ford,Sophomore,COMP 182
+1257,Sharon,Ford,Sophomore,CIT 101 Lab
+1258,Kevin,Hart,Senior,COMP 182 Lab
+1258,Kevin,Hart,Senior,COMP 182
+1259,Kenneth,Dean,Junior,CIT 101
+1259,Kenneth,Dean,Junior,COMP 182 Lab
+1260,Patrick,Gardner,Sophomore,CIT 101 Lab
+1260,Patrick,Gardner,Sophomore,CIT 101
+1261,Janet,Nichols,Senior,COMP 182
+1261,Janet,Nichols,Senior,CIT 101 Lab
+1262,Douglas,Thompson,Junior,COMP 182 Lab
+1262,Douglas,Thompson,Junior,COMP 182
+1263,Sara,Morgan,Junior,CIT 101
+1263,Sara,Morgan,Junior,COMP 182 Lab
+1264,Ruby,Nguyen,Senior,CIT 101 Lab
+1264,Ruby,Nguyen,Senior,CIT 101
+1265,Gloria,Castillo,Freshman,COMP 182
+1265,Gloria,Castillo,Freshman,CIT 101 Lab
+1266,Joyce,Davis,Sophomore,COMP 182 Lab
+1266,Joyce,Davis,Sophomore,COMP 182 Lab
+1267,Melissa,West,Senior,CIT 101
+1267,Melissa,West,Senior,CIT 101
+1268,Tammy,Gomez,Junior,CIT 101 Lab
+1268,Tammy,Gomez,Junior,CIT 101 Lab
+1269,Norma,Perry,Sophomore,COMP 182
+1269,Norma,Perry,Sophomore,COMP 182
+1270,Sandra,Greene,Senior,COMP 182 Lab
+1270,Sandra,Greene,Senior,COMP 182 Lab
+1271,Janice,Olson,Junior,CIT 101
+1271,Janice,Olson,Junior,CIT 101
+1272,Kathy,West,Junior,CIT 101 Lab
+1272,Kathy,West,Junior,CIT 101 Lab
+1273,Kathy,Gardner,Senior,COMP 182
+1273,Kathy,Gardner,Senior,COMP 182
+1274,Karen,Williams,Freshman,COMP 182 Lab
+1274,Karen,Williams,Freshman,COMP 182 Lab
+1275,Adam,Howard,Sophomore,CIT 101
+1275,Adam,Howard,Sophomore,CIT 101
+1276,Maria,Hawkins,Senior,CIT 101 Lab
+1276,Maria,Hawkins,Senior,CIT 101 Lab
+1277,Sarah,Harper,Junior,COMP 182
+1277,Sarah,Harper,Junior,COMP 182
+1278,Fred,Riley,Sophomore,COMP 182 Lab
+1278,Fred,Riley,Sophomore,COMP 182 Lab
+1279,Samuel,Long,Senior,CIT 101
+1279,Samuel,Long,Senior,CIT 101
+1280,Amanda,Bryant,Junior,CIT 101 Lab
+1280,Amanda,Bryant,Junior,CIT 101 Lab
+1281,Rachel,Miller,Junior,COMP 182
+1281,Rachel,Miller,Junior,COMP 182
+1282,Nicholas,Armstrong,Senior,COMP 182 Lab
+1282,Nicholas,Armstrong,Senior,COMP 182 Lab
+1283,Larry,Gomez,Freshman,CIT 101
+1283,Larry,Gomez,Freshman,CIT 101
+1284,Henry,Hansen,Sophomore,CIT 101 Lab
+1284,Henry,Hansen,Sophomore,CIT 101 Lab
+1285,Beverly,Wood,Senior,COMP 182
+1285,Beverly,Wood,Senior,COMP 182
+1286,Matthew,Banks,Junior,COMP 182 Lab
+1286,Matthew,Banks,Junior,COMP 182 Lab
+1287,Sharon,Knight,Sophomore,CIT 101
+1287,Sharon,Knight,Sophomore,CIT 101
+1288,Juan,Rice,Senior,CIT 101 Lab
+1288,Juan,Rice,Senior,CIT 101 Lab
+1289,Anthony,Rodriguez,Junior,COMP 182
+1289,Anthony,Rodriguez,Junior,COMP 182
+1290,Adam,Franklin,Junior,COMP 182 Lab
+1290,Adam,Franklin,Junior,COMP 182 Lab
+1291,Janice,Morgan,Senior,CIT 101
+1291,Janice,Morgan,Senior,CIT 101
+1292,Willie,Patterson,Freshman,CIT 101 Lab
+1292,Willie,Patterson,Freshman,CIT 101 Lab
+1293,Paula,Parker,Sophomore,COMP 182
+1293,Paula,Parker,Sophomore,COMP 182
+1294,Evelyn,Kim,Senior,COMP 182 Lab
+1294,Evelyn,Kim,Senior,COMP 182 Lab
+1295,Melissa,Taylor,Junior,CIT 101
+1295,Melissa,Taylor,Junior,CIT 101
+1296,Heather,Brooks,Sophomore,CIT 101 Lab
+1296,Heather,Brooks,Sophomore,CIT 101 Lab
+1297,Gloria,Castillo,Senior,COMP 182
+1297,Gloria,Castillo,Senior,COMP 182
+1298,Joshua,Hicks,Junior,COMP 182 Lab
+1298,Joshua,Hicks,Junior,COMP 182 Lab
+1299,Michelle,Kelley,Junior,CIT 101
+1299,Michelle,Kelley,Junior,CIT 101
+1300,Christopher,Fisher,Senior,CIT 101 Lab
+1300,Christopher,Fisher,Senior,CIT 101 Lab
+1301,David,Myers,Freshman,COMP 182
+1301,David,Myers,Freshman,COMP 182
+1302,Mary,Clark,Sophomore,COMP 182 Lab
+1302,Mary,Clark,Sophomore,COMP 182 Lab
+1303,Billy,Rogers,Senior,CIT 101
+1304,Steve,Kim,Junior,CIT 101 Lab
+1305,Bonnie,Phillips,Sophomore,COMP 182
+1306,Anthony,Gonzales,Senior,COMP 182 Lab
+1307,Jack,Green,Junior,CIT 101
+1308,David,Stevens,Junior,CIT 101 Lab
+1309,Joyce,Richardson,Senior,COMP 182
+1310,Deborah,Hernandez,Freshman,COMP 182 Lab
+1311,Wayne,Fowler,Sophomore,CIT 101
+1312,Anthony,Ramos,Senior,CIT 101 Lab
+1313,Carlos,Matthews,Junior,COMP 182
+1314,Sarah,Nguyen,Sophomore,COMP 182 Lab
+1315,Ralph,Ray,Senior,CIT 101
+1316,Karen,Porter,Junior,CIT 101 Lab
+1317,Julie,Hart,Junior,COMP 182
+1318,Nicholas,Bradley,Senior,COMP 182 Lab
+1319,Russell,Reed,Freshman,CIT 101
+1320,Ryan,Martinez,Sophomore,CIT 101 Lab
+1321,Carlos,Chavez,Senior,COMP 182
+1322,Jeremy,Elliott,Junior,COMP 182 Lab
+1323,Jacqueline,Payne,Sophomore,CIT 101
+1324,Emily,Harrison,Senior,CIT 101 Lab
+1325,Jose,Jenkins,Junior,COMP 182
+1326,Lawrence,Gilbert,Junior,COMP 182 Lab
+1327,Antonio,Willis,Senior,CIT 101
+1328,Debra,Hernandez,Freshman,CIT 101 Lab
+1329,Carlos,Romero,Sophomore,COMP 182
+1330,Gary,Bennett,Senior,COMP 182 Lab
+1331,Raymond,Jenkins,Junior,CIT 101
+1332,Angela,Wheeler,Sophomore,CIT 101 Lab
+1333,Andrew,Knight,Senior,COMP 182
+1334,Tammy,Riley,Junior,COMP 182 Lab
+1335,Anthony,Nichols,Junior,CIT 101
+1336,Janice,Mason,Senior,CIT 101 Lab
+1337,Tammy,Ray,Freshman,COMP 182
+1338,Juan,Gardner,Sophomore,COMP 182 Lab
+1339,Helen,Carroll,Senior,CIT 101
+1340,Nicholas,Burns,Junior,CIT 101 Lab
+1341,Arthur,Hayes,Sophomore,COMP 182
+1342,Laura,Howard,Senior,COMP 182 Lab
+1343,Jimmy,Allen,Junior,CIT 101
+1344,Arthur,Gardner,Junior,CIT 101 Lab
+1345,Sarah,Henry,Senior,COMP 182
+1346,Joshua,Garrett,Freshman,COMP 182 Lab
+1347,Joseph,Hawkins,Sophomore,CIT 101
+1348,Laura,Roberts,Senior,CIT 101 Lab
+1349,Matthew,Collins,Junior,COMP 182
+1350,Christina,Gonzales,Sophomore,COMP 182 Lab
+1351,Melissa,Williams,Senior,CIT 101
+1352,Peter,Hernandez,Junior,CIT 101 Lab
+1353,Nicole,Jordan,Junior,COMP 182
+1354,Russell,Frazier,Senior,COMP 182 Lab
+1355,Harold,Hernandez,Freshman,CIT 101
+1356,Jason,Morgan,Sophomore,CIT 101 Lab
+1357,Kelly,Carpenter,Senior,COMP 182
+1358,Louise,Frazier,Junior,COMP 182 Lab
+1359,Juan,Wright,Sophomore,CIT 101
+1360,Teresa,Mendoza,Senior,CIT 101 Lab
+1361,Debra,Wheeler,Junior,COMP 182
+1362,Christine,Perkins,Junior,COMP 182 Lab
+1363,Amanda,Little,Senior,CIT 101
+1364,Joshua,Jacobs,Freshman,CIT 101 Lab
+1365,Elizabeth,Peters,Sophomore,COMP 182
+1366,Arthur,Baker,Senior,COMP 182 Lab
+1367,Mary,Stanley,Junior,CIT 101
+1368,Juan,Schmidt,Sophomore,CIT 101 Lab
+1369,Albert,Howell,Senior,COMP 182
+1370,Phyllis,Gomez,Junior,COMP 182 Lab
+1371,Jane,Bowman,Junior,CIT 101
+1372,Stephen,Lewis,Senior,CIT 101 Lab
+1373,Kimberly,Frazier,Freshman,COMP 182
+1374,Ronald,Warren,Sophomore,COMP 182 Lab
+1375,Helen,Nichols,Senior,CIT 101
+1376,Carolyn,Harris,Junior,CIT 101 Lab
+1377,Joan,Mitchell,Sophomore,COMP 182
+1378,Amy,Gray,Senior,COMP 182 Lab
+1379,Louise,Snyder,Junior,CIT 101
+1380,Anne,Rogers,Junior,CIT 101 Lab
+1381,Emily,Moreno,Senior,COMP 182
+1382,Christopher,Fowler,Freshman,COMP 182 Lab
+1383,Christine,Garrett,Sophomore,CIT 101
+1384,Douglas,Nelson,Senior,CIT 101 Lab
+1385,Deborah,Thompson,Junior,COMP 182
+1386,Rose,Lee,Sophomore,COMP 182 Lab
+1387,Judy,Medina,Senior,CIT 101
+1388,Catherine,Lawrence,Junior,CIT 101 Lab
+1389,Johnny,Alexander,Junior,COMP 182
+1390,Fred,Kelly,Senior,COMP 182 Lab
+1391,Paul,Watkins,Freshman,CIT 101
+1392,Ralph,Wells,Sophomore,CIT 101 Lab
+1393,Gerald,Cruz,Senior,COMP 182
+1394,Amy,Washington,Junior,COMP 182 Lab
+1395,Robert,Jones,Sophomore,CIT 101
+1396,Laura,Armstrong,Senior,CIT 101 Lab
+1397,Dennis,Perkins,Junior,COMP 182
+1398,Thomas,Duncan,Junior,COMP 182 Lab
+1399,Mark,Ramirez,Senior,CIT 101
+1400,Andrea,Austin,Freshman,CIT 101 Lab
+1401,Jimmy,Mendoza,Sophomore,COMP 182
+1402,Daniel,Pierce,Senior,COMP 182 Lab
+1403,Eugene,Hawkins,Junior,CIT 101
+1404,Gerald,Sanchez,Sophomore,CIT 101 Lab
+1405,Rachel,Cooper,Senior,COMP 182
+1406,Nicholas,Hamilton,Junior,COMP 182 Lab
+1407,Gregory,Hayes,Junior,CIT 101
+1408,Anne,Cruz,Senior,CIT 101 Lab
+1409,Richard,Ruiz,Freshman,COMP 182
+1410,Johnny,Hall,Sophomore,COMP 182 Lab
+1411,Frances,Stanley,Senior,CIT 101
+1412,Sharon,Gonzalez,Junior,CIT 101 Lab
+1413,Anthony,Miller,Sophomore,COMP 182
+1414,Julie,Franklin,Senior,COMP 182 Lab
+1415,Norma,Welch,Junior,CIT 101
+1416,Jason,Harrison,Junior,CIT 101 Lab
+1417,Dorothy,Scott,Senior,COMP 182
+1418,Scott,Robinson,Freshman,COMP 182 Lab
+1419,Elizabeth,Gonzales,Sophomore,CIT 101
+1420,Michael,Kelley,Senior,CIT 101 Lab
+1421,Catherine,Morales,Junior,COMP 182
+1422,Jennifer,Howard,Sophomore,COMP 182 Lab
+1423,Kelly,Morales,Senior,CIT 101
+1424,Todd,Campbell,Junior,CIT 101 Lab
+1425,Scott,Fuller,Junior,COMP 182
+1426,George,Hughes,Senior,COMP 182 Lab
+1427,Roger,Rose,Freshman,CIT 101
+1428,Lawrence,Burke,Sophomore,CIT 101 Lab
+1429,Kimberly,Spencer,Senior,COMP 182
+1430,Laura,Evans,Junior,COMP 182 Lab
+1431,David,Duncan,Sophomore,CIT 101
+1432,Justin,Welch,Senior,CIT 101 Lab
+1433,Jeremy,Morales,Junior,COMP 182
+1434,Ruby,Olson,Junior,COMP 182 Lab
+1435,Irene,Gomez,Senior,CIT 101
+1436,Larry,Hernandez,Freshman,CIT 101 Lab
+1437,Douglas,Gray,Sophomore,COMP 182
+1438,Louise,Ross,Senior,COMP 182 Lab
+1439,Gary,Hicks,Junior,CIT 101
+1440,Todd,Cooper,Sophomore,CIT 101 Lab
+1441,Anthony,Lee,Senior,COMP 182
+1442,Kathryn,Snyder,Junior,COMP 182 Lab
+1443,Philip,Austin,Junior,CIT 101
+1444,Timothy,Snyder,Senior,CIT 101 Lab
+1445,Kelly,Jenkins,Freshman,COMP 182
+1446,Aaron,Elliott,Sophomore,COMP 182 Lab
+1447,Philip,Mitchell,Senior,CIT 101
+1448,Jeremy,Gordon,Junior,CIT 101 Lab
+1449,Brian,Schmidt,Sophomore,COMP 182
+1450,Gregory,Morris,Senior,COMP 182 Lab
+1451,Robin,Gibson,Junior,CIT 101
+1452,Walter,Barnes,Junior,CIT 101 Lab
+1453,Elizabeth,Meyer,Senior,COMP 182
+1454,Deborah,Kennedy,Freshman,COMP 182 Lab
+1455,Earl,Barnes,Sophomore,CIT 101
+1456,David,Martin,Senior,CIT 101 Lab
+1457,Joan,Parker,Junior,COMP 182
+1458,Janice,Burton,Sophomore,COMP 182 Lab
+1459,Russell,Stewart,Senior,CIT 101
+1460,Roy,Torres,Junior,CIT 101 Lab
+1461,Dennis,Burns,Junior,COMP 182
+1462,Charles,Howell,Senior,COMP 182 Lab
+1463,Gregory,Knight,Freshman,CIT 101
+1464,David,Duncan,Sophomore,CIT 101 Lab
+1465,Marilyn,Martin,Senior,COMP 182
+1466,Donna,Elliott,Junior,COMP 182 Lab
+1467,David,Nichols,Sophomore,CIT 101
+1468,Beverly,Edwards,Senior,CIT 101 Lab
+1469,Edward,Crawford,Junior,COMP 182
+1470,Bruce,Fox,Junior,COMP 182 Lab
+1471,Maria,Mitchell,Senior,CIT 101
+1472,Julie,Robertson,Freshman,CIT 101 Lab
+1473,Bobby,Fernandez,Sophomore,COMP 182
+1474,Carol,Arnold,Senior,COMP 182 Lab
+1475,Sharon,Kelley,Junior,CIT 101
+1476,Lori,Mitchell,Sophomore,CIT 101 Lab
+1477,Aaron,Young,Senior,COMP 182
+1478,Debra,Stevens,Junior,COMP 182 Lab
+1479,Henry,Medina,Junior,CIT 101
+1480,Steven,Murray,Senior,CIT 101 Lab
+1481,Craig,Fields,Freshman,COMP 182
+1482,Janet,Marshall,Sophomore,COMP 182 Lab
+1483,Ruby,Henderson,Senior,CIT 101
+1484,Lisa,Sanders,Junior,CIT 101 Lab
+1485,Nicholas,Gomez,Sophomore,COMP 182
+1486,Frances,Morgan,Senior,COMP 182 Lab
+1487,Judy,Gray,Junior,CIT 101
+1488,Larry,Ward,Junior,CIT 101 Lab
+1489,Kathy,Gibson,Senior,COMP 182
+1490,George,Riley,Freshman,COMP 182 Lab
+1491,Roy,Mason,Sophomore,CIT 101
+1492,Lori,Brown,Senior,CIT 101 Lab
+1493,Gregory,Cole,Junior,COMP 182
+1494,Wanda,Thomas,Sophomore,COMP 182 Lab
+1495,Tammy,Nguyen,Senior,CIT 101
+1496,Robin,Fowler,Junior,CIT 101 Lab
+1497,Nicole,Pierce,Junior,COMP 182
+1498,Evelyn,Murray,Senior,COMP 182 Lab
+1499,Keith,Hanson,Freshman,CIT 101
+1500,Kevin,Wallace,Sophomore,CIT 101 Lab
+1501,Stephanie,Burke,Senior,COMP 182
+1502,Emily,Cruz,Junior,COMP 182 Lab
+1503,Brian,Anderson,Sophomore,CIT 101
+1504,Stephen,Nelson,Senior,CIT 101 Lab
+1505,Helen,Rivera,Junior,COMP 182
+1506,Matthew,Clark,Junior,COMP 182 Lab
+1507,Ann,Gray,Senior,CIT 101
+1508,Dorothy,Bailey,Freshman,CIT 101 Lab
+1509,Lawrence,Harper,Sophomore,COMP 182
+1510,Anna,Jenkins,Senior,COMP 182 Lab
+1511,Ruby,Owens,Junior,CIT 101
+1512,Anthony,Lopez,Sophomore,CIT 101 Lab
+1513,Cynthia,Lane,Senior,COMP 182
+1514,Billy,Harvey,Junior,COMP 182 Lab
+1515,Paula,Dunn,Junior,CIT 101
+1516,Ernest,Graham,Senior,CIT 101 Lab
+1517,Jimmy,Thomas,Freshman,COMP 182
+1518,Julia,Mccoy,Sophomore,COMP 182 Lab
+1519,Martin,Hunt,Senior,CIT 101
+1520,Pamela,Smith,Junior,CIT 101 Lab
+1521,Clarence,Davis,Sophomore,COMP 182
+1522,Antonio,Fields,Senior,COMP 182 Lab
+1523,Debra,Nguyen,Junior,CIT 101
+1524,Fred,Harrison,Junior,CIT 101 Lab
+1525,Evelyn,Woods,Senior,COMP 182
+1526,Ernest,Snyder,Freshman,COMP 182 Lab
+1527,Jeremy,Cox,Sophomore,CIT 101
+1528,Rebecca,Grant,Senior,CIT 101 Lab
+1529,Billy,Bowman,Junior,COMP 182
+1530,Jacqueline,Taylor,Sophomore,COMP 182 Lab
+1531,Kevin,Patterson,Senior,CIT 101
+1532,Virginia,Graham,Junior,CIT 101 Lab
+1533,Richard,Adams,Junior,COMP 182
+1534,Katherine,Harvey,Senior,COMP 182 Lab
+1535,Virginia,Hicks,Freshman,CIT 101
+1536,Carolyn,King,Sophomore,CIT 101 Lab
+1537,Anna,Griffin,Senior,COMP 182
+1538,Stephen,Long,Junior,COMP 182 Lab
+1539,Lawrence,Armstrong,Sophomore,CIT 101
+1540,Christine,Powell,Senior,CIT 101 Lab
+1541,Jean,Hudson,Junior,COMP 182
+1542,Randy,Cunningham,Junior,COMP 182 Lab
+1543,Ronald,Chapman,Senior,CIT 101
+1544,Kevin,Lynch,Freshman,CIT 101 Lab
+1545,Karen,Lawrence,Sophomore,COMP 182
+1546,Jose,Freeman,Senior,COMP 182 Lab
+1547,Stephen,Nichols,Junior,CIT 101
+1548,Barbara,Parker,Sophomore,CIT 101 Lab
+1549,Marilyn,Moreno,Senior,COMP 182
+1550,Bonnie,Watkins,Junior,COMP 182 Lab
+1551,Carolyn,Graham,Junior,CIT 101
+1552,George,Bryant,Senior,CIT 101 Lab
+1553,Jimmy,Perez,Freshman,COMP 182
+1554,Julia,Lewis,Sophomore,COMP 182 Lab
+1555,Marilyn,Carter,Senior,CIT 101
+1556,Louis,Grant,Junior,CIT 101 Lab
+1557,Sean,Crawford,Sophomore,COMP 182
+1558,Jane,Stone,Senior,COMP 182 Lab
+1559,Ashley,Graham,Junior,CIT 101
+1560,Brenda,Lopez,Junior,CIT 101 Lab
+1561,Martin,Carter,Senior,COMP 182
+1562,Clarence,Martinez,Freshman,COMP 182 Lab
+1563,Steve,Reyes,Sophomore,CIT 101
+1564,Harry,Carr,Senior,CIT 101 Lab
+1565,Andrew,Duncan,Junior,COMP 182
+1566,Louis,Bennett,Sophomore,COMP 182 Lab
+1567,Jane,Lopez,Senior,CIT 101
+1568,Teresa,Montgomery,Junior,CIT 101 Lab
+1569,Martha,Patterson,Junior,COMP 182
+1570,Doris,Perez,Senior,COMP 182 Lab
+1571,Paula,Dunn,Freshman,CIT 101
+1572,Aaron,Andrews,Sophomore,CIT 101 Lab
+1573,Bobby,Berry,Senior,COMP 182
+1574,Sean,Long,Junior,COMP 182 Lab
+1575,Robert,Lewis,Sophomore,CIT 101
+1576,Jane,Andrews,Senior,CIT 101 Lab
+1577,Larry,Lee,Junior,COMP 182
+1578,Alice,Brooks,Junior,COMP 182 Lab
+1579,Louise,Fisher,Senior,CIT 101
+1580,Rebecca,Flores,Freshman,CIT 101 Lab
+1581,Keith,Wells,Sophomore,COMP 182
+1582,Donna,Reyes,Senior,COMP 182 Lab
+1583,Henry,Murphy,Junior,CIT 101
+1584,Kevin,Harrison,Sophomore,CIT 101 Lab
+1585,Jerry,Hudson,Senior,COMP 182
+1586,Dennis,Myers,Junior,COMP 182 Lab
+1587,Debra,Howard,Junior,CIT 101
+1588,Brandon,Perkins,Senior,CIT 101 Lab
+1589,Russell,Collins,Freshman,COMP 182
+1590,Rose,Price,Sophomore,COMP 182 Lab
+1591,Tammy,Bennett,Senior,CIT 101
+1592,Jessica,Garza,Junior,CIT 101 Lab
+1593,Shirley,Ward,Sophomore,COMP 182
+1594,Wayne,Rice,Senior,COMP 182 Lab
+1595,Brenda,Fowler,Junior,CIT 101
+1596,Adam,Mitchell,Junior,CIT 101 Lab
+1597,Henry,Johnson,Senior,COMP 182
+1598,Debra,Diaz,Freshman,COMP 182 Lab
+1599,Dorothy,Mills,Sophomore,CIT 101
+1600,Eric,Arnold,Senior,CIT 101 Lab
+1601,Amy,Mason,Junior,COMP 182
+1602,Kathryn,Ferguson,Sophomore,COMP 182 Lab
+1603,Eugene,Lynch,Senior,CIT 101
+1604,Kathleen,Watkins,Junior,CIT 101 Lab
+1605,Johnny,West,Junior,COMP 182
+1606,Scott,Knight,Senior,COMP 182 Lab
+1607,Jane,Jordan,Freshman,CIT 101
+1608,Alice,Kelly,Sophomore,CIT 101 Lab
+1609,Barbara,Evans,Senior,COMP 182
+1610,Carlos,Jenkins,Junior,COMP 182 Lab
+1611,Phyllis,Vasquez,Sophomore,CIT 101
+1612,Marie,Holmes,Senior,CIT 101 Lab
+1613,Rose,Holmes,Junior,COMP 182
+1614,Larry,Walker,Junior,COMP 182 Lab
+1615,Carlos,Walker,Senior,CIT 101
+1616,Jessica,Nichols,Freshman,CIT 101 Lab
+1617,Juan,Morris,Sophomore,COMP 182
+1618,Helen,Morales,Senior,COMP 182 Lab
+1619,Ryan,Murray,Junior,CIT 101
+1620,Paul,Robinson,Sophomore,CIT 101 Lab
+1621,George,Ward,Senior,COMP 182
+1622,Joe,Perez,Junior,COMP 182 Lab
+1623,Marie,Cruz,Junior,CIT 101
+1624,Judy,Crawford,Senior,CIT 101 Lab
+1625,Ruth,Fox,Freshman,COMP 182
+1626,Russell,Barnes,Sophomore,COMP 182 Lab
+1627,Martha,Bishop,Senior,CIT 101
+1628,Kathy,Hunter,Junior,CIT 101 Lab
+1629,Nicholas,Rodriguez,Sophomore,COMP 182
+1630,Sara,Palmer,Senior,COMP 182 Lab
+1631,Harry,Flores,Junior,CIT 101
+1632,Clarence,Bennett,Junior,CIT 101 Lab
+1633,Anne,Carter,Senior,COMP 182
+1634,Fred,Stanley,Freshman,COMP 182 Lab
+1635,Joseph,Johnson,Sophomore,CIT 101
+1636,Victor,Mitchell,Senior,CIT 101 Lab
+1637,Pamela,Ray,Junior,COMP 182
+1638,Sean,Simmons,Sophomore,COMP 182 Lab
+1639,Beverly,Fisher,Senior,CIT 101
+1640,Kimberly,Welch,Junior,CIT 101 Lab
+1641,James,Simpson,Junior,COMP 182
+1642,Keith,Little,Senior,COMP 182 Lab
+1643,Sean,Gordon,Freshman,CIT 101
+1644,Brandon,Cox,Sophomore,CIT 101 Lab
+1645,Andrew,Hill,Senior,COMP 182
+1646,Jennifer,Hernandez,Junior,COMP 182 Lab
+1647,Christopher,Ferguson,Sophomore,CIT 101
+1648,Norma,Holmes,Senior,CIT 101 Lab
+1649,Jennifer,Weaver,Junior,COMP 182
+1650,John,Burke,Junior,COMP 182 Lab
+1651,Ashley,Burns,Senior,CIT 101
+1652,Tina,Wells,Freshman,CIT 101 Lab
+1653,Teresa,James,Sophomore,COMP 182
+1654,Anthony,Berry,Senior,COMP 182 Lab
+1655,Ruby,Jackson,Junior,CIT 101
+1656,Amy,Lawson,Sophomore,CIT 101 Lab
+1657,Daniel,Woods,Senior,COMP 182
+1658,Cheryl,Taylor,Junior,COMP 182 Lab
+1659,Terry,Webb,Junior,CIT 101
+1660,Robert,Hawkins,Senior,CIT 101 Lab
+1661,Judith,Hall,Freshman,COMP 182
+1662,Denise,Nelson,Sophomore,COMP 182 Lab
+1663,Sean,Reynolds,Senior,CIT 101
+1664,Nicole,Peters,Junior,CIT 101 Lab
+1665,Jack,Flores,Sophomore,COMP 182
+1666,Clarence,Sims,Senior,COMP 182 Lab
+1667,Diana,Allen,Junior,CIT 101
+1668,Sean,Turner,Junior,CIT 101 Lab
+1669,Ralph,Graham,Senior,COMP 182
+1670,Ralph,Weaver,Freshman,COMP 182 Lab
+1671,Anna,Day,Sophomore,CIT 101
+1672,Aaron,Stephens,Senior,CIT 101 Lab
+1673,Ashley,Black,Junior,COMP 182
+1674,Irene,Watkins,Sophomore,COMP 182 Lab
+1675,Billy,Morales,Senior,CIT 101
+1676,Phyllis,Grant,Junior,CIT 101 Lab
+1677,Phillip,Hudson,Junior,COMP 182
+1678,Katherine,Hanson,Senior,COMP 182 Lab
+1679,Chris,Hernandez,Freshman,CIT 101
+1680,Harold,Sims,Sophomore,CIT 101 Lab
+1681,Maria,Shaw,Senior,COMP 182
+1682,Wayne,Peters,Junior,COMP 182 Lab
+1683,Rebecca,Lopez,Sophomore,CIT 101
+1684,Jennifer,Cox,Senior,CIT 101 Lab
+1685,Catherine,Porter,Junior,COMP 182
+1686,Walter,Jordan,Junior,COMP 182 Lab
+1687,Fred,Parker,Senior,CIT 101
+1688,Linda,Dunn,Freshman,CIT 101 Lab
+1689,Rebecca,Ray,Sophomore,COMP 182
+1690,Diana,Kennedy,Senior,COMP 182 Lab
+1691,Larry,Anderson,Junior,CIT 101
+1692,Billy,Rodriguez,Sophomore,CIT 101 Lab
+1693,Donna,Jenkins,Senior,COMP 182
+1694,Sharon,Payne,Junior,COMP 182 Lab
+1695,Frank,Simpson,Junior,CIT 101
+1696,Richard,Frazier,Senior,CIT 101 Lab
+1697,Sarah,Simpson,Freshman,COMP 182
+1698,Katherine,Bell,Sophomore,COMP 182 Lab
+1699,Lori,Kennedy,Senior,CIT 101
+1700,Katherine,Cooper,Junior,CIT 101 Lab
+1701,Diana,Campbell,Sophomore,COMP 182
+1702,Samuel,Mills,Senior,COMP 182 Lab
+1703,Keith,Armstrong,Junior,CIT 101
+1704,Kathleen,Ross,Junior,CIT 101 Lab
+1705,Ernest,Russell,Senior,COMP 182
+1706,Julie,Richards,Freshman,COMP 182 Lab
+1707,Jeremy,Garrett,Sophomore,CIT 101
+1708,Jonathan,Jordan,Senior,CIT 101 Lab
+1709,Joe,Garza,Junior,COMP 182
+1710,Stephen,Dunn,Sophomore,COMP 182 Lab
+1711,Jennifer,Martin,Senior,CIT 101
+1712,Samuel,Tucker,Junior,CIT 101 Lab
+1713,Emily,Wagner,Junior,COMP 182
+1714,Sarah,Bennett,Senior,COMP 182 Lab
+1715,Sean,Matthews,Freshman,CIT 101
+1716,Nicholas,Jones,Sophomore,CIT 101 Lab
+1717,Sharon,Nelson,Senior,COMP 182
+1718,Gerald,Daniels,Junior,COMP 182 Lab
+1719,Tina,Reed,Sophomore,CIT 101
+1720,Pamela,Crawford,Senior,CIT 101 Lab
+1721,Billy,Hamilton,Junior,COMP 182
+1722,Sarah,Gibson,Junior,COMP 182 Lab
+1723,Jessica,Arnold,Senior,CIT 101
+1724,Martha,Scott,Freshman,CIT 101 Lab
+1725,Henry,Warren,Sophomore,COMP 182
+1726,Tina,Ramos,Senior,COMP 182 Lab
+1727,Robin,Oliver,Junior,CIT 101
+1728,Harry,Kelly,Sophomore,CIT 101 Lab
+1729,Kathryn,Freeman,Senior,COMP 182
+1730,Lisa,Hansen,Junior,COMP 182 Lab
+1731,Eugene,Spencer,Junior,CIT 101
+1732,Mary,Gibson,Senior,CIT 101 Lab
+1733,Patrick,Lawson,Freshman,COMP 182
+1734,Johnny,Lawrence,Sophomore,COMP 182 Lab
+1735,Ryan,Foster,Senior,CIT 101
+1736,Steve,Brown,Junior,CIT 101 Lab
+1737,Christina,Bradley,Sophomore,COMP 182
+1738,Heather,Reynolds,Senior,COMP 182 Lab
+1739,Anthony,Sullivan,Junior,CIT 101
+1740,Christine,Watkins,Junior,CIT 101 Lab
+1741,Lawrence,Barnes,Senior,COMP 182
+1742,Kathryn,Anderson,Freshman,COMP 182 Lab
+1743,Michael,Bennett,Sophomore,CIT 101
+1744,Harold,Montgomery,Senior,CIT 101 Lab
+1745,Antonio,Scott,Junior,COMP 182
+1746,Pamela,Snyder,Sophomore,COMP 182 Lab
+1747,Martha,Payne,Senior,CIT 101
+1748,Steve,Boyd,Junior,CIT 101 Lab
+1749,Mark,Bennett,Junior,COMP 182
+1750,Ernest,Sanders,Senior,COMP 182 Lab
+1751,Amy,Morgan,Freshman,CIT 101
+1752,Timothy,Foster,Sophomore,CIT 101 Lab
+1753,Daniel,Ortiz,Senior,COMP 182
+1754,Judith,Simmons,Junior,COMP 182 Lab
+1755,Rachel,Reid,Sophomore,CIT 101
+1756,Nicole,Evans,Senior,CIT 101 Lab
+1757,Jean,Davis,Junior,COMP 182
+1758,Donna,Gray,Junior,COMP 182 Lab
+1759,Scott,George,Senior,CIT 101
+1760,Antonio,Andrews,Freshman,CIT 101 Lab
+1761,Edward,Grant,Sophomore,COMP 182
+1762,Margaret,Elliott,Senior,COMP 182 Lab
+1763,Ruth,Lawrence,Junior,CIT 101
+1764,Deborah,Oliver,Sophomore,CIT 101 Lab
+1765,Anne,Ross,Senior,COMP 182
+1766,Martha,Payne,Junior,COMP 182 Lab
+1767,William,Brooks,Junior,CIT 101
+1768,Maria,Sanders,Senior,CIT 101 Lab
+1769,Kathy,Lane,Freshman,COMP 182
+1770,Eugene,Harvey,Sophomore,COMP 182 Lab
+1771,Eugene,Spencer,Senior,CIT 101
+1772,Donald,Chavez,Junior,CIT 101 Lab
+1773,Douglas,Watkins,Sophomore,COMP 182
+1774,Joyce,Spencer,Senior,COMP 182 Lab
+1775,Thomas,West,Junior,CIT 101
+1776,Martha,Freeman,Junior,CIT 101 Lab
+1777,Linda,Anderson,Senior,COMP 182
+1778,Juan,Cruz,Freshman,COMP 182 Lab
+1779,Kimberly,Welch,Sophomore,CIT 101
+1780,Jacqueline,George,Senior,CIT 101 Lab
+1781,Fred,Duncan,Junior,COMP 182
+1782,Harold,Johnson,Sophomore,COMP 182 Lab
+1783,Carol,Murphy,Senior,CIT 101
+1784,Arthur,Hawkins,Junior,CIT 101 Lab
+1785,Scott,Clark,Junior,COMP 182
+1786,Edward,Hart,Senior,COMP 182 Lab
+1787,Matthew,Morgan,Freshman,CIT 101
+1788,Rose,Sullivan,Sophomore,CIT 101 Lab
+1789,Joe,Reid,Senior,COMP 182
+1790,Brian,Hansen,Junior,COMP 182 Lab
+1791,Martin,Mendoza,Sophomore,CIT 101
+1792,Jane,Murray,Senior,CIT 101 Lab
+1793,Joseph,Hudson,Junior,COMP 182
+1794,Heather,Washington,Junior,COMP 182 Lab
+1795,Eugene,Lawson,Senior,CIT 101
+1796,Stephanie,Hayes,Freshman,CIT 101 Lab
+1797,Elizabeth,Russell,Sophomore,COMP 182
+1798,Ernest,Jenkins,Senior,COMP 182 Lab
+1799,Frank,Howell,Junior,CIT 101
+1800,Jean,Shaw,Sophomore,CIT 101 Lab
+1801,Diana,Foster,Senior,COMP 182
+1802,Heather,Reynolds,Junior,COMP 182 Lab
+1803,Benjamin,Wagner,Junior,CIT 101
+1804,Douglas,Roberts,Senior,CIT 101 Lab
+1805,Donna,Henry,Freshman,COMP 182
+1806,Jessica,Jacobs,Sophomore,COMP 182 Lab
+1807,Melissa,Parker,Senior,CIT 101
+1808,Jessica,Garcia,Junior,CIT 101 Lab
+1809,Earl,Simpson,Sophomore,COMP 182
+1810,Steven,Mendoza,Senior,COMP 182 Lab
+1811,Anne,Simpson,Junior,CIT 101
+1812,Jean,Simmons,Junior,CIT 101 Lab
+1813,Chris,Ruiz,Senior,COMP 182
+1814,Louise,Nichols,Freshman,COMP 182 Lab
+1815,Marilyn,Ward,Sophomore,CIT 101
+1816,Andrea,Larson,Senior,CIT 101 Lab
+1817,James,Shaw,Junior,COMP 182
+1818,Lori,Ramos,Sophomore,COMP 182 Lab
+1819,Theresa,Fuller,Senior,CIT 101
+1820,Bonnie,Meyer,Junior,CIT 101 Lab
+1821,William,Sims,Junior,COMP 182
+1822,Kathleen,Fisher,Senior,COMP 182 Lab
+1823,Samuel,Chavez,Freshman,CIT 101
+1824,George,Garza,Sophomore,CIT 101 Lab
+1825,Stephen,Scott,Senior,COMP 182
+1826,Ruth,Martinez,Junior,COMP 182 Lab
+1827,Shirley,Bailey,Sophomore,CIT 101
+1828,Matthew,Simmons,Senior,CIT 101 Lab
+1829,Betty,Nichols,Junior,COMP 182
+1830,Rose,Graham,Junior,COMP 182 Lab
+1831,Clarence,Dixon,Senior,CIT 101
+1832,Joan,Oliver,Freshman,CIT 101 Lab
+1833,Kenneth,Hughes,Sophomore,COMP 182
+1834,Rachel,Peters,Senior,COMP 182 Lab
+1835,Phyllis,Cox,Junior,CIT 101
+1836,Christopher,Butler,Sophomore,CIT 101 Lab
+1837,Kelly,Romero,Senior,COMP 182
+1838,Michael,Williamson,Junior,COMP 182 Lab
+1839,Joe,Fowler,Junior,CIT 101
+1840,Shawn,Gutierrez,Senior,CIT 101 Lab
+1841,Marie,Harrison,Freshman,COMP 182
+1842,Phillip,Hernandez,Sophomore,COMP 182 Lab
+1843,Jennifer,Nguyen,Senior,CIT 101
+1844,Brian,Crawford,Junior,CIT 101 Lab
+1845,Lillian,Cole,Sophomore,COMP 182
+1846,Joshua,Hanson,Senior,COMP 182 Lab
+1847,Jennifer,Cunningham,Junior,CIT 101
+1848,Sean,Parker,Junior,CIT 101 Lab
+1849,Jason,Simpson,Senior,COMP 182
+1850,Albert,Taylor,Freshman,COMP 182 Lab
+1851,Daniel,Moreno,Sophomore,CIT 101
+1852,Rose,Hicks,Senior,CIT 101 Lab
+1853,Ernest,Ross,Junior,COMP 182
+1854,Kimberly,Perry,Sophomore,COMP 182 Lab
+1855,Nicholas,Ford,Senior,CIT 101
+1856,Nicole,Parker,Junior,CIT 101 Lab
+1857,Denise,Gordon,Junior,COMP 182
+1858,Christopher,Phillips,Senior,COMP 182 Lab
+1859,Catherine,Lynch,Freshman,CIT 101
+1860,Jack,Sanders,Sophomore,CIT 101 Lab
+1861,Harold,Castillo,Senior,COMP 182
+1862,Donna,Ellis,Junior,COMP 182 Lab
+1863,Carolyn,Bishop,Sophomore,CIT 101
+1864,Albert,Graham,Senior,CIT 101 Lab
+1865,Kimberly,Adams,Junior,COMP 182
+1866,Gary,Perry,Junior,COMP 182 Lab
+1867,Victor,Wells,Senior,CIT 101
+1868,Richard,Carr,Freshman,CIT 101 Lab
+1869,Jose,Harrison,Sophomore,COMP 182
+1870,Timothy,Fowler,Senior,COMP 182 Lab
+1871,Sean,James,Junior,CIT 101
+1872,Phillip,Richardson,Sophomore,CIT 101 Lab
+1873,Elizabeth,Murphy,Senior,COMP 182
+1874,Jane,Cunningham,Junior,COMP 182 Lab
+1875,Rachel,Ruiz,Junior,CIT 101
+1876,Jason,Welch,Senior,CIT 101 Lab
+1877,Cynthia,Fields,Freshman,COMP 182
+1878,Johnny,Dixon,Sophomore,COMP 182 Lab
+1879,Brandon,Meyer,Senior,CIT 101
+1880,Todd,Kennedy,Junior,CIT 101 Lab
+1881,Paula,Ruiz,Sophomore,COMP 182
+1882,Charles,Burns,Senior,COMP 182 Lab
+1883,Melissa,Arnold,Junior,CIT 101
+1884,Justin,Perkins,Junior,CIT 101 Lab
+1885,Johnny,Peters,Senior,COMP 182
+1886,Louis,Morgan,Freshman,COMP 182 Lab
+1887,Stephen,Lynch,Sophomore,CIT 101
+1888,Scott,Nichols,Senior,CIT 101 Lab
+1889,Virginia,Price,Junior,COMP 182
+1890,Phillip,Lane,Sophomore,COMP 182 Lab
+1891,Chris,Vasquez,Senior,CIT 101
+1892,Brandon,Price,Junior,CIT 101 Lab
+1893,Christina,Stephens,Junior,COMP 182
+1894,Janice,Perkins,Senior,COMP 182 Lab
+1895,Helen,Hayes,Freshman,CIT 101
+1896,Marie,Mitchell,Sophomore,CIT 101 Lab
+1897,Norma,Knight,Senior,COMP 182
+1898,Phyllis,Bradley,Junior,COMP 182 Lab
+1899,Gary,Austin,Sophomore,CIT 101
+1900,Christina,Reyes,Senior,CIT 101 Lab
+1901,Douglas,Ferguson,Junior,COMP 182
+1902,Kathryn,Gonzalez,Junior,COMP 182 Lab
+1903,Eric,Wallace,Senior,CIT 101
+1904,Wayne,Porter,Freshman,CIT 101 Lab
+1905,Barbara,Bennett,Sophomore,COMP 182
+1906,Marilyn,Bradley,Senior,COMP 182 Lab
+1907,Kelly,Fuller,Junior,CIT 101
+1908,Paula,Payne,Sophomore,CIT 101 Lab
+1909,Donald,Morales,Senior,COMP 182
+1910,Rebecca,Grant,Junior,COMP 182 Lab
+1911,Roy,Matthews,Junior,CIT 101
+1912,Steve,Simmons,Senior,CIT 101 Lab
+1913,Christina,Stevens,Freshman,COMP 182
+1914,Catherine,Holmes,Sophomore,COMP 182 Lab
+1915,Joshua,James,Senior,CIT 101
+1916,Louise,Gonzales,Junior,CIT 101 Lab
+1917,Anthony,King,Sophomore,COMP 182
+1918,Carol,Lewis,Senior,COMP 182 Lab
+1919,Gregory,Hunt,Junior,CIT 101
+1920,Patrick,Mitchell,Junior,CIT 101 Lab
+1921,Fred,Webb,Senior,COMP 182
+1922,Rebecca,Welch,Freshman,COMP 182 Lab
+1923,John,Burns,Sophomore,CIT 101
+1924,Stephanie,Hudson,Senior,CIT 101 Lab
+1925,Carl,Duncan,Junior,COMP 182
+1926,Eugene,Franklin,Sophomore,COMP 182 Lab
+1927,Louise,Lopez,Senior,CIT 101
+1928,Todd,Pierce,Junior,CIT 101 Lab
+1929,Amanda,Henderson,Junior,COMP 182
+1930,Rose,Wells,Senior,COMP 182 Lab
+1931,Randy,Bailey,Freshman,CIT 101
+1932,Helen,Nichols,Sophomore,CIT 101 Lab
+1933,Denise,Miller,Senior,COMP 182
+1934,Ruth,Baker,Junior,COMP 182 Lab
+1935,Joshua,Henry,Sophomore,CIT 101
+1936,Sean,Andrews,Senior,CIT 101 Lab
+1937,Elizabeth,Parker,Junior,COMP 182
+1938,Jack,Wheeler,Junior,COMP 182 Lab
+1939,Kimberly,Andrews,Senior,CIT 101
+1940,Brandon,Garza,Freshman,CIT 101 Lab
+1941,Louise,Franklin,Sophomore,COMP 182
+1942,Jessica,Fields,Senior,COMP 182 Lab
+1943,Richard,Hamilton,Junior,CIT 101
+1944,Gloria,Meyer,Sophomore,CIT 101 Lab
+1945,Bonnie,Murray,Senior,COMP 182
+1946,Jennifer,Rose,Junior,COMP 182 Lab
+1947,Lois,Vasquez,Junior,CIT 101
+1948,Marilyn,Austin,Senior,CIT 101 Lab
+1949,Fred,Andrews,Freshman,COMP 182
+1950,Michelle,Hill,Sophomore,COMP 182 Lab
+1951,Christopher,Hall,Senior,CIT 101
+1952,Patricia,Burns,Junior,CIT 101 Lab
+1953,Paula,Long,Sophomore,COMP 182
+1954,Stephen,Jones,Senior,COMP 182 Lab
+1955,Jimmy,Graham,Junior,CIT 101
+1956,Margaret,Walker,Junior,CIT 101 Lab
+1957,Carlos,Wood,Senior,COMP 182
+1958,Gary,Nichols,Freshman,COMP 182 Lab
+1959,Donald,Butler,Sophomore,CIT 101
+1960,Mary,Griffin,Senior,CIT 101 Lab
+1961,Johnny,Wright,Junior,COMP 182
+1962,Wanda,Stewart,Sophomore,COMP 182 Lab
+1963,Sean,Weaver,Senior,CIT 101
+1964,Catherine,Nichols,Junior,CIT 101 Lab
+1965,Jessica,Schmidt,Junior,COMP 182
+1966,Bobby,Howell,Senior,COMP 182 Lab
+1967,Lawrence,Rodriguez,Freshman,CIT 101
+1968,Arthur,Rice,Sophomore,CIT 101 Lab
+1969,Sarah,Stephens,Senior,COMP 182
+1970,Nancy,Alexander,Junior,COMP 182 Lab
+1971,Bruce,Ryan,Sophomore,CIT 101
+1972,Howard,Sullivan,Senior,CIT 101 Lab
+1973,Kenneth,Hanson,Junior,COMP 182
+1974,Jane,Stanley,Junior,COMP 182 Lab
+1975,Daniel,Wells,Senior,CIT 101
+1976,Susan,Parker,Freshman,CIT 101 Lab
+1977,Sara,Wood,Sophomore,COMP 182
+1978,Gary,Davis,Senior,COMP 182 Lab
+1979,Anne,Watson,Junior,CIT 101
+1980,Alice,Kelley,Sophomore,CIT 101 Lab
+1981,Lisa,Bishop,Senior,COMP 182
+1982,Judith,Phillips,Junior,COMP 182 Lab
+1983,Sean,Johnston,Junior,CIT 101
+1984,Sara,Flores,Senior,CIT 101 Lab
+1985,Maria,Wells,Freshman,COMP 182
+1986,George,Peterson,Sophomore,COMP 182 Lab
+1987,Ryan,Andrews,Senior,CIT 101
+1988,Benjamin,Smith,Junior,CIT 101 Lab
+1989,Earl,Anderson,Sophomore,COMP 182
+1990,Diana,Sanders,Senior,COMP 182 Lab
+1991,Robert,Howell,Junior,CIT 101
+1992,Robin,Washington,Junior,CIT 101 Lab
+1993,Phillip,Lane,Senior,COMP 182
+1994,Richard,Mccoy,Freshman,COMP 182 Lab
+1995,Dorothy,Willis,Sophomore,CIT 101
+1996,Sandra,Wood,Senior,CIT 101 Lab
+1997,Betty,Wood,Junior,COMP 182
+1998,Gloria,Garza,Sophomore,COMP 182 Lab
+1999,Phyllis,Brown,Senior,CIT 101
+2000,Craig,Burns,Junior,CIT 101 Lab
+2001,Anna,Clark,Junior,COMP 182
+2002,Gary,Rose,Senior,COMP 182 Lab
+2003,Arthur,Harvey,Freshman,CIT 101
+2004,Ryan,Austin,Sophomore,CIT 101 Lab
+2005,Mary,Reyes,Senior,COMP 182
+2006,Aaron,Brooks,Junior,COMP 182 Lab
+2007,Phillip,Campbell,Sophomore,CIT 101
+2008,Tammy,Kennedy,Senior,CIT 101 Lab
+2009,Anthony,Reynolds,Junior,COMP 182
+2010,Maria,Morales,Junior,COMP 182 Lab
+2011,Heather,Reid,Senior,CIT 101
+2012,Ruth,Murray,Freshman,CIT 101 Lab
+2013,Albert,Reynolds,Sophomore,COMP 182
+2014,Laura,Smith,Senior,COMP 182 Lab
+2015,Betty,Burton,Junior,CIT 101
+2016,Harold,Ward,Sophomore,CIT 101 Lab
+2017,Norma,Coleman,Senior,COMP 182
+2018,Johnny,Chapman,Junior,COMP 182 Lab
+2019,Ryan,Meyer,Junior,CIT 101
+2020,Phillip,Garcia,Senior,CIT 101 Lab
+2021,Shirley,Mcdonald,Freshman,COMP 182
+2022,Edward,Stanley,Sophomore,COMP 182 Lab
+2023,Larry,Hernandez,Senior,CIT 101
+2024,Margaret,Roberts,Junior,CIT 101 Lab
+2025,Carol,Porter,Sophomore,COMP 182
+2026,Laura,Bishop,Senior,COMP 182 Lab
+2027,Jason,Moreno,Junior,CIT 101
+2028,Margaret,Murphy,Junior,CIT 101 Lab
+2029,Matthew,Reyes,Senior,COMP 182
+2030,Gloria,Wagner,Freshman,COMP 182 Lab
+2031,Kimberly,Patterson,Sophomore,CIT 101
+2032,Mark,Gonzales,Senior,CIT 101 Lab
+2033,Juan,Robertson,Junior,COMP 182
+2034,Jane,Stephens,Sophomore,COMP 182 Lab
+2035,Douglas,Hawkins,Senior,CIT 101
+2036,Martha,Palmer,Junior,CIT 101 Lab
+2037,Karen,Henry,Junior,COMP 182
+2038,Earl,Jenkins,Senior,COMP 182 Lab
+2039,Larry,Richardson,Freshman,CIT 101
+2040,Jonathan,Burton,Sophomore,CIT 101 Lab
+2041,Ruth,Brown,Senior,COMP 182
+2042,Howard,Wagner,Junior,COMP 182 Lab
+2043,Justin,Castillo,Sophomore,CIT 101
+2044,Arthur,Jackson,Senior,CIT 101 Lab
+2045,Annie,Martinez,Junior,COMP 182
+2046,Albert,James,Junior,COMP 182 Lab
+2047,Anthony,Rose,Senior,CIT 101
+2048,Lawrence,Cunningham,Freshman,CIT 101 Lab
+2049,Eugene,Duncan,Sophomore,COMP 182
+2050,Steven,Black,Senior,COMP 182 Lab
+2051,Jean,Sanchez,Junior,CIT 101
+2052,Lori,Elliott,Sophomore,CIT 101 Lab
+2053,Emily,Smith,Senior,COMP 182
+2054,Wanda,Pierce,Junior,COMP 182 Lab
+2055,Virginia,Hanson,Junior,CIT 101
+2056,Teresa,Reynolds,Senior,CIT 101 Lab
+2057,Sean,Mcdonald,Freshman,COMP 182
+2058,Katherine,Olson,Sophomore,COMP 182 Lab
+2059,Pamela,Garza,Senior,CIT 101
+2060,Willie,Harper,Junior,CIT 101 Lab
+2061,Philip,Reid,Sophomore,COMP 182
+2062,Phyllis,Howard,Senior,COMP 182 Lab
+2063,Sharon,Mcdonald,Junior,CIT 101
+2064,Lisa,Garrett,Junior,CIT 101 Lab
+2065,Kenneth,Montgomery,Senior,COMP 182
+2066,Kathleen,Duncan,Freshman,COMP 182 Lab
+2067,Justin,Watson,Sophomore,CIT 101
+2068,Russell,Williams,Senior,CIT 101 Lab
+2069,Clarence,Murray,Junior,COMP 182
+2070,Keith,Hunter,Sophomore,COMP 182 Lab
+2071,Melissa,Snyder,Senior,CIT 101
+2072,Donald,Garrett,Junior,CIT 101 Lab
+2073,Phyllis,Cunningham,Junior,COMP 182
+2074,Marilyn,Hart,Senior,COMP 182 Lab
+2075,Judith,Mitchell,Freshman,CIT 101
+2076,Rose,Wilson,Sophomore,CIT 101 Lab
+2077,Alice,Rogers,Senior,COMP 182
+2078,Julie,Coleman,Junior,COMP 182 Lab
+2079,Kimberly,Ford,Sophomore,CIT 101
+2080,Ruth,Carroll,Senior,CIT 101 Lab
+2081,Alan,Reynolds,Junior,COMP 182
+2082,Christina,Thompson,Junior,COMP 182 Lab
+2083,Wanda,Gordon,Senior,CIT 101
+2084,Janet,Parker,Freshman,CIT 101 Lab
+2085,Annie,Hayes,Sophomore,COMP 182
+2086,Lawrence,Gonzales,Senior,COMP 182 Lab
+2087,Theresa,Long,Junior,CIT 101
+2088,Jennifer,Roberts,Sophomore,CIT 101 Lab
+2089,Donald,Harrison,Senior,COMP 182
+2090,Judith,Jackson,Junior,COMP 182 Lab
+2091,Philip,Harrison,Junior,CIT 101
+2092,Maria,Fernandez,Senior,CIT 101 Lab
+2093,Alice,Romero,Freshman,COMP 182
+2094,Wayne,Burns,Sophomore,COMP 182 Lab
+2095,Tammy,Larson,Senior,CIT 101
+2096,Russell,Lewis,Junior,CIT 101 Lab
+2097,Marilyn,Cooper,Sophomore,COMP 182
+2098,Melissa,Campbell,Senior,COMP 182 Lab
+2099,Arthur,Boyd,Junior,CIT 101
+2100,Gary,Torres,Junior,CIT 101 Lab
+2101,Lawrence,Burns,Senior,COMP 182
+2102,Julie,Robinson,Freshman,COMP 182 Lab
+2103,Martin,Peterson,Sophomore,CIT 101
+2104,Joshua,Garza,Senior,CIT 101 Lab
+2105,Jose,Cunningham,Junior,COMP 182
+2106,Bonnie,Palmer,Sophomore,COMP 182 Lab
+2107,Carolyn,Montgomery,Senior,CIT 101
+2108,Joshua,Mccoy,Junior,CIT 101 Lab
+2109,Tammy,Powell,Junior,COMP 182
+2110,Michael,Bishop,Senior,COMP 182 Lab
+2111,Denise,Gordon,Freshman,CIT 101
+2112,Ashley,Lewis,Sophomore,CIT 101 Lab
+2113,Howard,Foster,Senior,COMP 182
+2114,Christopher,Armstrong,Junior,COMP 182 Lab
+2115,Christine,Rose,Sophomore,CIT 101
+2116,Martin,Miller,Senior,CIT 101 Lab
+2117,Ronald,Carr,Junior,COMP 182
+2118,Jennifer,Wright,Junior,COMP 182 Lab
+2119,Kenneth,Murphy,Senior,CIT 101
+2120,Amanda,Palmer,Freshman,CIT 101 Lab
+2121,Russell,Murphy,Sophomore,COMP 182
+2122,Bruce,Green,Senior,COMP 182 Lab
+2123,Albert,Rivera,Junior,CIT 101
+2124,Jean,Thomas,Sophomore,CIT 101 Lab
+2125,Patrick,Myers,Senior,COMP 182
+2126,Howard,Bradley,Junior,COMP 182 Lab
+2127,Eric,Murphy,Junior,CIT 101
+2128,Benjamin,Holmes,Senior,CIT 101 Lab
+2129,Helen,Adams,Freshman,COMP 182
+2130,George,Lawrence,Sophomore,COMP 182 Lab
+2131,Keith,Peterson,Senior,CIT 101
+2132,Robin,Ferguson,Junior,CIT 101 Lab
+2133,Amy,Morgan,Sophomore,COMP 182
+2134,Charles,Jacobs,Senior,COMP 182 Lab
+2135,Lori,White,Junior,CIT 101
+2136,Jeremy,Murray,Junior,CIT 101 Lab
+2137,Karen,Stone,Senior,COMP 182
+2138,Ernest,Hamilton,Freshman,COMP 182 Lab
+2139,Walter,Ward,Sophomore,CIT 101
+2140,Cynthia,Cruz,Senior,CIT 101 Lab
+2141,Frank,Robinson,Junior,COMP 182
+2142,Michelle,Cunningham,Sophomore,COMP 182 Lab
+2143,Sara,Carroll,Senior,CIT 101
+2144,Shirley,Mcdonald,Junior,CIT 101 Lab
+2145,Willie,Gilbert,Junior,COMP 182
+2146,Benjamin,Gray,Senior,COMP 182 Lab
+2147,Sarah,Stanley,Freshman,CIT 101
+2148,Diane,Simpson,Sophomore,CIT 101 Lab
+2149,Tina,Lopez,Senior,COMP 182
+2150,Craig,Torres,Junior,COMP 182 Lab
+2151,Lawrence,Franklin,Sophomore,CIT 101
+2152,Lillian,Morris,Senior,CIT 101 Lab
+2153,Donald,West,Junior,COMP 182
+2154,Stephen,Hansen,Junior,COMP 182 Lab
+2155,Fred,Welch,Senior,CIT 101
+2156,Roger,Mills,Freshman,CIT 101 Lab
+2157,Patricia,Brown,Sophomore,COMP 182
+2158,Harold,Schmidt,Senior,COMP 182 Lab
+2159,Karen,Price,Junior,CIT 101
+2160,Gerald,Gibson,Sophomore,CIT 101 Lab
+2161,Justin,Cook,Senior,COMP 182
+2162,Julie,Hall,Junior,COMP 182 Lab
+2163,Dorothy,Mitchell,Junior,CIT 101
+2164,Lawrence,Lane,Senior,CIT 101 Lab
+2165,Betty,Rodriguez,Freshman,COMP 182
+2166,Charles,Bennett,Sophomore,COMP 182 Lab
+2167,Kelly,Price,Senior,CIT 101
+2168,Jean,Hughes,Junior,CIT 101 Lab
+2169,Carl,Bell,Sophomore,COMP 182
+2170,Gerald,Gonzalez,Senior,COMP 182 Lab
+2171,Carol,Morrison,Junior,CIT 101
+2172,Pamela,Hudson,Junior,CIT 101 Lab
+2173,Lisa,Hanson,Senior,COMP 182
+2174,Melissa,Arnold,Freshman,COMP 182 Lab
+2175,Sara,Cox,Sophomore,CIT 101
+2176,Nicholas,Ramirez,Senior,CIT 101 Lab
+2177,Donna,Torres,Junior,COMP 182
+2178,Joseph,Alvarez,Sophomore,COMP 182 Lab
+2179,Brenda,Burke,Senior,CIT 101
+2180,Norma,Boyd,Junior,CIT 101 Lab
+2181,Barbara,Wright,Junior,COMP 182
+2182,Billy,King,Senior,COMP 182 Lab
+2183,Jonathan,Griffin,Freshman,CIT 101
+2184,Andrea,King,Sophomore,CIT 101 Lab
+2185,William,Kim,Senior,COMP 182
+2186,Phillip,Hamilton,Junior,COMP 182 Lab
+2187,Timothy,Lawson,Sophomore,CIT 101
+2188,Joshua,Anderson,Senior,CIT 101 Lab
+2189,Frances,Gray,Junior,COMP 182
+2190,Billy,Jacobs,Junior,COMP 182 Lab
+2191,Harold,Kelly,Senior,CIT 101
+2192,Evelyn,Robinson,Freshman,CIT 101 Lab
+2193,Denise,White,Sophomore,COMP 182
+2194,Lois,Cunningham,Senior,COMP 182 Lab
+2195,Anne,Oliver,Junior,CIT 101
+2196,Ronald,Armstrong,Sophomore,CIT 101 Lab
+2197,Carolyn,Hicks,Senior,COMP 182
+2198,Jennifer,James,Junior,COMP 182 Lab
+2199,Jeremy,Gibson,Junior,CIT 101
+2200,Patrick,Howell,Senior,CIT 101 Lab
+2201,Craig,Davis,Freshman,COMP 182
+2202,Douglas,Hunter,Sophomore,COMP 182 Lab
+2203,Carlos,Bradley,Senior,CIT 101
+2204,Louis,Garza,Junior,CIT 101 Lab
+2205,Louise,Reyes,Sophomore,COMP 182
+2206,Louis,Nichols,Senior,COMP 182 Lab
+2207,Jennifer,Moreno,Junior,CIT 101
+2208,Lisa,Meyer,Junior,CIT 101 Lab
+2209,Steve,Owens,Senior,COMP 182
+2210,Jonathan,Palmer,Freshman,COMP 182 Lab
+2211,Cheryl,Watkins,Sophomore,CIT 101
+2212,Steven,Rivera,Senior,CIT 101 Lab
+2213,Nicole,Dixon,Junior,COMP 182
+2214,Steven,Brooks,Sophomore,COMP 182 Lab
+2215,Lisa,Porter,Senior,CIT 101
+2216,Scott,Griffin,Junior,CIT 101 Lab
+2217,Cheryl,Duncan,Junior,COMP 182
+2218,Robert,Henry,Senior,COMP 182 Lab
+2219,Aaron,Garza,Freshman,CIT 101
+2220,Lois,Nguyen,Sophomore,CIT 101 Lab
+2221,Daniel,James,Senior,COMP 182
+2222,Angela,Weaver,Junior,COMP 182 Lab
+2223,William,Bradley,Sophomore,CIT 101
+2224,Joseph,Jackson,Senior,CIT 101 Lab
+2225,Jennifer,Lewis,Junior,COMP 182
+2226,Jean,Jackson,Junior,COMP 182 Lab
+2227,Keith,Howard,Senior,CIT 101
+2228,Betty,Mitchell,Freshman,CIT 101 Lab
+2229,Paul,Perez,Sophomore,COMP 182
+2230,Donna,Allen,Senior,COMP 182 Lab
+2231,Joshua,Snyder,Junior,CIT 101
+2232,Cheryl,Alexander,Sophomore,CIT 101 Lab
+2233,Alan,Morris,Senior,COMP 182
+2234,Alan,Willis,Junior,COMP 182 Lab
+2235,Angela,Perkins,Junior,CIT 101
+2236,Richard,Riley,Senior,CIT 101 Lab
+2237,Arthur,Ramirez,Freshman,COMP 182
+2238,Sarah,Evans,Sophomore,COMP 182 Lab
+2239,Amy,Austin,Senior,CIT 101
+2240,Chris,Freeman,Junior,CIT 101 Lab
+2241,Gerald,Rogers,Sophomore,COMP 182
+2242,Anna,Stevens,Senior,COMP 182 Lab
+2243,Stephen,Carr,Junior,CIT 101
+2244,Judith,Hughes,Junior,CIT 101 Lab
+2245,Randy,Fox,Senior,COMP 182
+2246,Barbara,Alexander,Freshman,COMP 182 Lab
+2247,Willie,Ward,Sophomore,CIT 101
+2248,Evelyn,Graham,Senior,CIT 101 Lab
+2249,Phillip,Cunningham,Junior,COMP 182
+2250,Michelle,Black,Sophomore,COMP 182 Lab
+2251,Fred,Vasquez,Senior,CIT 101
+2252,Denise,Anderson,Junior,CIT 101 Lab
+2253,Timothy,Simpson,Junior,COMP 182
+2254,Louise,Gordon,Senior,COMP 182 Lab
+2255,Eugene,Wells,Freshman,CIT 101
+2256,Robin,Gilbert,Sophomore,CIT 101 Lab
+2257,Gerald,Burton,Senior,COMP 182
+2258,Jesse,Grant,Junior,COMP 182 Lab
+2259,Samuel,Day,Sophomore,CIT 101
+2260,Joan,Willis,Senior,CIT 101 Lab
+2261,Earl,Castillo,Junior,COMP 182
+2262,Juan,Hall,Junior,COMP 182 Lab
+2263,Mary,Price,Senior,CIT 101
+2264,Louise,Cunningham,Freshman,CIT 101 Lab
+2265,Marie,Edwards,Sophomore,COMP 182
+2266,Beverly,Barnes,Senior,COMP 182 Lab
+2267,Shirley,Knight,Junior,CIT 101
+2268,Diana,Mason,Sophomore,CIT 101 Lab
+2269,Amanda,Gardner,Senior,COMP 182
+2270,Arthur,Harvey,Junior,COMP 182 Lab
+2271,Evelyn,Garza,Junior,CIT 101
+2272,Sharon,Sims,Senior,CIT 101 Lab
+2273,Katherine,Hansen,Freshman,COMP 182
+2274,Joshua,Larson,Sophomore,COMP 182 Lab
+2275,Cheryl,Ramirez,Senior,CIT 101
+2276,Laura,Davis,Junior,CIT 101 Lab
+2277,Anthony,Stone,Sophomore,COMP 182
+2278,David,West,Senior,COMP 182 Lab
+2279,Beverly,Kim,Junior,CIT 101
+2280,Joan,Black,Junior,CIT 101 Lab
+2281,Daniel,Weaver,Senior,COMP 182
+2282,Doris,Hayes,Freshman,COMP 182 Lab
+2283,Douglas,Jackson,Sophomore,CIT 101
+2284,Debra,Hudson,Senior,CIT 101 Lab
+2285,Mark,Alvarez,Junior,COMP 182
+2286,Deborah,Meyer,Sophomore,COMP 182 Lab
+2287,Philip,Williams,Senior,CIT 101
+2288,Frances,Howell,Junior,CIT 101 Lab
+2289,Fred,Nelson,Junior,COMP 182
+2290,Donald,Hall,Senior,COMP 182 Lab
+2291,Alan,Coleman,Freshman,CIT 101
+2292,Martin,Romero,Sophomore,CIT 101 Lab
+2293,William,Moore,Senior,COMP 182
+2294,Elizabeth,Banks,Junior,COMP 182 Lab
+2295,Christine,Banks,Sophomore,CIT 101
+2296,Doris,Daniels,Senior,CIT 101 Lab
+2297,Gerald,Griffin,Junior,COMP 182
+2298,Bonnie,Watson,Junior,COMP 182 Lab
+2299,Carl,Lewis,Senior,CIT 101
+2300,Daniel,Watkins,Freshman,CIT 101 Lab
+2301,Jacqueline,Wagner,Sophomore,COMP 182
+2302,Jessica,Kim,Senior,COMP 182 Lab
+2303,Martha,Richards,Junior,CIT 101
+2304,Diana,Harrison,Sophomore,CIT 101 Lab
+2305,Donald,Frazier,Senior,COMP 182
+2306,Brian,Carr,Junior,COMP 182 Lab
+2307,Michelle,Boyd,Junior,CIT 101
+2308,Anthony,Campbell,Senior,CIT 101 Lab
+2309,Anne,Marshall,Freshman,COMP 182
+2310,Martin,Lopez,Sophomore,COMP 182 Lab
+2311,Bobby,Perry,Senior,CIT 101
+2312,Tina,Kennedy,Junior,CIT 101 Lab
+2313,Dennis,Fernandez,Sophomore,COMP 182
+2314,Carol,Andrews,Senior,COMP 182 Lab
+2315,Debra,Fisher,Junior,CIT 101
+2316,Arthur,Arnold,Junior,CIT 101 Lab
+2317,Carlos,Perez,Senior,COMP 182
+2318,Lisa,Chapman,Freshman,COMP 182 Lab
+2319,Carl,Kelly,Sophomore,CIT 101
+2320,Jacqueline,Olson,Senior,CIT 101 Lab
+2321,Linda,Kelly,Junior,COMP 182
+2322,Frank,Bradley,Sophomore,COMP 182 Lab
+2323,Judith,Tucker,Senior,CIT 101
+2324,Billy,Ramirez,Junior,CIT 101 Lab
+2325,Harry,Boyd,Junior,COMP 182
+2326,Jean,Black,Senior,COMP 182 Lab
+2327,Joe,Harris,Freshman,CIT 101
+2328,Roger,Ellis,Sophomore,CIT 101 Lab
+2329,Katherine,Reed,Senior,COMP 182
+2330,Jennifer,Freeman,Junior,COMP 182 Lab
+2331,Frank,Ross,Sophomore,CIT 101
+2332,Mildred,Rivera,Senior,CIT 101 Lab
+2333,Brian,Carter,Junior,COMP 182
+2334,Diana,Morris,Junior,COMP 182 Lab
+2335,Kenneth,Hayes,Senior,CIT 101
+2336,Nancy,Nichols,Freshman,CIT 101 Lab
+2337,Marilyn,Cook,Sophomore,COMP 182
+2338,Anne,Jordan,Senior,COMP 182 Lab
+2339,Louis,Wilson,Junior,CIT 101
+2340,Keith,Chavez,Sophomore,CIT 101 Lab
+2341,Joshua,Johnston,Senior,COMP 182
+2342,Jose,Nelson,Junior,COMP 182 Lab
+2343,Mildred,Larson,Junior,CIT 101
+2344,Brandon,Garrett,Senior,CIT 101 Lab
+2345,Ashley,Hawkins,Freshman,COMP 182
+2346,Joyce,Little,Sophomore,COMP 182 Lab
+2347,Andrew,Montgomery,Senior,CIT 101
+2348,Diane,Anderson,Junior,CIT 101 Lab
+2349,Carolyn,Cooper,Sophomore,COMP 182
+2350,Shirley,Diaz,Senior,COMP 182 Lab
+2351,Jeremy,Burke,Junior,CIT 101
+2352,Tina,Martin,Junior,CIT 101 Lab
+2353,Gregory,Hunt,Senior,COMP 182
+2354,Brandon,Boyd,Freshman,COMP 182 Lab
+2355,Kathryn,Turner,Sophomore,CIT 101
+2356,Deborah,Nguyen,Senior,CIT 101 Lab
+2357,Joe,Olson,Junior,COMP 182
+2358,Samuel,Hicks,Sophomore,COMP 182 Lab
+2359,Aaron,Fowler,Senior,CIT 101
+2360,James,Butler,Junior,CIT 101 Lab
+2361,Pamela,Wilson,Junior,COMP 182
+2362,Jeremy,Nelson,Senior,COMP 182 Lab
+2363,Douglas,Woods,Freshman,CIT 101
+2364,Jack,Hanson,Sophomore,CIT 101 Lab
+2365,Beverly,Burns,Senior,COMP 182
+2366,Ralph,Nguyen,Junior,COMP 182 Lab
+2367,Kelly,Ortiz,Sophomore,CIT 101
+2368,Judy,Hughes,Senior,CIT 101 Lab
+2369,Eric,Hansen,Junior,COMP 182
+2370,Wayne,Jones,Junior,COMP 182 Lab
+2371,Sharon,Wilson,Senior,CIT 101
+2372,Nicholas,Ellis,Freshman,CIT 101 Lab
+2373,Tina,Ortiz,Sophomore,COMP 182
+2374,Helen,Fuller,Senior,COMP 182 Lab
+2375,Andrew,Howell,Junior,CIT 101
+2376,Linda,Austin,Sophomore,CIT 101 Lab
+2377,Evelyn,Fowler,Senior,COMP 182
+2378,Diana,Cooper,Junior,COMP 182 Lab
+2379,Juan,Holmes,Junior,CIT 101
+2380,Phyllis,Long,Senior,CIT 101 Lab
+2381,Annie,Watson,Freshman,COMP 182
+2382,Nicole,Stewart,Sophomore,COMP 182 Lab
+2383,Kenneth,Grant,Senior,CIT 101
+2384,Rebecca,Stanley,Junior,CIT 101 Lab
+2385,Eric,Hicks,Sophomore,COMP 182
+2386,Earl,Hernandez,Senior,COMP 182 Lab
+2387,Andrea,Nelson,Junior,CIT 101
+2388,Scott,Perez,Junior,CIT 101 Lab
+2389,George,Bell,Senior,COMP 182
+2390,Virginia,Marshall,Freshman,COMP 182 Lab
+2391,John,Boyd,Sophomore,CIT 101
+2392,Scott,Phillips,Senior,CIT 101 Lab
+2393,Johnny,Torres,Junior,COMP 182
+2394,Antonio,Ford,Sophomore,COMP 182 Lab
+2395,Janice,Banks,Senior,CIT 101
+2396,Willie,Long,Junior,CIT 101 Lab
+2397,Samuel,Alexander,Junior,COMP 182
+2398,Brandon,Simpson,Senior,COMP 182 Lab
+2399,Phyllis,Bryant,Freshman,CIT 101
+2400,Frances,Lane,Sophomore,CIT 101 Lab
+2401,Karen,Ellis,Senior,COMP 182
+2402,Jane,Nichols,Junior,COMP 182 Lab
+2403,Michelle,Nichols,Sophomore,CIT 101
+2404,Antonio,Hanson,Senior,CIT 101 Lab
+2405,Louis,Jenkins,Junior,COMP 182
+2406,Victor,Garrett,Junior,COMP 182 Lab
+2407,James,Webb,Senior,CIT 101
+2408,Jean,Myers,Freshman,CIT 101 Lab
+2409,Jose,Harvey,Sophomore,COMP 182
+2410,Wayne,Welch,Senior,COMP 182 Lab
+2411,Lois,Wagner,Junior,CIT 101
+2412,Julie,Peterson,Sophomore,CIT 101 Lab
+2413,Catherine,Williamson,Senior,COMP 182
+2414,Benjamin,Griffin,Junior,COMP 182 Lab
+2415,Kenneth,Bradley,Junior,CIT 101
+2416,Paula,Hanson,Senior,CIT 101 Lab
+2417,Michael,Hunter,Freshman,COMP 182
+2418,Albert,Stewart,Sophomore,COMP 182 Lab
+2419,Chris,Castillo,Senior,CIT 101
+2420,Kathleen,Campbell,Junior,CIT 101 Lab
+2421,Andrea,Ray,Sophomore,COMP 182
+2422,Terry,Welch,Senior,COMP 182 Lab
+2423,Aaron,Rose,Junior,CIT 101
+2424,Jean,Hunt,Junior,CIT 101 Lab
+2425,Stephanie,Patterson,Senior,COMP 182
+2426,Daniel,Day,Freshman,COMP 182 Lab
+2427,Jason,Daniels,Sophomore,CIT 101
+2428,Norma,Shaw,Senior,CIT 101 Lab
+2429,Wayne,Arnold,Junior,COMP 182
+2430,Phillip,Jackson,Sophomore,COMP 182 Lab
+2431,Douglas,Green,Senior,CIT 101
+2432,Sandra,Morris,Junior,CIT 101 Lab
+2433,Sara,Gutierrez,Junior,COMP 182
+2434,Mary,Ortiz,Senior,COMP 182 Lab
+2435,Patricia,Bell,Freshman,CIT 101
+2436,Jane,Bishop,Sophomore,CIT 101 Lab
+2437,Emily,Burke,Senior,COMP 182
+2438,Philip,Roberts,Junior,COMP 182 Lab
+2439,Sarah,Garza,Sophomore,CIT 101
+2440,Virginia,Nelson,Senior,CIT 101 Lab
+2441,Norma,Brooks,Junior,COMP 182
+2442,Christina,Rivera,Junior,COMP 182 Lab
+2443,Paula,Perkins,Senior,CIT 101
+2444,Randy,Moreno,Freshman,CIT 101 Lab
+2445,Sara,Mills,Sophomore,COMP 182
+2446,Judy,Porter,Senior,COMP 182 Lab
+2447,Benjamin,Allen,Junior,CIT 101
+2448,Joseph,Bryant,Sophomore,CIT 101 Lab
+2449,Susan,Wallace,Senior,COMP 182
+2450,Margaret,Diaz,Junior,COMP 182 Lab
+2451,Jean,Hanson,Junior,CIT 101
+2452,Linda,Burton,Senior,CIT 101 Lab
+2453,Phyllis,Murphy,Freshman,COMP 182
+2454,Debra,Stanley,Sophomore,COMP 182 Lab
+2455,Sharon,Kelley,Senior,CIT 101
+2456,Janet,Fisher,Junior,CIT 101 Lab
+2457,Sean,Reid,Sophomore,COMP 182
+2458,Patrick,Sullivan,Senior,COMP 182 Lab
+2459,Diane,Oliver,Junior,CIT 101
+2460,Keith,Black,Junior,CIT 101 Lab
+2461,Cynthia,Henderson,Senior,COMP 182
+2462,Kimberly,Larson,Freshman,COMP 182 Lab
+2463,Theresa,Thomas,Sophomore,CIT 101
+2464,Shawn,Robertson,Senior,CIT 101 Lab
+2465,Matthew,Hughes,Junior,COMP 182
+2466,Ann,James,Sophomore,COMP 182 Lab
+2467,Douglas,George,Senior,CIT 101
+2468,Julia,Matthews,Junior,CIT 101 Lab
+2469,Adam,Chavez,Junior,COMP 182
+2470,Patricia,Duncan,Senior,COMP 182 Lab
+2471,Diane,Peterson,Freshman,CIT 101
+2472,Jesse,Jones,Sophomore,CIT 101 Lab
+2473,Gregory,Andrews,Senior,COMP 182
+2474,Jacqueline,Baker,Junior,COMP 182 Lab
+2475,Steven,Rivera,Sophomore,CIT 101
+2476,Frank,Coleman,Senior,CIT 101 Lab
+2477,Willie,Palmer,Junior,COMP 182
+2478,Marie,Wagner,Junior,COMP 182 Lab
+2479,Bobby,Ramirez,Senior,CIT 101
+2480,Martin,Chavez,Freshman,CIT 101 Lab
+2481,Shirley,Turner,Sophomore,COMP 182
+2482,Ann,Nelson,Senior,COMP 182 Lab
+2483,Betty,Anderson,Junior,CIT 101
+2484,Louis,Schmidt,Sophomore,CIT 101 Lab
+2485,Louise,Henry,Senior,COMP 182
+2486,Scott,Reynolds,Junior,COMP 182 Lab
+2487,Kathy,King,Junior,CIT 101
+2488,Louise,Watson,Senior,CIT 101 Lab
+2489,Martha,Nguyen,Freshman,COMP 182
+2490,Rachel,Rice,Sophomore,COMP 182 Lab
+2491,Louise,Alvarez,Senior,CIT 101
+2492,Jeremy,Pierce,Junior,CIT 101 Lab
+2493,Margaret,Kennedy,Sophomore,COMP 182
+2494,Christina,Fernandez,Senior,COMP 182 Lab
+2495,Wayne,Carroll,Junior,CIT 101
+2496,Teresa,Jacobs,Junior,CIT 101 Lab
+2497,Anthony,Castillo,Senior,COMP 182
+2498,Carol,Hughes,Freshman,COMP 182 Lab
+2499,Terry,Dunn,Sophomore,CIT 101
+2500,Arthur,Mccoy,Senior,CIT 101 Lab
+2501,Julie,Franklin,Junior,COMP 182
+2502,Amy,Peterson,Sophomore,COMP 182 Lab
+2503,Gregory,Gilbert,Senior,CIT 101
+2504,Jean,Shaw,Junior,CIT 101 Lab
+2505,Michelle,Carter,Junior,COMP 182
+2506,Kathryn,Larson,Senior,COMP 182 Lab
+2507,Patrick,Snyder,Freshman,CIT 101
+2508,Ralph,Green,Sophomore,CIT 101 Lab
+2509,Marilyn,Cole,Senior,COMP 182
+2510,Maria,Lawrence,Junior,COMP 182 Lab
+2511,Sarah,Flores,Sophomore,CIT 101
+2512,Denise,Bishop,Senior,CIT 101 Lab
+2513,Richard,Bishop,Junior,COMP 182
+2514,Mark,King,Junior,COMP 182 Lab
+2515,Billy,Howard,Senior,CIT 101
+2516,Walter,Gilbert,Freshman,CIT 101 Lab
+2517,Lillian,Mitchell,Sophomore,COMP 182
+2518,Lawrence,Howell,Senior,COMP 182 Lab
+2519,Frank,Robinson,Junior,CIT 101
+2520,Roger,Boyd,Sophomore,CIT 101 Lab
+2521,John,Martin,Senior,COMP 182
+2522,Alice,Coleman,Junior,COMP 182 Lab
+2523,Jessica,Webb,Junior,CIT 101
+2524,Jeffrey,Ross,Senior,CIT 101 Lab
+2525,Jane,Nichols,Freshman,COMP 182
+2526,Walter,Long,Sophomore,COMP 182 Lab
+2527,Jonathan,Garrett,Senior,CIT 101
+2528,Kathy,Duncan,Junior,CIT 101 Lab
+2529,Carlos,Foster,Sophomore,COMP 182
+2530,Jimmy,Spencer,Senior,COMP 182 Lab
+2531,Andrea,Mendoza,Junior,CIT 101
+2532,Martha,Kelly,Junior,CIT 101 Lab
+2533,Kenneth,Woods,Senior,COMP 182
+2534,Margaret,Medina,Freshman,COMP 182 Lab
+2535,Susan,Vasquez,Sophomore,CIT 101
+2536,Lisa,Hamilton,Senior,CIT 101 Lab
+2537,Ruby,Oliver,Junior,COMP 182
+2538,Phillip,Thompson,Sophomore,COMP 182 Lab
+2539,Louis,Henderson,Senior,CIT 101
+2540,Robin,Hernandez,Junior,CIT 101 Lab
+2541,Jeremy,Hayes,Junior,COMP 182
+2542,Harry,Bennett,Senior,COMP 182 Lab
+2543,Patricia,Hansen,Freshman,CIT 101
+2544,Jacqueline,Watkins,Sophomore,CIT 101 Lab
+2545,Carlos,Bradley,Senior,COMP 182
+2546,Adam,Matthews,Junior,COMP 182 Lab
+2547,Juan,Andrews,Sophomore,CIT 101
+2548,Judith,Burke,Senior,CIT 101 Lab
+2549,Bobby,Gonzalez,Junior,COMP 182
+2550,Mary,Vasquez,Junior,COMP 182 Lab
+2551,Timothy,Phillips,Senior,CIT 101
+2552,Michael,Miller,Freshman,CIT 101 Lab
+2553,Stephen,Alvarez,Sophomore,COMP 182
+2554,Jessica,Hicks,Senior,COMP 182 Lab
+2555,Laura,Oliver,Junior,CIT 101
+2556,Lillian,Webb,Sophomore,CIT 101 Lab
+2557,Chris,Nichols,Senior,COMP 182
+2558,Jane,Mills,Junior,COMP 182 Lab
+2559,Kathy,Peterson,Junior,CIT 101
+2560,Nicholas,Moreno,Senior,CIT 101 Lab
+2561,Christina,Lane,Freshman,COMP 182
+2562,Angela,Stewart,Sophomore,COMP 182 Lab
+2563,Henry,Henry,Senior,CIT 101
+2564,Gregory,Foster,Junior,CIT 101 Lab
+2565,Janice,Jackson,Sophomore,COMP 182
+2566,Benjamin,Spencer,Senior,COMP 182 Lab
+2567,Clarence,Hall,Junior,CIT 101
+2568,Andrea,Freeman,Junior,CIT 101 Lab
+2569,Melissa,Kim,Senior,COMP 182
+2570,Tammy,George,Freshman,COMP 182 Lab
+2571,Ronald,Oliver,Sophomore,CIT 101
+2572,Diane,Ray,Senior,CIT 101 Lab
+2573,Jessica,Burton,Junior,COMP 182
+2574,Wanda,Ramirez,Sophomore,COMP 182 Lab
+2575,Robin,Morrison,Senior,CIT 101
+2576,Robert,Garza,Junior,CIT 101 Lab
+2577,Sarah,Johnson,Junior,COMP 182
+2578,Rachel,Watkins,Senior,COMP 182 Lab
+2579,Nicole,Elliott,Freshman,CIT 101
+2580,Maria,Cooper,Sophomore,CIT 101 Lab
+2581,Judith,Castillo,Senior,COMP 182
+2582,Willie,Gonzales,Junior,COMP 182 Lab
+2583,Sarah,Fuller,Sophomore,CIT 101
+2584,Stephanie,Carpenter,Senior,CIT 101 Lab
+2585,Willie,Warren,Junior,COMP 182
+2586,Jane,Cunningham,Junior,COMP 182 Lab
+2587,Edward,Richards,Senior,CIT 101
+2588,Christine,Roberts,Freshman,CIT 101 Lab
+2589,Patrick,Tucker,Sophomore,COMP 182
+2590,Jesse,Jones,Senior,COMP 182 Lab
+2591,Jennifer,Hunter,Junior,CIT 101
+2592,Edward,Peterson,Sophomore,CIT 101 Lab
+2593,Laura,Hart,Senior,COMP 182
+2594,Jesse,Lawrence,Junior,COMP 182 Lab
+2595,Katherine,Perkins,Junior,CIT 101
+2596,Denise,Henry,Senior,CIT 101 Lab
+2597,Frances,Cook,Freshman,COMP 182
+2598,Jeffrey,Watkins,Sophomore,COMP 182 Lab
+2599,Teresa,Bailey,Senior,CIT 101
+2600,Chris,Harris,Junior,CIT 101 Lab
+2601,Irene,Phillips,Sophomore,COMP 182
+2602,Adam,Evans,Senior,COMP 182 Lab
+2603,Jessica,Adams,Junior,CIT 101
+2604,Bonnie,Riley,Junior,CIT 101 Lab
+2605,Ann,Elliott,Senior,COMP 182
+2606,Cynthia,Murray,Freshman,COMP 182 Lab
+2607,Julia,Montgomery,Sophomore,CIT 101
+2608,Steve,Hill,Senior,CIT 101 Lab
+2609,Richard,Bowman,Junior,COMP 182
+2610,John,Ward,Sophomore,COMP 182 Lab
+2611,Carl,Hughes,Senior,CIT 101
+2612,Gerald,Harvey,Junior,CIT 101 Lab
+2613,Barbara,Austin,Junior,COMP 182
+2614,Charles,West,Senior,COMP 182 Lab
+2615,Amy,Lopez,Freshman,CIT 101
+2616,Kenneth,Wilson,Sophomore,CIT 101 Lab
+2617,Julie,Montgomery,Senior,COMP 182
+2618,Wayne,Pierce,Junior,COMP 182 Lab
+2619,Jane,Berry,Sophomore,CIT 101
+2620,Alice,Rose,Senior,CIT 101 Lab
+2621,Sarah,Morrison,Junior,COMP 182
+2622,Richard,Baker,Junior,COMP 182 Lab
+2623,Kathleen,Marshall,Senior,CIT 101
+2624,Chris,Gomez,Freshman,CIT 101 Lab
+2625,Jane,Pierce,Sophomore,COMP 182
+2626,Andrea,Day,Senior,COMP 182 Lab
+2627,Virginia,Kelly,Junior,CIT 101
+2628,Judith,Mcdonald,Sophomore,CIT 101 Lab
+2629,Brandon,Stone,Senior,COMP 182
+2630,Paul,Morrison,Junior,COMP 182 Lab
+2631,Eric,Warren,Junior,CIT 101
+2632,Elizabeth,Oliver,Senior,CIT 101 Lab
+2633,Thomas,Burke,Freshman,COMP 182
+2634,Juan,Mccoy,Sophomore,COMP 182 Lab
+2635,Paula,Jenkins,Senior,CIT 101
+2636,Christine,Lawson,Junior,CIT 101 Lab
+2637,Michelle,Gray,Sophomore,COMP 182
+2638,Henry,Burke,Senior,COMP 182 Lab
+2639,Evelyn,Brooks,Junior,CIT 101
+2640,Marie,Hansen,Junior,CIT 101 Lab
+2641,Aaron,Webb,Senior,COMP 182
+2642,Paul,Wallace,Freshman,COMP 182 Lab
+2643,Helen,Cruz,Sophomore,CIT 101
+2644,Christina,Martinez,Senior,CIT 101 Lab
+2645,Richard,Hawkins,Junior,COMP 182
+2646,Marie,Coleman,Sophomore,COMP 182 Lab
+2647,Christine,Stone,Senior,CIT 101
+2648,James,Gordon,Junior,CIT 101 Lab
+2649,Maria,Burns,Junior,COMP 182
+2650,Andrew,Vasquez,Senior,COMP 182 Lab
+2651,Roy,Chavez,Freshman,CIT 101
+2652,Joyce,Howard,Sophomore,CIT 101 Lab
+2653,Gregory,Warren,Senior,COMP 182
+2654,Christopher,Parker,Junior,COMP 182 Lab
+2655,Lois,Welch,Sophomore,CIT 101
+2656,Paula,Torres,Senior,CIT 101 Lab
+2657,Sara,Ward,Junior,COMP 182
+2658,Betty,Ray,Junior,COMP 182 Lab
+2659,Deborah,Moreno,Senior,CIT 101
+2660,Antonio,Simpson,Freshman,CIT 101 Lab
+2661,Jack,Daniels,Sophomore,COMP 182
+2662,Juan,Ruiz,Senior,COMP 182 Lab
+2663,Russell,Wood,Junior,CIT 101
+2664,Katherine,Campbell,Sophomore,CIT 101 Lab
+2665,Mary,Diaz,Senior,COMP 182
+2666,Denise,Riley,Junior,COMP 182 Lab
+2667,Nicole,Patterson,Junior,CIT 101
+2668,Bruce,Bailey,Senior,CIT 101 Lab
+2669,Marie,Hanson,Freshman,COMP 182
+2670,Earl,Martin,Sophomore,COMP 182 Lab
+2671,Clarence,Owens,Senior,CIT 101
+2672,Patricia,Hunter,Junior,CIT 101 Lab
+2673,Doris,Ortiz,Sophomore,COMP 182
+2674,William,Hill,Senior,COMP 182 Lab
+2675,Robert,Andrews,Junior,CIT 101
+2676,Jimmy,Long,Junior,CIT 101 Lab
+2677,Anna,Hall,Senior,COMP 182
+2678,Judy,Brooks,Freshman,COMP 182 Lab
+2679,Matthew,Gutierrez,Sophomore,CIT 101
+2680,Laura,Crawford,Senior,CIT 101 Lab
+2681,Carlos,Bennett,Junior,COMP 182
+2682,Susan,Alexander,Sophomore,COMP 182 Lab
+2683,Kathryn,Ray,Senior,CIT 101
+2684,Evelyn,Hawkins,Junior,CIT 101 Lab
+2685,Cheryl,Vasquez,Junior,COMP 182
+2686,Janet,Oliver,Senior,COMP 182 Lab
+2687,Paul,Mcdonald,Freshman,CIT 101
+2688,Richard,Kim,Sophomore,CIT 101 Lab
+2689,Angela,Gibson,Senior,COMP 182 Lab
+2690,Brandon,Bailey,Junior,CIT 101
+2691,Helen,Armstrong,Sophomore,CIT 101 Lab
+2692,Mary,Burton,Senior,COMP 182
+2693,Ruby,Shaw,Junior,COMP 182 Lab
+2694,Robin,Russell,Junior,CIT 101
+2695,Kelly,Peters,Senior,CIT 101 Lab
+2696,Sarah,Carr,Freshman,COMP 182
+2697,Jeffrey,George,Sophomore,COMP 182 Lab
+2698,Rachel,Hunt,Senior,CIT 101

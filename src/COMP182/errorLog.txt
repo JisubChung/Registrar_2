@@ -1,0 +1,264 @@
+Reason for Error, ------ Error causing student
+Missing field, Name of offender:  ------ Helen Black
+Student already enrolled in COMP 182 Lab ------ Jesse Adams
+Student already enrolled in CIT 101 ------ Steven Moreno
+Student already enrolled in CIT 101 Lab ------ Kenneth Duncan
+Student already enrolled in COMP 182 ------ Patrick Walker
+Student already enrolled in COMP 182 Lab ------ Theresa Woods
+Student already enrolled in CIT 101 ------ Michelle Moore
+Student already enrolled in CIT 101 Lab ------ Kenneth Robertson
+Student already enrolled in COMP 182 ------ Roy Weaver
+Student already enrolled in COMP 182 Lab ------ Arthur Ellis
+Student already enrolled in CIT 101 ------ Charles Moreno
+Student already enrolled in CIT 101 Lab ------ Marie Ramirez
+Student already enrolled in COMP 182 ------ John Andrews
+Student already enrolled in COMP 182 Lab ------ Sandra Ortiz
+Student already enrolled in CIT 101 ------ Kathryn Lopez
+Student already enrolled in CIT 101 Lab ------ Denise Dixon
+Student already enrolled in COMP 182 ------ Patrick Fields
+Student already enrolled in COMP 182 Lab ------ Carl Mitchell
+Student already enrolled in CIT 101 ------ Edward Sims
+Student already enrolled in CIT 101 Lab ------ Denise Davis
+Student already enrolled in COMP 182 ------ Roger Anderson
+Student already enrolled in COMP 182 Lab ------ Jesse Brown
+Student already enrolled in CIT 101 ------ Jonathan Thomas
+Student already enrolled in CIT 101 Lab ------ Kathryn Moreno
+Student already enrolled in COMP 182 ------ Jacqueline Medina
+Student already enrolled in COMP 182 Lab ------ Susan Hall
+Student already enrolled in CIT 101 ------ Nicole Jenkins
+Student already enrolled in CIT 101 Lab ------ Heather Payne
+Student already enrolled in COMP 182 ------ Frances Cunningham
+Student already enrolled in COMP 182 Lab ------ Wanda Wright
+Student already enrolled in CIT 101 ------ Jeremy Marshall
+Student already enrolled in CIT 101 Lab ------ Timothy Brooks
+Student already enrolled in COMP 182 ------ Wayne Butler
+Student already enrolled in COMP 182 Lab ------ Kelly Hernandez
+Student already enrolled in CIT 101 ------ Michael Duncan
+Student already enrolled in CIT 101 Lab ------ Harry Jordan
+Student already enrolled in COMP 182 ------ Christina Hamilton
+Student already enrolled in COMP 182 Lab ------ Sara Lawson
+Student already enrolled in CIT 101 ------ Elizabeth Day
+Student already enrolled in CIT 101 Lab ------ Gregory Green
+Student already enrolled in COMP 182 ------ Aaron Bell
+Student already enrolled in COMP 182 Lab ------ Gerald Dunn
+Student already enrolled in CIT 101 ------ Marilyn Wood
+Student already enrolled in CIT 101 Lab ------ Timothy Frazier
+Student already enrolled in COMP 182 ------ Eugene Jacobs
+Student already enrolled in COMP 182 Lab ------ Phyllis Thomas
+Student already enrolled in CIT 101 ------ Martin Peterson
+Student already enrolled in CIT 101 Lab ------ Teresa Kim
+Student already enrolled in COMP 182 ------ Frank Washington
+Student already enrolled in COMP 182 Lab ------ Bobby Collins
+Student already enrolled in CIT 101 ------ Benjamin Wagner
+Student already enrolled in CIT 101 Lab ------ Jennifer Dean
+Student already enrolled in COMP 182 ------ Doris Williamson
+Student already enrolled in COMP 182 Lab ------ Stephanie Lawrence
+Student already enrolled in CIT 101 ------ Debra Chavez
+Student already enrolled in CIT 101 Lab ------ Irene Ellis
+Student already enrolled in COMP 182 ------ Daniel Rivera
+Student already enrolled in COMP 182 Lab ------ Brenda Murphy
+Student already enrolled in CIT 101 ------ Lois Garcia
+Student already enrolled in CIT 101 Lab ------ Kimberly Young
+Student already enrolled in COMP 182 ------ Stephen Morales
+Student already enrolled in COMP 182 Lab ------ Richard Howard
+Student already enrolled in CIT 101 ------ Jessica Jones
+Student already enrolled in CIT 101 Lab ------ George Day
+Student already enrolled in COMP 182 ------ Cynthia Price
+Student already enrolled in COMP 182 Lab ------ Ralph Scott
+Student already enrolled in CIT 101 ------ Kimberly Spencer
+Student already enrolled in CIT 101 Lab ------ Rachel Romero
+Student already enrolled in COMP 182 ------ Douglas Nelson
+Student already enrolled in COMP 182 Lab ------ Ernest Brooks
+Student already enrolled in CIT 101 ------ Earl Fields
+Student already enrolled in CIT 101 Lab ------ Keith Reed
+Student already enrolled in COMP 182 ------ Rebecca Mccoy
+Student already enrolled in COMP 182 Lab ------ Jose Bryant
+Student already enrolled in CIT 101 ------ Ruth Russell
+Student already enrolled in CIT 101 Lab ------ Carl Hughes
+Student already enrolled in COMP 182 Lab ------ Bruce Powell
+Student already enrolled in CIT 101 ------ Matthew Reed
+Student already enrolled in CIT 101 Lab ------ Kathryn White
+Student already enrolled in COMP 182 ------ Diana Nguyen
+Student already enrolled in COMP 182 Lab ------ Linda Price
+Student already enrolled in CIT 101 ------ Richard Morris
+Student already enrolled in CIT 101 Lab ------ Patrick Scott
+Student already enrolled in COMP 182 ------ Lawrence Reed
+Student already enrolled in COMP 182 Lab ------ Keith Perkins
+Student already enrolled in CIT 101 ------ Paula Perkins
+Student already enrolled in CIT 101 Lab ------ Walter Owens
+Student already enrolled in COMP 182 ------ Albert Jenkins
+Student already enrolled in COMP 182 Lab ------ Sara Gilbert
+Student already enrolled in CIT 101 ------ Elizabeth Wells
+Student already enrolled in CIT 101 Lab ------ Wanda Campbell
+Student already enrolled in COMP 182 ------ Sandra Ward
+Student already enrolled in COMP 182 Lab ------ Lori Cunningham
+Student already enrolled in CIT 101 ------ Harry Perkins
+Student already enrolled in CIT 101 Lab ------ Jane Hudson
+Student already enrolled in COMP 182 ------ Amy Warren
+Student already enrolled in COMP 182 Lab ------ Janet Gibson
+Student already enrolled in CIT 101 ------ Margaret Fisher
+Student already enrolled in CIT 101 Lab ------ Nicole Riley
+Student already enrolled in COMP 182 ------ Janet Kelley
+Student already enrolled in COMP 182 Lab ------ Gloria Ross
+Student already enrolled in CIT 101 ------ Johnny Perry
+Student already enrolled in CIT 101 Lab ------ Pamela Ramirez
+Student already enrolled in COMP 182 ------ Ralph Garza
+Student already enrolled in COMP 182 Lab ------ Robin Garcia
+Student already enrolled in CIT 101 ------ Kimberly Davis
+Student already enrolled in CIT 101 Lab ------ Carl Dixon
+Student already enrolled in COMP 182 ------ Karen Willis
+Student already enrolled in COMP 182 Lab ------ Clarence Woods
+Student already enrolled in CIT 101 ------ Judy Brown
+Student already enrolled in CIT 101 Lab ------ Philip Rose
+Student already enrolled in COMP 182 ------ Marie Johnston
+Student already enrolled in COMP 182 Lab ------ Michelle Fisher
+Student already enrolled in CIT 101 ------ Patrick Stephens
+Student already enrolled in CIT 101 Lab ------ Harold Graham
+Student already enrolled in COMP 182 ------ Doris Lawrence
+Student already enrolled in COMP 182 Lab ------ Kathy Morgan
+Student already enrolled in CIT 101 ------ Kathryn Cole
+Student already enrolled in CIT 101 Lab ------ Steven Kim
+Student already enrolled in COMP 182 ------ Keith Bailey
+Student already enrolled in COMP 182 Lab ------ Margaret Wheeler
+Student already enrolled in CIT 101 ------ Keith Mitchell
+Student already enrolled in CIT 101 Lab ------ Eugene Butler
+Student already enrolled in COMP 182 ------ Denise Roberts
+Student already enrolled in COMP 182 Lab ------ Joan Franklin
+Student already enrolled in CIT 101 ------ Stephen Alexander
+Student already enrolled in CIT 101 Lab ------ Jeremy Thompson
+Student already enrolled in COMP 182 ------ Jennifer Chapman
+Student already enrolled in COMP 182 Lab ------ Jimmy Nichols
+Student already enrolled in CIT 101 ------ Howard King
+Student already enrolled in CIT 101 Lab ------ Shirley Wagner
+Student already enrolled in COMP 182 ------ Andrea Hayes
+Student already enrolled in COMP 182 Lab ------ Brian Bennett
+Student already enrolled in CIT 101 ------ Nancy Hill
+Student already enrolled in CIT 101 Lab ------ Roy Scott
+Student already enrolled in COMP 182 ------ Justin Gutierrez
+Student already enrolled in COMP 182 Lab ------ Kevin Grant
+Student already enrolled in CIT 101 ------ Pamela West
+Student already enrolled in CIT 101 Lab ------ Steven Henry
+Student already enrolled in COMP 182 ------ Donna Ryan
+Student already enrolled in COMP 182 Lab ------ Roy Rivera
+Student already enrolled in CIT 101 ------ Diane Cook
+Student already enrolled in CIT 101 Lab ------ Janet Jacobs
+Student already enrolled in COMP 182 ------ Virginia Henry
+Student already enrolled in COMP 182 Lab ------ Eric Lawson
+Student already enrolled in CIT 101 ------ Howard Welch
+Student already enrolled in CIT 101 Lab ------ Catherine Bennett
+Student already enrolled in COMP 182 ------ Matthew King
+Student already enrolled in COMP 182 Lab ------ Debra Burke
+Student already enrolled in CIT 101 ------ Bonnie Moore
+Student already enrolled in CIT 101 Lab ------ Terry Day
+Student already enrolled in COMP 182 Lab ------ Russell Ortiz
+Student already enrolled in CIT 101 ------ Jerry Perkins
+Student already enrolled in CIT 101 Lab ------ Robin James
+Student already enrolled in COMP 182 ------ Angela Ramirez
+Student already enrolled in COMP 182 Lab ------ Paula Price
+Student already enrolled in CIT 101 ------ Andrea Evans
+Student already enrolled in CIT 101 Lab ------ Katherine Carroll
+Student already enrolled in COMP 182 ------ Laura Sims
+Student already enrolled in COMP 182 Lab ------ Carlos Foster
+Student already enrolled in CIT 101 ------ Shirley Willis
+Student already enrolled in CIT 101 Lab ------ Chris Weaver
+Student already enrolled in COMP 182 ------ Alice Washington
+Student already enrolled in COMP 182 Lab ------ Edward Lawrence
+Student already enrolled in CIT 101 ------ Theresa Johnson
+Student already enrolled in CIT 101 Lab ------ Maria Mendoza
+Student already enrolled in COMP 182 ------ Ashley Perkins
+Student already enrolled in COMP 182 Lab ------ Patricia Kelley
+Student already enrolled in CIT 101 ------ Maria Hansen
+Student already enrolled in CIT 101 Lab ------ Brian Hansen
+Student already enrolled in COMP 182 ------ Christopher Larson
+Student already enrolled in COMP 182 Lab ------ Deborah Rose
+Student already enrolled in CIT 101 ------ Andrew Ford
+Student already enrolled in CIT 101 Lab ------ Joshua Fisher
+Student already enrolled in COMP 182 ------ Margaret Vasquez
+Student already enrolled in COMP 182 Lab ------ Dorothy Bishop
+Student already enrolled in CIT 101 ------ Debra Ramos
+Student already enrolled in CIT 101 Lab ------ Peter Cook
+Student already enrolled in COMP 182 ------ Juan Snyder
+Student already enrolled in COMP 182 Lab ------ Eric Powell
+Student already enrolled in CIT 101 ------ Jason Black
+Student already enrolled in CIT 101 Lab ------ Cheryl Fernandez
+Student already enrolled in COMP 182 ------ Catherine Snyder
+Student already enrolled in COMP 182 Lab ------ Earl Peterson
+Student already enrolled in CIT 101 ------ Kathryn Greene
+Student already enrolled in CIT 101 Lab ------ Louis Johnston
+Student already enrolled in COMP 182 ------ Nicole Porter
+Student already enrolled in COMP 182 Lab ------ Rachel Owens
+Student already enrolled in CIT 101 ------ Michael Ortiz
+Student already enrolled in CIT 101 Lab ------ Amy Tucker
+Student already enrolled in COMP 182 ------ Howard Boyd
+Student already enrolled in COMP 182 Lab ------ Louise Lewis
+Student already enrolled in CIT 101 ------ Jane Bishop
+Student already enrolled in CIT 101 Lab ------ Sharon Ellis
+Student already enrolled in COMP 182 ------ Shawn Gordon
+Student already enrolled in COMP 182 Lab ------ Sara Payne
+Student already enrolled in CIT 101 ------ Louis Campbell
+Student already enrolled in CIT 101 Lab ------ Jesse Shaw
+Student already enrolled in COMP 182 ------ Carlos Turner
+Student already enrolled in COMP 182 Lab ------ Carol Carr
+Student already enrolled in CIT 101 ------ Carol Hart
+Student already enrolled in CIT 101 Lab ------ Lillian Walker
+Student already enrolled in COMP 182 ------ Jean Morales
+Student already enrolled in COMP 182 Lab ------ Jean Crawford
+Student already enrolled in CIT 101 ------ Marilyn Burns
+Student already enrolled in CIT 101 Lab ------ Anne Bishop
+Student already enrolled in COMP 182 ------ Anne Jenkins
+Student already enrolled in COMP 182 Lab ------ Betty Gomez
+Student already enrolled in CIT 101 ------ Kimberly Mendoza
+Student already enrolled in CIT 101 Lab ------ Christopher Arnold
+Student already enrolled in COMP 182 ------ Antonio Harris
+Student already enrolled in COMP 182 Lab ------ Chris Harvey
+Student already enrolled in CIT 101 ------ Brian Harvey
+Student already enrolled in CIT 101 Lab ------ Joyce Mills
+Student already enrolled in COMP 182 ------ Rebecca West
+Student already enrolled in COMP 182 Lab ------ Juan Griffin
+Student already enrolled in CIT 101 ------ Gerald Reynolds
+Student already enrolled in CIT 101 Lab ------ George Romero
+Student already enrolled in COMP 182 ------ Ruth Hanson
+Student already enrolled in COMP 182 Lab ------ Sharon Little
+Student already enrolled in CIT 101 ------ Alan Austin
+Student already enrolled in CIT 101 Lab ------ Marilyn Moreno
+Student already enrolled in COMP 182 ------ Kelly Watkins
+Student already enrolled in COMP 182 Lab ------ Douglas Kelley
+Student already enrolled in CIT 101 ------ Mildred Scott
+Student already enrolled in CIT 101 Lab ------ Joshua Palmer
+Student already enrolled in COMP 182 Lab ------ Joyce Davis
+Student already enrolled in CIT 101 ------ Melissa West
+Student already enrolled in CIT 101 Lab ------ Tammy Gomez
+Student already enrolled in COMP 182 ------ Norma Perry
+Student already enrolled in COMP 182 Lab ------ Sandra Greene
+Student already enrolled in CIT 101 ------ Janice Olson
+Student already enrolled in CIT 101 Lab ------ Kathy West
+Student already enrolled in COMP 182 ------ Kathy Gardner
+Student already enrolled in COMP 182 Lab ------ Karen Williams
+Student already enrolled in CIT 101 ------ Adam Howard
+Student already enrolled in CIT 101 Lab ------ Maria Hawkins
+Student already enrolled in COMP 182 ------ Sarah Harper
+Student already enrolled in COMP 182 Lab ------ Fred Riley
+Student already enrolled in CIT 101 ------ Samuel Long
+Student already enrolled in CIT 101 Lab ------ Amanda Bryant
+Student already enrolled in COMP 182 ------ Rachel Miller
+Student already enrolled in COMP 182 Lab ------ Nicholas Armstrong
+Student already enrolled in CIT 101 ------ Larry Gomez
+Student already enrolled in CIT 101 Lab ------ Henry Hansen
+Student already enrolled in COMP 182 ------ Beverly Wood
+Student already enrolled in COMP 182 Lab ------ Matthew Banks
+Student already enrolled in CIT 101 ------ Sharon Knight
+Student already enrolled in CIT 101 Lab ------ Juan Rice
+Student already enrolled in COMP 182 ------ Anthony Rodriguez
+Student already enrolled in COMP 182 Lab ------ Adam Franklin
+Student already enrolled in CIT 101 ------ Janice Morgan
+Student already enrolled in CIT 101 Lab ------ Willie Patterson
+Student already enrolled in COMP 182 ------ Paula Parker
+Student already enrolled in COMP 182 Lab ------ Evelyn Kim
+Student already enrolled in CIT 101 ------ Melissa Taylor
+Student already enrolled in CIT 101 Lab ------ Heather Brooks
+Student already enrolled in COMP 182 ------ Gloria Castillo
+Student already enrolled in COMP 182 Lab ------ Joshua Hicks
+Student already enrolled in CIT 101 ------ Michelle Kelley
+Student already enrolled in CIT 101 Lab ------ Christopher Fisher
+Student already enrolled in COMP 182 ------ David Myers
+Student already enrolled in COMP 182 Lab ------ Mary Clark
